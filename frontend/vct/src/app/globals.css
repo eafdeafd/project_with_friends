@@ -33,3 +33,53 @@ body {
   }
 }
 
+
+/* Home Page */
+
+.home-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.chatbox {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  height: 400px;
+  width: 100%; 
+  max-width: 800px;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.textbox-container {
+  display: flex;
+}
+
+.input-box {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  color: black;
+}
+
+.send-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: red; 
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+
