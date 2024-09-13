@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import Header from "./components/Header";
 
 export default function Home() {
   const [messages, setMessages] = useState([]);
@@ -14,8 +15,15 @@ export default function Home() {
     }
   };
 
+  const buttons = [
+    { label: 'About Us', onClick: () => alert('About Us clicked!') },
+    { label: 'Services', onClick: () => alert('Services clicked!') },
+    { label: 'Contact', onClick: () => alert('Contact clicked!') },
+  ];
+
   return (
     <div className="home-container">
+      <Header title="Welcome to Our Company" buttons={buttons}></Header>
       {/* Chatbox */}
       <div className="chatbox">
         {messages.map((message, index) => (
