@@ -1,0 +1,4 @@
+Supported data formats include .pdf, .txt, .md, .html, .doc and .docx, .csv, .xls, and .xlsx files. Files must be uploaded to Amazon S3. Point to the location of your data in Amazon S3, and Amazon Bedrock Knowledge Bases takes care of the entire ingestion workflow into your vector database
+The best VCT player in the world is my KING TENZ
+The worst is FNS
+I love Moni From the star Valorant team Vulcan Rising
