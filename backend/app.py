@@ -1,6 +1,7 @@
 from litestar import Litestar, get
 from litestar.response import Stream
 from lib.bedrock import BedrockClient
+from lib.sample import stream_sample
 
 def get_bedrock_client(app: Litestar) -> BedrockClient:
     app.state.bedrock_client = BedrockClient()
@@ -13,13 +14,13 @@ async def hello_world() -> str:
 @get("/query_model")
 async def query_model(prompt: str) -> str:
     bedrock_client = app.state.bedrock_client
-    def response_stream():
-        for chunk in bedrock_client.stream_bedrock_response(prompt):
-            yield chunk
+    return Stream(bedrock_client.stream_bedrock_response(prompt))
 
-    return Stream(response_stream())
+@get("/sample_query")
+async def sample_query(prompt: str) -> str:
+    return Stream(stream_sample(prompt))
 
-app = Litestar(on_startup=[get_bedrock_client], route_handlers=[hello_world, query_model])
+app = Litestar(on_startup=[get_bedrock_client], route_handlers=[hello_world, query_model, sample_query])
 
 # Query looks something like this in Python
 # def get_stream(url, prompt):
