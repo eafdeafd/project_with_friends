@@ -1,0 +1,247 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "rank": "1",
+            "team": "Gen.G",
+            "country": "South Korea",
+            "last_played": "39d ago",
+            "last_played_team": "vs. Sentinels",
+            "last_played_team_logo": "//owcdn.net/img/62875027c8e06.png",
+            "record": "23–9",
+            "earnings": "$585,000",
+            "logo": "//owcdn.net/img/654cc858ea9f5.png"
+        },
+        {
+            "rank": "2",
+            "team": "DRX",
+            "country": "South Korea",
+            "last_played": "31d ago",
+            "last_played_team": "vs. Team Heretics",
+            "last_played_team_logo": "//owcdn.net/img/637b755224c12.png",
+            "record": "13–8",
+            "earnings": "$812,171",
+            "logo": "//owcdn.net/img/63b17abd77fc0.png"
+        },
+        {
+            "rank": "3",
+            "team": "T1",
+            "country": "South Korea",
+            "last_played": "72d ago",
+            "last_played_team": "vs. BLEED",
+            "last_played_team_logo": "//owcdn.net/img/662f72ad88211.png",
+            "record": "6–10",
+            "earnings": "$128,371",
+            "logo": "//owcdn.net/img/62fe0b8f6b084.png"
+        },
+        {
+            "rank": "4",
+            "team": "Sin Prisa Gaming",
+            "country": "South Korea",
+            "last_played": "53d ago",
+            "last_played_team": "vs. N",
+            "last_played_team_logo": "//owcdn.net/img/6399bb707aacb.png",
+            "record": "11–0",
+            "earnings": "$20,496",
+            "logo": "//owcdn.net/img/657fe21283fda.png"
+        },
+        {
+            "rank": "5",
+            "team": "Nongshim RedForce",
+            "country": "South Korea",
+            "last_played": "53d ago",
+            "last_played_team": "vs. Sin Prisa Gaming",
+            "last_played_team_logo": "//owcdn.net/img/657fe21283fda.png",
+            "record": "13–8",
+            "earnings": "$18,501",
+            "logo": "//owcdn.net/img/6399bb707aacb.png"
+        },
+        {
+            "rank": "6",
+            "team": "Dplus Esports",
+            "country": "South Korea",
+            "last_played": "56d ago",
+            "last_played_team": "vs. N",
+            "last_played_team_logo": "//owcdn.net/img/6399bb707aacb.png",
+            "record": "11–8",
+            "earnings": "$12,586",
+            "logo": "//owcdn.net/img/63bbe4f904433.png"
+        },
+        {
+            "rank": "7",
+            "team": "Blater",
+            "country": "South Korea",
+            "last_played": "245d ago",
+            "last_played_team": "vs. W",
+            "last_played_team_logo": "//owcdn.net/img/629d978f8c5d1.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "8",
+            "team": "CNJ Esports",
+            "country": "South Korea",
+            "last_played": "244d ago",
+            "last_played_team": "vs. 골판지 전사",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/61ffa2bad3de7.png"
+        },
+        {
+            "rank": "9",
+            "team": "OLY",
+            "country": "South Korea",
+            "last_played": "244d ago",
+            "last_played_team": "vs. ReturN",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "10",
+            "team": "Frozen 3",
+            "country": "South Korea",
+            "last_played": "244d ago",
+            "last_played_team": "vs. Sin Prisa Gaming",
+            "last_played_team_logo": "//owcdn.net/img/657fe21283fda.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/65bbe9c3793f2.png"
+        },
+        {
+            "rank": "11",
+            "team": "Beyond Stratos Gaming",
+            "country": "South Korea",
+            "last_played": "244d ago",
+            "last_played_team": "vs. CNJ Esp",
+            "last_played_team_logo": "//owcdn.net/img/61ffa2bad3de7.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "12",
+            "team": "Nuclear",
+            "country": "South Korea",
+            "last_played": "245d ago",
+            "last_played_team": "vs. N",
+            "last_played_team_logo": "//owcdn.net/img/6399bb707aacb.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "13",
+            "team": "YnC",
+            "country": "South Korea",
+            "last_played": "245d ago",
+            "last_played_team": "vs.",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "14",
+            "team": "ReturN",
+            "country": "South Korea",
+            "last_played": "244d ago",
+            "last_played_team": "vs. IAM",
+            "last_played_team_logo": "//owcdn.net/img/65cb17cb74c3a.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "15",
+            "team": "Incheon On Sla2ers",
+            "country": "South Korea",
+            "last_played": "135d ago",
+            "last_played_team": "vs. Sin Prisa Gaming",
+            "last_played_team_logo": "//owcdn.net/img/657fe21283fda.png",
+            "record": "0–1",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6427db3948e5a.png"
+        },
+        {
+            "rank": "16",
+            "team": "FearX",
+            "country": "South Korea",
+            "last_played": "76d ago",
+            "last_played_team": "vs. IAM",
+            "last_played_team_logo": "//owcdn.net/img/65cb17cb74c3a.png",
+            "record": "6–9",
+            "earnings": "$20,374",
+            "logo": "//owcdn.net/img/65a77a9c64fa1.png"
+        },
+        {
+            "rank": "17",
+            "team": "Team LuZi",
+            "country": "South Korea",
+            "last_played": "245d ago",
+            "last_played_team": "vs. MS",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$419",
+            "logo": ""
+        },
+        {
+            "rank": "18",
+            "team": "IAM",
+            "country": "South Korea",
+            "last_played": "63d ago",
+            "last_played_team": "vs. SLT Se",
+            "last_played_team_logo": "//owcdn.net/img/641d8f2b943ee.png",
+            "record": "7–10",
+            "earnings": "$7,428",
+            "logo": "//owcdn.net/img/65cb17cb74c3a.png"
+        },
+        {
+            "rank": "19",
+            "team": "MS",
+            "country": "South Korea",
+            "last_played": "245d ago",
+            "last_played_team": "vs. Bey",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "20",
+            "team": "Maru Gaming",
+            "country": "South Korea",
+            "last_played": "135d ago",
+            "last_played_team": "vs. fOu Clan",
+            "last_played_team_logo": "//owcdn.net/img/6638ba8629857.png",
+            "record": "2–4",
+            "earnings": "$2,270",
+            "logo": "//owcdn.net/img/61ffa4ef984cf.png"
+        },
+        {
+            "rank": "21",
+            "team": "SUPERFECT Esports",
+            "country": "South Korea",
+            "last_played": "37d ago",
+            "last_played_team": "vs. Igniti",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "3–6",
+            "earnings": "$2,187",
+            "logo": "//owcdn.net/img/666163db7d879.png"
+        },
+        {
+            "rank": "22",
+            "team": "VEC DAEJEON",
+            "country": "South Korea",
+            "last_played": "63d ago",
+            "last_played_team": "vs. N",
+            "last_played_team_logo": "//owcdn.net/img/6399bb707aacb.png",
+            "record": "4–12",
+            "earnings": "$7,428",
+            "logo": "//owcdn.net/img/664dd3cc924e2.png"
+        }
+    ]
+}

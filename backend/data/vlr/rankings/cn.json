@@ -1,0 +1,291 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "rank": "1",
+            "team": "EDward Gaming",
+            "country": "China",
+            "last_played": "24d ago",
+            "last_played_team": "vs. Team Heretics",
+            "last_played_team_logo": "//owcdn.net/img/637b755224c12.png",
+            "record": "20–9",
+            "earnings": "$1,260,689",
+            "logo": "//owcdn.net/img/62c82049253b2.png"
+        },
+        {
+            "rank": "2",
+            "team": "Trace Esports",
+            "country": "China",
+            "last_played": "33d ago",
+            "last_played_team": "vs. DRX",
+            "last_played_team_logo": "//owcdn.net/img/63b17abd77fc0.png",
+            "record": "12–9",
+            "earnings": "$66,527",
+            "logo": "//owcdn.net/img/6433a2cc3ae72.png"
+        },
+        {
+            "rank": "3",
+            "team": "FunPlus Phoenix",
+            "country": "China",
+            "last_played": "41d ago",
+            "last_played_team": "vs. Sentinels",
+            "last_played_team_logo": "//owcdn.net/img/62875027c8e06.png",
+            "record": "12–12",
+            "earnings": "$93,956",
+            "logo": "//owcdn.net/img/65a17b313b131.png"
+        },
+        {
+            "rank": "4",
+            "team": "JDG Esports",
+            "country": "China",
+            "last_played": "64d ago",
+            "last_played_team": "vs. Bilibili Gaming",
+            "last_played_team_logo": "//owcdn.net/img/63f25d72216c1.png",
+            "record": "5–6",
+            "earnings": "$22,636",
+            "logo": "//owcdn.net/img/64f9825408326.png"
+        },
+        {
+            "rank": "5",
+            "team": "Bilibili Gaming",
+            "country": "China",
+            "last_played": "41d ago",
+            "last_played_team": "vs. KRÜ Esp",
+            "last_played_team_logo": "//owcdn.net/img/63976677069e1.png",
+            "record": "6–9",
+            "earnings": "$74,124",
+            "logo": "//owcdn.net/img/63f25d72216c1.png"
+        },
+        {
+            "rank": "6",
+            "team": "Dragon Ranger Gaming",
+            "country": "China",
+            "last_played": "75d ago",
+            "last_played_team": "vs. W",
+            "last_played_team_logo": "//owcdn.net/img/651d33f8e6a1f.png",
+            "record": "6–10",
+            "earnings": "$17,131",
+            "logo": "//owcdn.net/img/642233fc01f26.png"
+        },
+        {
+            "rank": "7",
+            "team": "Xi Lai Gaming",
+            "country": "China",
+            "last_played": "17h ago",
+            "last_played_team": "vs. Ch",
+            "last_played_team_logo": "//owcdn.net/img/651d2ecf7605a.png",
+            "record": "5–1",
+            "earnings": "$27,471",
+            "logo": "//owcdn.net/img/651d363b64bd3.png"
+        },
+        {
+            "rank": "8",
+            "team": "Wolves Esports",
+            "country": "China",
+            "last_played": "75d ago",
+            "last_played_team": "vs. Drag",
+            "last_played_team_logo": "//owcdn.net/img/642233fc01f26.png",
+            "record": "4–6",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/651d33f8e6a1f.png"
+        },
+        {
+            "rank": "9",
+            "team": "TYLOO",
+            "country": "China",
+            "last_played": "73d ago",
+            "last_played_team": "vs. FunPlus Ph",
+            "last_played_team_logo": "//owcdn.net/img/65a17b313b131.png",
+            "record": "4–6",
+            "earnings": "$2,616",
+            "logo": "//owcdn.net/img/63eb60fb08390.png"
+        },
+        {
+            "rank": "10",
+            "team": "KeepBest Gaming",
+            "country": "China",
+            "last_played": "3d ago",
+            "last_played_team": "vs. Ambiti",
+            "last_played_team_logo": "//owcdn.net/img/66afb234af337.png",
+            "record": "4–2",
+            "earnings": "$11,402",
+            "logo": "//owcdn.net/img/64461a1131da5.png"
+        },
+        {
+            "rank": "11",
+            "team": "Chao Hui EDward Gaming",
+            "country": "China",
+            "last_played": "327d ago",
+            "last_played_team": "vs. Ch",
+            "last_played_team_logo": "//owcdn.net/img/651d2ecf7605a.png",
+            "record": "0–0",
+            "earnings": "$20,484",
+            "logo": "//owcdn.net/img/6530818910b9e.png"
+        },
+        {
+            "rank": "12",
+            "team": "All Gamers",
+            "country": "China",
+            "last_played": "64d ago",
+            "last_played_team": "vs. Trace Esp",
+            "last_played_team_logo": "//owcdn.net/img/6433a2cc3ae72.png",
+            "record": "5–7",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/6549c2b905061.png"
+        },
+        {
+            "rank": "13",
+            "team": "Nova Esports",
+            "country": "China",
+            "last_played": "80d ago",
+            "last_played_team": "vs. EDward Gaming",
+            "last_played_team_logo": "//owcdn.net/img/62c82049253b2.png",
+            "record": "4–7",
+            "earnings": "$682",
+            "logo": "//owcdn.net/img/6404c0174250b.png"
+        },
+        {
+            "rank": "14",
+            "team": "OD Gaming",
+            "country": "China",
+            "last_played": "488d ago",
+            "last_played_team": "vs. Invincible Gaming",
+            "last_played_team_logo": "//owcdn.net/img/60d2693b8f4cf.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "15",
+            "team": "Weibo Gaming",
+            "country": "China",
+            "last_played": "321d ago",
+            "last_played_team": "vs. TOP Esp",
+            "last_played_team_logo": "//owcdn.net/img/64f57e9bb00b5.png",
+            "record": "0–0",
+            "earnings": "$1,296",
+            "logo": "//owcdn.net/img/62232bd14e5d7.png"
+        },
+        {
+            "rank": "16",
+            "team": "Titan Esports Club",
+            "country": "China",
+            "last_played": "74d ago",
+            "last_played_team": "vs. Trace Esp",
+            "last_played_team_logo": "//owcdn.net/img/6433a2cc3ae72.png",
+            "record": "3–7",
+            "earnings": "$1,640",
+            "logo": "//owcdn.net/img/65487414b8562.png"
+        },
+        {
+            "rank": "17",
+            "team": "Ambitious Legend Gaming",
+            "country": "China",
+            "last_played": "18h ago",
+            "last_played_team": "vs. Rare At",
+            "last_played_team_logo": "//owcdn.net/img/63eb5aa842f05.png",
+            "record": "2–3",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/66afb234af337.png"
+        },
+        {
+            "rank": "18",
+            "team": "Regans Gaming",
+            "country": "China",
+            "last_played": "314d ago",
+            "last_played_team": "vs. Titan Esp",
+            "last_played_team_logo": "//owcdn.net/img/65487414b8562.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/64f87fdb84a39.png"
+        },
+        {
+            "rank": "19",
+            "team": "Douyu Gaming",
+            "country": "China",
+            "last_played": "313d ago",
+            "last_played_team": "vs. R",
+            "last_played_team_logo": "//owcdn.net/img/63eb523921a3e.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63f2618ba8574.png"
+        },
+        {
+            "rank": "20",
+            "team": "Invictus Gaming",
+            "country": "China",
+            "last_played": "488d ago",
+            "last_played_team": "vs. N",
+            "last_played_team_logo": "//owcdn.net/img/6404c0174250b.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63f2578bacdd1.png"
+        },
+        {
+            "rank": "21",
+            "team": "Kingzone",
+            "country": "China",
+            "last_played": "470d ago",
+            "last_played_team": "vs. F",
+            "last_played_team_logo": "//owcdn.net/img/63eb546aaf548.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63eb5b7da623b.png"
+        },
+        {
+            "rank": "22",
+            "team": "Night Wings Gaming",
+            "country": "China",
+            "last_played": "268d ago",
+            "last_played_team": "vs. Ninjas In Pyjamas",
+            "last_played_team_logo": "//owcdn.net/img/62b947039ec5e.png",
+            "record": "0–0",
+            "earnings": "$819",
+            "logo": "//owcdn.net/img/6548758279b91.png"
+        },
+        {
+            "rank": "23",
+            "team": "Invincible Gaming",
+            "country": "China",
+            "last_played": "346d ago",
+            "last_played_team": "vs. Drag",
+            "last_played_team_logo": "//owcdn.net/img/642233fc01f26.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/60d2693b8f4cf.png"
+        },
+        {
+            "rank": "24",
+            "team": "NewHappy Esports",
+            "country": "China",
+            "last_played": "490d ago",
+            "last_played_team": "vs. OD Gaming",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/640722a56e28f.png"
+        },
+        {
+            "rank": "25",
+            "team": "KunPeng Gaming",
+            "country": "China",
+            "last_played": "511d ago",
+            "last_played_team": "vs. Kingz",
+            "last_played_team_logo": "//owcdn.net/img/63eb5b7da623b.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63f2619de6ee1.png"
+        },
+        {
+            "rank": "26",
+            "team": "TJD Esports Club",
+            "country": "China",
+            "last_played": "491d ago",
+            "last_played_team": "vs. JiJieHa",
+            "last_played_team_logo": "//owcdn.net/img/642afe112f136.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/640721d933a5d.png"
+        }
+    ]
+}
