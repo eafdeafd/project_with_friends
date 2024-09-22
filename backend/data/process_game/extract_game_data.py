@@ -2,6 +2,8 @@ from enum import StrEnum
 import orjson as json
 from typing import Dict
 from game_data_schema import *
+import os
+import glob
 
 class GamePhase(StrEnum):
     NOT_STARTED = "NOT_STARTED"
@@ -152,13 +154,45 @@ class GameParser:
             if sum(living_winners) == 1:
                 winning_team.players[living_winners.index(True)].clutches += 1
 
-        
-if __name__ == "__main__":
-    with open(f"{Path(__file__).parent.parent}/vct-international/games/2024/val_5ab6a02f-b9ca-4797-b37f-214487576556.json", 'r') as game_data_file:
-        data = json.loads(game_data_file.read())
 
+
+def process_file(file_path, league):
+    with open(file_path, 'r') as f:
+        data = json.loads(f.read())
+    
     game_data = GameParser()
     game_data.extract_game(data)
     
-    # with open(f"{Path(__file__).parent}/extracted_game_data/val_5ab6a02f-b9ca-4797-b37f-214487576556_extract.json", "w") as game_data_file:
-    #     game_data_file.write(game_data.game.model_dump_json(indent=2))
+    year = file_path.split('/')[-3]  
+    output_dir = os.path.join('extracted_games', league, year)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    original_filename = os.path.basename(file_path)
+    output_filename = f"{os.path.splitext(original_filename)[0]}_extract.json"
+    output_path = os.path.join(output_dir, output_filename)
+    
+    with open(output_path, 'w') as f:
+        f.write(game_data.game.model_dump_json(indent=2))
+    
+    print(f"Processed game to {output_path}")
+
+if __name__ == "__main__":
+    leagues = ['vct-international', 'game-changers', 'vct-challengers']
+    years = ['2022', '2024', '2023']
+    
+    for league in leagues:
+        for year in years:
+            base_path = f'{league}/games/{year}'
+            if os.path.exists(base_path):
+                names = glob.glob(base_path + '/*.json')
+                percentage_failed = 0
+                for name in names:
+                    try:
+                        process_file(name, league)
+                    except KeyError or IndexError as e:
+                        print(e)
+                        percentage_failed += 1
+                print((percentage_failed/len(names)))
+                exit()
+            else:
+                print(f"Path does not exist: {base_path}")
