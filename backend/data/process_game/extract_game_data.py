@@ -109,7 +109,10 @@ class GameParser:
                 
                 if "damageEvent" in segment:
                     attacker = self.players[segment["damageEvent"]["causerId"]["value"]]
-                    attacker.rounds[-1].damage += segment["damageEvent"]["damageDealt"]
+                    if "damageDealt" in segment["damageEvent"]:
+                        attacker.rounds[-1].damage += segment["damageEvent"]["damageDealt"]
+                    else:
+                        attacker.rounds[-1].damage += segment["damageEvent"]["damageAmount"]
 
                 if "playerDied" in segment:
                     if not self.first_blood:

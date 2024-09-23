@@ -106,7 +106,7 @@ class PlayerRound(BaseModel):
     alive: bool = False
     primary: Weapon = Weapon.UNKNOWN
     secondary: Weapon = Weapon.UNKNOWN
-    armor: int = -1
+    armor: float = -1
     damage: float = 0.
     kills: int = -1
     deaths: int = -1
