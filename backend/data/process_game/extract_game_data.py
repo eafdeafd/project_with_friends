@@ -43,7 +43,12 @@ class GameParser:
     def extract_game(self, data: dict):
         self.game.id = data[0]["metadata"]["gameId"]["value"]
         for segment in data:
-            self.phase = GamePhase(segment["metadata"]["currentGamePhase"]["phase"])
+            if "currentGamePhase" in segment["metadata"]:
+                self.phase = GamePhase(segment["metadata"]["currentGamePhase"]["phase"])
+            else:
+                if "gamePhase" in segment:
+                    self.phase = GamePhase(segment["gamePhase"]["phase"])
+
             if self.phase == GamePhase.NOT_STARTED:
                 if "snapshot" in segment:
                     continue
