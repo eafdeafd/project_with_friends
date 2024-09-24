@@ -1,0 +1,93 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "rank": "1",
+            "team": "RETA Esports",
+            "country": "Chile",
+            "last_played": "3d ago",
+            "last_played_team": "vs. Gal",
+            "last_played_team_logo": "//owcdn.net/img/65c8a0e626f06.png",
+            "record": "13–6",
+            "earnings": "$30,000",
+            "logo": "//owcdn.net/img/63bab9e3b8f5f.png"
+        },
+        {
+            "rank": "2",
+            "team": "E-Xolos LAZER",
+            "country": "Colombia",
+            "last_played": "52d ago",
+            "last_played_team": "vs. All Knights",
+            "last_played_team_logo": "//owcdn.net/img/63806ade7442d.png",
+            "record": "12–5",
+            "earnings": "$27,375",
+            "logo": "//owcdn.net/img/61b99c67aebb0.png"
+        },
+        {
+            "rank": "3",
+            "team": "TP REVEN",
+            "country": "Mexico",
+            "last_played": "83d ago",
+            "last_played_team": "vs. RETA Esp",
+            "last_played_team_logo": "//owcdn.net/img/63bab9e3b8f5f.png",
+            "record": "7–5",
+            "earnings": "$6,000",
+            "logo": "//owcdn.net/img/664c28637ba29.png"
+        },
+        {
+            "rank": "4",
+            "team": "ILLICIT",
+            "country": "International",
+            "last_played": "89d ago",
+            "last_played_team": "vs. RETA Esp",
+            "last_played_team_logo": "//owcdn.net/img/63bab9e3b8f5f.png",
+            "record": "4–7",
+            "earnings": "$11,125",
+            "logo": "//owcdn.net/img/63ce2d73c0387.png"
+        },
+        {
+            "rank": "5",
+            "team": "Old School Kr3w",
+            "country": "Venezuela",
+            "last_played": "138d ago",
+            "last_played_team": "vs. KTANA Esp",
+            "last_played_team_logo": "/img/vlr/tmp/vlr.png",
+            "record": "0–1",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63ce2e10abd32.png"
+        },
+        {
+            "rank": "6",
+            "team": "Chivas Esports",
+            "country": "Mexico",
+            "last_played": "75d ago",
+            "last_played_team": "vs. FUSION",
+            "last_played_team_logo": "//owcdn.net/img/63bde15e27452.png",
+            "record": "4–2",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63ce2eedbe573.png"
+        },
+        {
+            "rank": "7",
+            "team": "FUSION",
+            "country": "Colombia",
+            "last_played": "75d ago",
+            "last_played_team": "vs. Chivas Esp",
+            "last_played_team_logo": "//owcdn.net/img/63ce2eedbe573.png",
+            "record": "1–5",
+            "earnings": "$0",
+            "logo": "//owcdn.net/img/63bde15e27452.png"
+        },
+        {
+            "rank": "8",
+            "team": "Six Karma",
+            "country": "Mexico",
+            "last_played": "95d ago",
+            "last_played_team": "vs. TP REVEN",
+            "last_played_team_logo": "//owcdn.net/img/664c28637ba29.png",
+            "record": "5–9",
+            "earnings": "$6,375",
+            "logo": "//owcdn.net/img/660ce5b12cb5c.png"
+        }
+    ]
+}
