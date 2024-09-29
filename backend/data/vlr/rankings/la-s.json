@@ -1,0 +1,126 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "rank": "1",
+            "team": "LEVIATÁN",
+            "country": "Chile",
+            "last_played": "25d ago",
+            "last_played_team": "vs. Team Heretics",
+            "last_played_team_logo": "//owcdn.net/img/637b755224c12.png",
+            "record": "18–9",
+            "earnings": "$536,773",
+            "logo": "//owcdn.net/img/61b8888cc3860.png"
+        },
+        {
+            "rank": "2",
+            "team": "All Knights",
+            "country": "Argentina",
+            "last_played": "5h ago",
+            "last_played_team": "vs. Gal",
+            "last_played_team_logo": "//owcdn.net/img/65c8a0e626f06.png",
+            "record": "18–4",
+            "earnings": "$45,286",
+            "logo": "//owcdn.net/img/63806ade7442d.png"
+        },
+        {
+            "rank": "3",
+            "team": "KRÜ Esports",
+            "country": "Argentina",
+            "last_played": "39d ago",
+            "last_played_team": "vs. FNATIC",
+            "last_played_team_logo": "//owcdn.net/img/62a40cc2b5e29.png",
+            "record": "9–10",
+            "earnings": "$109,000",
+            "logo": "//owcdn.net/img/63976677069e1.png"
+        },
+        {
+            "rank": "4",
+            "team": "OXEN",
+            "country": "Argentina",
+            "last_played": "85d ago",
+            "last_played_team": "vs. All Knights",
+            "last_played_team_logo": "//owcdn.net/img/63806ade7442d.png",
+            "record": "6–5",
+            "earnings": "$8,214",
+            "logo": "//owcdn.net/img/62cdc31a970d0.png"
+        },
+        {
+            "rank": "5",
+            "team": "Zen eSports",
+            "country": "Argentina",
+            "last_played": "76d ago",
+            "last_played_team": "vs. Rebirth Esp",
+            "last_played_team_logo": "//owcdn.net/img/5eff245789727.png",
+            "record": "4–7",
+            "earnings": "$714",
+            "logo": "//owcdn.net/img/6434f4811e5d6.png"
+        },
+        {
+            "rank": "6",
+            "team": "Warning!",
+            "country": "International",
+            "last_played": "235d ago",
+            "last_played_team": "vs. Rebirth Esp",
+            "last_played_team_logo": "//owcdn.net/img/5eff245789727.png",
+            "record": "0–0",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "7",
+            "team": "Furious Gaming",
+            "country": "Argentina",
+            "last_played": "91d ago",
+            "last_played_team": "vs. All Knights",
+            "last_played_team_logo": "//owcdn.net/img/63806ade7442d.png",
+            "record": "6–9",
+            "earnings": "$8,743",
+            "logo": "//owcdn.net/img/639441ed93cc5.png"
+        },
+        {
+            "rank": "8",
+            "team": "XSOUL",
+            "country": "Chile",
+            "last_played": "99d ago",
+            "last_played_team": "vs. Furi",
+            "last_played_team_logo": "//owcdn.net/img/639441ed93cc5.png",
+            "record": "1–8",
+            "earnings": "$2,000",
+            "logo": "//owcdn.net/img/65ca123bf30b9.png"
+        },
+        {
+            "rank": "9",
+            "team": "FiRePOWER",
+            "country": "Argentina",
+            "last_played": "78d ago",
+            "last_played_team": "vs. OXEN GC",
+            "last_played_team_logo": "//owcdn.net/img/62cdc31a970d0.png",
+            "record": "1–0",
+            "earnings": "$10,187",
+            "logo": "//owcdn.net/img/66572b585eb7d.png"
+        },
+        {
+            "rank": "10",
+            "team": "ONA FAMILY ESPORTS",
+            "country": "Argentina",
+            "last_played": "78d ago",
+            "last_played_team": "vs. Rebirth Esp",
+            "last_played_team_logo": "//owcdn.net/img/5eff245789727.png",
+            "record": "1–3",
+            "earnings": "$0",
+            "logo": ""
+        },
+        {
+            "rank": "11",
+            "team": "Stone Esports",
+            "country": "Argentina",
+            "last_played": "242d ago",
+            "last_played_team": "vs. Red Eye",
+            "last_played_team_logo": "//owcdn.net/img/648b435564d82.png",
+            "record": "0–0",
+            "earnings": "$714",
+            "logo": ""
+        }
+    ]
+}
