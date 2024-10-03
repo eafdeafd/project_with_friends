@@ -9,8 +9,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #36393f;
+    --foreground: #dcddde;
   }
 }
 
@@ -21,10 +21,12 @@
   font-style: normal;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: 'Valorant', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 @layer utilities {
@@ -36,22 +38,14 @@ body {
 
 /* Home Page */
 
+.header-padding {
+  margin-top: 4%;
+}
+
 .home-container {
   padding: 20px;
   max-width: 600px;
   margin: 0 auto;
-}
-
-.chatbox {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 20px;
-  height: 400px;
-  width: 100%; 
-  max-width: 800px;
-  overflow-y: scroll;
-  margin-bottom: 20px;
-  box-sizing: border-box;
 }
 
 .message {
@@ -82,3 +76,186 @@ body {
   cursor: pointer;
 }
 
+/* Scrollbar Styles */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2f3136;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #202225;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #40444b;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.dark-gray {
+  background-color: #111;
+}
+
+.light-gray {
+  background-color: #2b2b2b;
+}
+
+/* Header */
+
+.header-container {
+  background-color: #111;
+  color: var(--foreground);
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(82, 82, 82);
+}
+
+.header-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.header-nav {
+  display: flex;
+}
+
+.nav-list {
+  display: flex;
+  gap: 1rem;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-button {
+  position: relative;
+  padding-bottom: 4px;
+  font-size: 1rem;
+}
+
+.nav-button::after {
+  content: '';
+  position: absolute;
+  bottom: -63%;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background-color: red;
+  transition: width 0.2s ease-in-out;
+}
+
+.nav-button:hover::after {
+  width: 100%;
+}
+
+.play-now-button {
+  position: relative;
+  overflow: hidden;
+}
+
+.play-now-button::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+}
+
+.play-now-button:hover::after {
+  width: 100%;
+}
+
+/* Landing Page */
+
+.intro-text {
+  text-align: center;
+}
+
+.valorant-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12rem;
+}
+
+.intro-text h2 {
+  font-size: 7rem;
+  font-family: 'Impact', sans-serif;
+  letter-spacing: 0px;
+  color: #eaeaea;
+}
+
+.intro-text p {
+  font-size: 1.5rem;
+  color: #eaeaea;
+}
+
+.landing-page {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 1; /* Ensures elements appear above the background video */
+}
+
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* Puts the video behind all other content */
+}
+
+.chatbox {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* Align items to the end */
+  padding: 15px;
+  margin-top: 2%;
+  background-color: #111;
+  border: 1px solid rgb(82, 82, 82);
+  border-radius: 10px;
+  position: relative; /* Allow absolute positioning for the button */
+}
+
+.input-container {
+  display: flex;
+  width: 100%; /* Use full width of the schatbox */
+  position: relative; /* For absolute positioning of the button */
+}
+
+.chatbox textarea {
+  flex-grow: 1; /* Make textarea take up remaining space */
+  padding: 10px;
+  margin-right: 10px; /* Space between textarea and button */
+  background-color: #111;
+  color: #eaeaea;
+  resize: none; /* Prevent resizing */
+  font-size: 0.8rem;
+}
+
+.chatbox textarea:focus {
+  outline: none;
+  border-color: #ffffff;
+}
+
+.chatbox button {
+  position: absolute; /* Position the button at the bottom right */
+  bottom: 10px; /* Distance from the bottom */
+  right: 10px; /* Distance from the right */
+}
