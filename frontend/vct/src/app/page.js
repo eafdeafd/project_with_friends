@@ -3,7 +3,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import Chatbot from './components/Chatbot';
-import Header from './components/Header';
 import { Send } from "lucide-react";
 
 export default function LandingPage() {
@@ -49,12 +48,6 @@ export default function LandingPage() {
     return <Chatbot submittedText={submittedText} />;
   }
 
-  const buttons = [
-    { label: 'ABOUT US', onClick: () => alert('About Us clicked!') },
-    { label: 'SERVICES', onClick: () => alert('Services clicked!') },
-    { label: 'CONTACT', onClick: () => alert('Contact clicked!') },
-  ];
-
   return (
     <div>
       <div className="landing-page">
@@ -92,6 +85,7 @@ export default function LandingPage() {
               ref={textAreaRef}
               value={text}
               onChange={handleInputChange}
+              onKeyPress={(e) => e.key === "Enter" && handleSubmit()}
               placeholder="Type your requirements..."
               rows={2}
               style={{ minHeight: `${minHeight}px`, maxHeight: `${maxHeight}px` }}

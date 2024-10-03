@@ -38,19 +38,12 @@ body {
 
 /* Home Page */
 
-.header-padding {
-  margin-top: 4%;
-}
-
 .home-container {
   padding: 20px;
   max-width: 600px;
   margin: 0 auto;
 }
 
-.message {
-  margin-bottom: 10px;
-}
 
 .textbox-container {
   display: flex;
@@ -189,10 +182,48 @@ body {
 }
 
 .intro-text h2 {
-  font-size: 7rem;
+  font-size: 7rem; /* Base font-size */
   font-family: 'Impact', sans-serif;
   letter-spacing: 0px;
   color: #eaeaea;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 2560px) {
+  .intro-text h2 {
+    font-size: 9rem; /* Larger for 2K screens */
+  }
+}
+
+@media (min-width: 3840px) {
+  .intro-text h2 {
+    font-size: 12rem; /* Even larger for 4K screens */
+  }
+}
+
+@media (max-width: 1200px) {
+  .intro-text h2 {
+    font-size: 6rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .intro-text h2 {
+    font-size: 5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-text h2 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .intro-text h2 {
+    font-size: 3rem;
+  }
 }
 
 .intro-text p {
@@ -200,6 +231,77 @@ body {
   color: #eaeaea;
 }
 
+@media (min-width: 2560px) {
+  .intro-text p {
+    font-size: 2rem; /* Larger font-size for 2K */
+  }
+}
+
+@media (min-width: 3840px) {
+  .intro-text p {
+    font-size: 2.5rem; /* Larger font-size for 4K */
+  }
+}
+
+@media (max-width: 1200px) {
+  .intro-text p {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .intro-text p {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-text p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .intro-text p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 2560px) {
+  .valorant-logo {
+    width: 16rem; /* Larger logo for 2K screens */
+  }
+}
+
+@media (min-width: 3840px) {
+  .valorant-logo {
+    width: 20rem; /* Larger logo for 4K screens */
+  }
+}
+
+@media (max-width: 1200px) {
+  .valorant-logo {
+    width: 10rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .valorant-logo {
+    width: 8rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .valorant-logo {
+    width: 6rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .valorant-logo {
+    width: 5rem;
+  }
+}
 .landing-page {
   position: relative;
   display: flex;
@@ -212,13 +314,26 @@ body {
 }
 
 .background-video {
-  position: absolute;
+  position: fixed; /* Ensures the video stays fixed even when scrolling */
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: -1; /* Puts the video behind all other content */
+  width: 100vw; /* Makes the video span the full viewport width */
+  height: 100vh; /* Makes the video span the full viewport height */
+  object-fit: cover; /* Ensures the video scales proportionally and covers the entire screen */
+  z-index: -1; /* Keeps the video in the background */
+}
+
+.background-image {
+  background-image: url('https://cdn.turbosmurfs.gg/77641a0cd51e912483bdf2dd142240f1b368a3d8_1920x1080_f8b3e7616f.jpg');
+  background-color: #000000;
+  opacity: 0.2;
+  position: fixed; /* Ensures the video stays fixed even when scrolling */
+  top: 0;
+  left: 0;
+  width: 100vw; /* Makes the video span the full viewport width */
+  height: 100vh; /* Makes the video span the full viewport height */
+  object-fit: cover; /* Ensures the video scales proportionally and covers the entire screen */
+  z-index: -1; /* Keeps the video in the background */
 }
 
 .chatbox {
@@ -231,6 +346,12 @@ body {
   border: 1px solid rgb(82, 82, 82);
   border-radius: 10px;
   position: relative; /* Allow absolute positioning for the button */
+}
+
+@media (min-width: 2560px) {
+  .chatbox {
+    max-width: 1200;
+  }
 }
 
 .input-container {
@@ -258,4 +379,77 @@ body {
   position: absolute; /* Position the button at the bottom right */
   bottom: 10px; /* Distance from the bottom */
   right: 10px; /* Distance from the right */
+}
+
+.chatbox-main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 15px;
+  background-color: #111;
+  border: 1px solid rgb(82, 82, 82);
+  border-radius: 10px;
+  position: fixed; /* Fixed to bottom */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 5%; /* Center horizontally and add bottom margin */
+}
+
+.input-container-main {
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+
+.chatbox-main textarea {
+  flex-grow: 1;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: #111;
+  resize: none;
+  font-size: 0.8rem;
+}
+
+.chatbox-main textarea:focus {
+  outline: none;
+  border-color: #ffffff;
+}
+
+.chatbox-main button {
+  position: relative; /* No longer absolute */
+}
+
+.flex-1-main {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: calc(100vh - 29vh); /* Set height of the message container */
+  width: calc(100vw - 30vw);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.message {
+  display: block;
+  max-width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+  word-break: break-word;
+  white-space: pre-wrap;
+  color: #fff;
+  text-align: left;
+}
+
+.fullscreen-div {
+  width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  overflow: hidden; /* Prevent overflow */
+}
+
+.message-container {
+  margin-bottom: 500px; /* Extra space to prevent overflow */
 }
