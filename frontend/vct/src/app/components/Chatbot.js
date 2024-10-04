@@ -18,18 +18,49 @@ export default function Chatbot({ submittedText }) {
     autoResizeTextArea(); // Dynamically resize based on content
   };
 
-  const handleSendMessage = (submittedText) => {
-    if (isTextSubmitted.current == false) {
-      const newMessage = { text: submittedText, sender: "user" };
-      setMessages((prevMessages) => [...prevMessages, newMessage]);
-      setInputValue("");
-    } else if (String(inputValue).trim()) {
-      const newMessage = { text: inputValue, sender: "user" };
-      setMessages((prevMessages) => [...prevMessages, newMessage]);
-      setInputValue("");
+  const handleSendMessage = async (submittedText) => {
+    if (isTextSubmitted.current === false && submittedText) {
+      addUserMessage(submittedText);
+      isTextSubmitted.current = true;
+    } else if (inputValue.trim()) {
+      addUserMessage(inputValue);
     }
+
     const textarea = textAreaRef.current;
     textarea.style.height = `${minHeight}px`;
+
+    // After sending the message, call the backend and wait for the response
+    const response = await sendMessageToBackend(inputValue);
+    addBotMessage(response);
+
+    setInputValue(""); // Clear input after sending
+  };
+
+  const addUserMessage = (text) => {
+    const newMessage = { text, sender: "user" };
+    setMessages((prevMessages) => [...prevMessages, newMessage]);
+  };
+
+  const addBotMessage = (text) => {
+    const newMessage = { text, sender: "bot" };
+    setMessages((prevMessages) => [...prevMessages, newMessage]);
+  };
+
+  const sendMessageToBackend = async (message) => {
+    try {
+      const response = await fetch('YOUR_BACKEND_API_URL', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message }), // Adjust the body structure as per backend
+      });
+      const data = await response.json(); // Assuming the response is in JSON format
+      return data.reply; // Adjust according to backend response structure
+    } catch (error) {
+      console.error('Error sending message to backend:', error);
+      return 'Sorry, something went wrong.';
+    }
   };
 
   const minHeight = 48; // Set min height (2 rows * 24px line-height)
@@ -112,8 +143,13 @@ export default function Chatbot({ submittedText }) {
                 onChange={handleInputChange}
                 onKeyPress={(e) => {
                   if (e.key === "Enter") {
-                    e.preventDefault(); // Prevent the default action of adding a new line
-                    handleSendMessage();
+                    if (e.shiftKey) {
+                      // Allow new line when Shift + Enter is pressed
+                      return;
+                    } else {
+                      e.preventDefault(); // Prevent new line on submit
+                      handleSendMessage(inputValue);
+                    }
                   }
                 }}
                 placeholder="Type your requirements..."
