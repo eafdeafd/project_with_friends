@@ -79,7 +79,8 @@ def build_team(team_condition, player_data):
 
     Question: {f"Build the best five-person Valorant team with the top players in each role. 
     Ensure that the team composition is balanced in terms of roles, has exactly one in-game leader(IGL), and meets the {team_condition}. 
-    Consider factors such as team synergy, individual skill, winrate, and past tournament performances."}""
+    Consider factors such as team synergy, individual skill, winrate, and past tournament performances.
+    Also ensure that the team has at least one player who frequently uses the Operator."}""
     Answer:"""
 
     generated_text = call_claude(prompt)
