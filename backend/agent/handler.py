@@ -8,14 +8,13 @@ def lambda_handler(event, context):
     
     param_dict = {param['name'].lower() : int(param['value']) for param in parameters}
 
-    if function == "get_top_players_by_role":
-        team_setting = param_dict.get("team_setting")
-        role = param_dict.get("role")
+    if function == "build_team":
+        team_condition = param_dict.get("team_condition")
         player_data = param_dict.get("player_data")
         
-        if team_setting and role:
+        if team_condition and player_data:
             try:
-                result_text = actions.get_top_players_by_role(team_setting, role, player_data)
+                result_text = actions.build_team(team_condition, player_data)
             except ValueError:
                 result_text = "Invalid input. Please provide valid input." 
 
@@ -34,7 +33,7 @@ def lambda_handler(event, context):
         }
     }
 
-    dummy_function_response = {'response': action_response, 'messageVersion': event['messageVersion']}
-    print("Response: {}".format(dummy_function_response))
+    function_response = {'response': action_response, 'messageVersion': event['messageVersion']}
+    print("Response: {}".format(function_response))
 
-    return dummy_function_response
+    return function_response
