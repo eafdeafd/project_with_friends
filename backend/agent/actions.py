@@ -128,7 +128,7 @@ def build_team(bracket):
 
     obj = bucket.Object("aggregated_data.json")
     # Truncate content to meet the model input limit
-    context = obj.get()['Body'].read().decode('utf-8')[:149000]
+    context = json.loads(obj.get()['Body'].read().decode('utf-8')[:149000])
 
     prompt = f"""Use the following pieces of context to answer the question at the end.
 
