@@ -1,4 +1,5 @@
 import json
+import traceback
 import boto3
 import pandas as pd 
 
@@ -66,9 +67,14 @@ def call_titan(prompt):
     accept = "application/json"
     contentType = "application/json"
 
-    response = bedrock_runtime.invoke_model(
-        body=body, modelId=modelId, accept=accept, contentType=contentType
-    )
+    try:
+        response = bedrock_runtime.invoke_model(
+            body=body, modelId=modelId, accept=accept, contentType=contentType
+        )
+    except Exception as ex:
+        print(f"Error: {ex}. Stack Trace: {traceback.format_exc()}")
+        raise Exception(f"Error: {ex}. Stack Trace: {traceback.format_exc()}")
+
     response_body = json.loads(response.get("body").read())
 
     results = response_body.get("results")[0].get("outputText")
@@ -128,7 +134,20 @@ def build_team(bracket):
 
     obj = bucket.Object("aggregated_data.json")
     # Truncate content to meet the model input limit
-    context = json.loads(obj.get()['Body'].read().decode('utf-8')[:149000])
+    # json_data = []
+    # for line in obj.get()['Body'].iter_lines():
+    #     if line:
+    #         json_line = json.loads(line)
+    #         json_data.append(json_line)
+    #         if len(json.dumps(json_data)) >= 148000:
+    #             break
+
+    # context = json.dumps(json_data)
+    # print(context)
+
+    context = obj.get()['Body'].read().decode('utf-8')[:80000]
+
+    print(context)
 
     prompt = f"""Use the following pieces of context to answer the question at the end.
 

@@ -1,4 +1,5 @@
 import actions
+import traceback
 
 def lambda_handler(event, context):
     agent = event['agent']
@@ -15,7 +16,8 @@ def lambda_handler(event, context):
             try:
                 result_text = actions.build_team(bracket)
             except ValueError as e:
-                result_text = f"Invalid input. Please provide valid input. Error = {e}." 
+                print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
+                result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
     elif function == "query_data":
         bracket = param_dict.get("bracket", ["vct-challengers", "vct-international", "game-changers"])
         region = param_dict.get("region", "all")
@@ -26,9 +28,10 @@ def lambda_handler(event, context):
         try:
             result_text = actions.query_data(bracket, region, past_games, player_name, agent)
         except ValueError as e:
-            result_text = f"Invalid input. Please provide valid input. Error = {e}." 
+            print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
+            result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
 
-    # Execute your business logic here. For more information, refer to: https://docs.aws.amazon.com/bedrock/latest/userguide/agents-lambda.html
+    # Execute your business logic here. For more information, refer to: https://docs.aws.amazon.com/basdfedrock/latest/userguide/agents-lambda.html
     responseBody =  {
         "TEXT": {
             "body": result_text
