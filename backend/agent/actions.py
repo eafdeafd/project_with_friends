@@ -77,11 +77,10 @@ def build_team(team_condition, player_data):
 
     {context}
 
-    Question: {f"Build the best five-person Valorant team with the top players in each role. 
-    Ensure that the team composition is balanced in terms of roles, has exactly one in-game leader(IGL), and meets the {team_condition}. 
-    Consider factors such as team synergy, individual skill, winrate, and past tournament performances.
-    Also ensure that the team has at least one player who frequently uses the Operator."}""
-    Answer:"""
+    Question: {f"""Build the best five-person Valorant team with the top players in each role. 
+               Ensure that the team composition is balanced in terms of roles, has exactly one in-game leader(IGL), and meets the {team_condition}. 
+               Consider factors such as team synergy, individual skill, winrate, and past tournament performances. 
+               Also ensure that the team has at least one player who frequently uses the Operator."""} Answer:"""
 
     generated_text = call_claude(prompt)
     print(generated_text)
@@ -96,9 +95,9 @@ def get_top_players_by_role(team_condition, role, player_data):
 
     {player_data}
 
-    Question: {f"Find the top 10 {role} players. Ensure that the players meet the {team_condition}.
-               Consider factors such as KDA, win rate, clutches, first bloods, etc."}"
-    Answer:"""
+    Question: {f"""Find the top 10 {role} players.
+               Ensure that the players meet the {team_condition}. 
+               Consider factors such as KDA, win rate, clutches, first bloods, etc."""} Answer:"""
 
     generated_text = call_titan(prompt)
     print(generated_text)
