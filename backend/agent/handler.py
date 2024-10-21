@@ -6,17 +6,27 @@ def lambda_handler(event, context):
     function = event['function']
     parameters = event.get('parameters', [])
     
-    param_dict = {param['name'].lower() : int(param['value']) for param in parameters}
+    param_dict = {param['name'].lower() : param['value'] for param in parameters}
 
     if function == "build_team":
-        team_condition = param_dict.get("team_condition")
-        player_data = param_dict.get("player_data")
+        bracket = param_dict.get("bracket")
         
-        if team_condition and player_data:
+        if bracket:
             try:
-                result_text = actions.build_team(team_condition, player_data)
-            except ValueError:
-                result_text = "Invalid input. Please provide valid input." 
+                result_text = actions.build_team(bracket)
+            except ValueError as e:
+                result_text = f"Invalid input. Please provide valid input. Error = {e}." 
+    elif function == "query_data":
+        bracket = param_dict.get("bracket", ["vct-challengers", "vct-international", "game-changers"])
+        region = param_dict.get("region", "all")
+        past_games = param_dict.get("past_games", "all")
+        player_name = param_dict.get("player_name", "all")
+        agent = param_dict.get("agent", "all")
+        
+        try:
+            result_text = actions.query_data(bracket, region, past_games, player_name, agent)
+        except ValueError as e:
+            result_text = f"Invalid input. Please provide valid input. Error = {e}." 
 
     # Execute your business logic here. For more information, refer to: https://docs.aws.amazon.com/bedrock/latest/userguide/agents-lambda.html
     responseBody =  {
@@ -34,6 +44,5 @@ def lambda_handler(event, context):
     }
 
     function_response = {'response': action_response, 'messageVersion': event['messageVersion']}
-    print("Response: {}".format(function_response))
 
     return function_response
