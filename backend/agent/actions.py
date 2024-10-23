@@ -25,7 +25,7 @@ def query_aggregated_data(player_name="all", bracket=["vct-challengers", "vct-in
     if player_name != 'all':
         ddf = ddf.loc[ddf['player_name'].astype(str) == player_name]
     ddf = ddf.loc[df['bracket'].isin(bracket)] # does not respect index order which is why is last. everything else does.
-    return ddf.to_dict(orient='records')
+    return ddf.to_json(orient='records')
 
 def query_unaggregated_data(player_name="all", bracket=["vct-challengers", "vct-international", "game-changers"], region="all", past_games="all", agent="all"):
     # Argument assertions
@@ -46,4 +46,4 @@ def query_unaggregated_data(player_name="all", bracket=["vct-challengers", "vct-
     if past_games != 'all':
         ddf = ddf[-int(past_games):]
     ddf = ddf.loc[df['bracket'].isin(bracket)] # does not respect index order which is why is last. everything else does.
-    return ddf.to_dict(orient='records')
+    return ddf.to_json(orient='records')

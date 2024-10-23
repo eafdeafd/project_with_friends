@@ -26,6 +26,8 @@ The output will contain columns ['player_name', 'team_name', 'player_kda', 'play
 'top_3_agents', 'top_roles', 'region', 'bracket', 'games_played',
 'rank', 'earnings', 'win_rate', 'fb-fd ratio', 'clutches_per_game',
 'OPer']
+Use this action to answer questions about building teams and justifying their effectiveness using player data.
+If you do not have the required parameters to invoke this action then default to passing in 'all' for the missing parameters.
 
 Tool: query_unaggregated_data(player_name='all', bracket=['vct-challengers', 'vct-international', 'game-changers'], region='all', past_games='all', agent='all')
 Input: player_name: specific player or all players, bracket: space-separated string of brackets from challengers, international, or game changers, region: specific region or all, past_games: integer [0, n] or all, agent: specific agent or all
@@ -34,6 +36,8 @@ The output contains columns ['player_name', 'wins', 'loss', 'player_agent', 'pla
 'player_deaths', 'player_assists', 'player_first_bloods',
 'player_first_deaths', 'player_clutches', 'player_combat_score',
 'bracket', 'region']
+Use this action to answer questions about specific players regarding previous matches and performances on specific agents.
+If you do not have the required parameters to invoke this action then default to passing in 'all' for the missing parameters.
 </tooling>
 Now, let me show you some examples of good responses. Use these as templates for structure and quality of analysis, but do not copy the responses if asked the same question or similar questions.
 <example 1>
