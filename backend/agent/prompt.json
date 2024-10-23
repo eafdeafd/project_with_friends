@@ -19,8 +19,8 @@ All statistics are from VCT International, VCT Challengers, and Game Changers ev
 
 You have access to two python tools:
 
-Tool: query_aggregated_data(player_name='all', bracket=['vct-challengers', 'vct-international', 'game-changers'], region='all', past_games='all', agent='all')
-Input: player_name: specific player or all players, bracket: list of brackets from challengers, international, or game changers, region: specific region or all, past_games: integer [0, n] or all, agent: specific agent or all
+Tool: query_aggregated_data(player_name='all', bracket=['vct-challengers', 'vct-international', 'game-changers'], region='all')
+Input: player_name: specific player or all players, bracket: space-separated string of brackets from challengers, international, or game changers, region: specific region or all
 Output: The tool will query the player data using the input arguments and output a slice of the database that contains the player(s) and rows from the input dataframe.
 The output will contain columns ['player_name', 'team_name', 'player_kda', 'player_combat_score',
 'top_3_agents', 'top_roles', 'region', 'bracket', 'games_played',
@@ -28,7 +28,7 @@ The output will contain columns ['player_name', 'team_name', 'player_kda', 'play
 'OPer']
 
 Tool: query_unaggregated_data(player_name='all', bracket=['vct-challengers', 'vct-international', 'game-changers'], region='all', past_games='all', agent='all')
-Input: player_name: specific player or all players, bracket: list of brackets from challengers, international, or game changers, region: specific region or all, past_games: integer [0, n] or all, agent: specific agent or all
+Input: player_name: specific player or all players, bracket: space-separated string of brackets from challengers, international, or game changers, region: specific region or all, past_games: integer [0, n] or all, agent: specific agent or all
 Output: The tool will query the player data using the input arguments and output a slice of the database that contains the player(s) and rows from the input dataframe to answer specific questions about past matches and performances on specific agents. 
 The output contains columns ['player_name', 'wins', 'loss', 'player_agent', 'player_kills',
 'player_deaths', 'player_assists', 'player_first_bloods',
@@ -252,10 +252,6 @@ This team composition works well because of the synergy between roles. You’ve 
 </output>
 </example 2>
 </instruction>
-
-Given the following functions, please respond with a JSON for a function call with its proper arguments that best answers the given prompt.
-
-Respond in the format {\"name\": function name, \"parameters\": dictionary of argument name and its value}. Do not use variables.
 
 When you receive a tool call response, use the output to format an answer to the original user question.
 
