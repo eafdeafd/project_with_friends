@@ -9,24 +9,25 @@ def lambda_handler(event, context):
     
     param_dict = {param['name'].lower() : param['value'] for param in parameters}
 
-    if function == "build_team":
-        bracket = param_dict.get("bracket")
-        
-        if bracket:
-            try:
-                result_text = actions.build_team(bracket)
-            except ValueError as e:
-                print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
-                result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
-    elif function == "query_data":
+    if function == "query_aggregated_data":
+        player_name = param_dict.get("player_name", "all")
         bracket = param_dict.get("bracket", ["vct-challengers", "vct-international", "game-changers"])
         region = param_dict.get("region", "all")
         past_games = param_dict.get("past_games", "all")
-        player_name = param_dict.get("player_name", "all")
-        agent = param_dict.get("agent", "all")
-        
+        agent = param_dict.get("agent", "all") 
         try:
-            result_text = actions.query_data(bracket, region, past_games, player_name, agent)
+            result_text = actions.query_aggregated_data(bracket, region, past_games, player_name, agent)
+        except ValueError as e:
+            print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
+            result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
+    elif function == "query_unaggregated_data":
+        player_name = param_dict.get("player_name", "all")
+        bracket = param_dict.get("bracket", ["vct-challengers", "vct-international", "game-changers"])
+        region = param_dict.get("region", "all")
+        past_games = param_dict.get("past_games", "all")
+        agent = param_dict.get("agent", "all")
+        try:
+            result_text = actions.query_unaggregated_data(bracket, region, past_games, player_name, agent)
         except ValueError as e:
             print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
             result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
