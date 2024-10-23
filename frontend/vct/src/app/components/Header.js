@@ -16,7 +16,7 @@ export default function Header({ title, buttons }) {
                     {buttons.map((button, index) => (
                         <li key={index}>
                             <button
-                                onClick={button.onClick}
+                                onClick={() => window.open(button.link, '_blank')}
                                 className="nav-button text-white bg-transparent hover:text-red-500 hover:bg-gray-200 transition-colors duration-200 ease-in-out px-2 py-1 rounded"
                             >
                                 {button.label}

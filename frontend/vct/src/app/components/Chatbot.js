@@ -98,9 +98,9 @@ export default function Chatbot({ submittedText }) {
   }, [submittedText]);
 
   const buttons = [
-    { label: 'ABOUT US' },
-    { label: 'SERVICES' },
-    { label: 'CONTACT' },
+    { label: 'DEMO', link: 'https://youtube.com/' },
+    { label: 'HACKATHON', link: 'https://vcthackathon.devpost.com/' },
+    { label: 'REPOSITORY', link: 'https://github.com/eafdeafd/vct-hackathon' },
   ];
 
   const messageVariants = {
