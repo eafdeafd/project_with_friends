@@ -46,9 +46,7 @@
 293,dodonut,0,1,Raze,15,17,8,5,7,1,283.72222222222223,game-changers,NA
 310,Ninou,0,1,Sova,15,15,6,2,2,0,264.6470588235294,game-changers,EMEA
 311,Mel1,0,1,Killjoy,19,14,1,1,0,1,278.94117647058823,game-changers,EMEA
-320,flowerful,0,1,Killjoy,13,14,4,1,0,3,208.16666666666666,game-changers,NA
 321,KP,0,1,Harbor,11,16,6,1,2,0,187.11111111111111,game-changers,NA
-323,bENITA,0,1,Viper,10,18,6,1,2,0,201.11111111111111,game-changers,NA
 324,sonder,0,1,Jett,7,18,3,2,5,0,155.55555555555554,game-changers,NA
 328,florescent,1,0,Jett,26,12,9,5,1,0,419.8888888888889,vct-challengers,NA
 335,Vania,0,1,Brimstone,11,16,6,1,2,1,152.7,vct-international,EMEA
@@ -101,8 +99,6 @@
 584,shyz,1,0,KAY/O,8,14,6,5,1,0,118.27272727272727,game-changers,LATAM
 592,florescent,1,0,Raze,21,7,4,3,2,0,378.53333333333336,vct-challengers,NA
 596,KP,0,1,Breach,7,14,2,1,1,0,143.46666666666667,game-changers,NA
-597,bENITA,0,1,Brimstone,4,14,7,1,1,1,116.73333333333333,game-changers,NA
-598,flowerful,0,1,Cypher,9,11,3,1,2,0,180.73333333333332,game-changers,NA
 599,sonder,0,1,Neon,1,15,2,1,3,0,67.4,game-changers,NA
 600,romi,1,0,Cypher,20,10,6,4,1,1,306.3888888888889,game-changers,LATAM
 601,micaela,1,0,Raze,22,13,1,2,2,1,298.1666666666667,game-changers,LATAM
@@ -202,13 +198,10 @@
 897,Felipa,1,0,Breach,12,9,9,2,1,1,193.33333333333334,vct-international,EMEA
 898,Wens,1,0,Cypher,16,10,2,3,2,0,216.72222222222223,vct-international,EMEA
 899,Alkyia,1,0,Jett,16,9,0,3,3,0,210.27777777777777,vct-international,EMEA
-900,flowerful,0,1,Killjoy,24,16,7,5,3,0,340.6818181818182,game-changers,NA
 902,sonder,0,1,Raze,13,17,4,2,8,0,176.8181818181818,game-changers,NA
 903,KP,0,1,Breach,6,16,7,1,0,0,77.18181818181819,game-changers,NA
-960,flowerful,1,0,Omen,13,7,4,1,1,2,222.0625,game-changers,NA
 961,KP,1,0,Breach,22,10,11,0,0,1,365.125,game-changers,NA
 962,sonder,1,0,Neon,11,16,3,4,8,0,202.9375,game-changers,NA
-964,bENITA,1,0,Sova,11,10,5,0,1,0,179.3125,game-changers,NA
 975,YusinGC,1,0,Omen,13,5,7,1,1,0,226.13333333333333,game-changers,INTL
 976,XiMiLu,1,0,Breach,14,5,14,3,0,0,267.2,game-changers,INTL
 977,WawaLee,1,0,Sova,14,8,10,0,0,0,267.2,game-changers,INTL
@@ -266,7 +259,6 @@
 1273,conir,1,0,Omen,25,15,2,2,0,0,297.09090909090907,vct-challengers,LATAM
 1274,shyz,1,0,Killjoy,16,12,2,3,1,0,201.36363636363637,game-changers,LATAM
 1306,sonder,0,1,Raze,6,13,4,2,0,0,193.23076923076923,game-changers,NA
-1307,flowerful,0,1,Cypher,4,13,1,1,1,0,104.3076923076923,game-changers,NA
 1309,KP,0,1,Skye,2,13,3,0,2,0,45.38461538461539,game-changers,NA
 1330,YusinGC,1,0,Omen,22,8,6,3,1,1,322.6470588235294,game-changers,INTL
 1331,XiMiLu,1,0,Skye,14,7,5,0,1,1,188.94117647058823,game-changers,INTL
@@ -296,7 +288,6 @@
 1447,tayhuhu,0,1,Brimstone,13,17,8,1,0,0,169.63636363636363,game-changers,BR
 1448,lissA,0,1,Viper,11,19,0,4,3,0,137.5909090909091,game-changers,BR
 1449,jellykitt,0,1,Raze,13,21,4,1,4,0,186.86363636363637,game-changers,BR
-1450,flowerful,0,1,Killjoy,11,14,1,0,0,1,168.21052631578948,game-changers,NA
 1452,sonder,0,1,Raze,10,15,9,2,5,0,202.52631578947367,game-changers,NA
 1453,KP,0,1,Skye,7,15,9,3,2,0,132.42105263157896,game-changers,NA
 1470,Ciao,0,1,Breach,7,15,3,0,0,0,123.875,game-changers,LATAM
@@ -320,7 +311,6 @@
 1563,mmonch,1,0,Harbor,15,7,9,0,1,1,216.52631578947367,game-changers,LATAM
 1564,Ivy,1,0,Skye,11,9,13,0,2,0,171.78947368421052,game-changers,LATAM
 1608,dodonut,1,0,Jett,23,17,2,3,3,1,251.5,game-changers,NA
-1620,flowerful,1,0,Killjoy,10,13,2,1,2,0,155.14285714285714,game-changers,NA
 1622,sonder,1,0,Jett,21,10,3,3,7,1,250.61904761904762,game-changers,NA
 1623,KP,1,0,Sova,11,12,3,2,0,0,179.95238095238096,game-changers,NA
 1690,srN,1,0,Jett,22,12,0,6,5,0,298.9,game-changers,BR
@@ -330,7 +320,6 @@
 1694,nanah,1,0,Killjoy,16,11,1,3,0,1,212.75,game-changers,BR
 1715,Ninou,1,0,Sova,11,15,6,0,1,0,186.66666666666666,game-changers,EMEA
 1716,Mel1,1,0,Killjoy,14,14,4,2,1,0,183.8095238095238,game-changers,EMEA
-1720,flowerful,0,1,Killjoy,15,19,5,1,1,0,162.64285714285714,game-changers,NA
 1722,sonder,0,1,Raze,24,19,4,5,5,0,253.28571428571428,game-changers,NA
 1723,KP,0,1,Skye,13,22,12,3,3,0,136.71428571428572,game-changers,NA
 1790,Vania,1,0,Omen,22,13,15,0,1,0,279.6818181818182,vct-international,EMEA
@@ -427,10 +416,8 @@
 2128,Ciao,1,0,Brimstone,26,19,9,4,4,2,264.46153846153845,game-changers,LATAM
 2129,JuW,1,0,Raze,14,21,9,2,5,0,177.15384615384616,game-changers,LATAM
 2153,florescent,1,0,Jett,18,14,6,4,1,0,273.0,vct-challengers,NA
-2155,flowerful,0,1,Killjoy,10,13,3,0,0,0,165.47368421052633,game-changers,NA
 2156,KP,0,1,Harbor,18,16,5,1,1,0,247.8421052631579,game-changers,NA
 2158,sonder,0,1,Jett,6,17,5,2,9,0,122.0,game-changers,NA
-2159,bENITA,0,1,Viper,15,14,4,3,3,0,233.10526315789474,game-changers,NA
 2175,Vania,1,0,Omen,22,15,16,1,2,2,259.875,vct-international,EMEA
 2176,eva,1,0,Sova,22,14,5,3,1,0,243.41666666666666,vct-international,EMEA
 2177,Felipa,1,0,Breach,11,16,17,1,1,0,131.95833333333334,vct-international,EMEA
@@ -442,7 +429,6 @@
 2188,isaa,1,0,Killjoy,11,15,3,3,2,0,161.75,game-changers,BR
 2189,Joojina,1,0,Omen,14,12,4,2,1,0,189.55,game-changers,BR
 2196,sonder,0,1,KAY/O,13,17,12,2,0,0,224.10526315789474,game-changers,NA
-2198,flowerful,0,1,Killjoy,9,14,4,0,4,2,146.31578947368422,game-changers,NA
 2199,KP,0,1,Sova,20,19,5,3,1,0,302.63157894736844,game-changers,NA
 2200,Vania,1,0,Omen,28,12,9,5,2,0,430.05555555555554,vct-international,EMEA
 2201,eva,1,0,Sage,12,8,9,0,0,1,173.61111111111111,vct-international,EMEA
@@ -485,10 +471,8 @@
 2302,WawaLee,1,0,Breach,14,16,8,0,2,1,176.1818181818182,game-changers,INTL
 2303,Lizhi,1,0,Raze,16,13,5,4,3,0,185.6818181818182,game-changers,INTL
 2304,Clem,1,0,Cypher,15,18,8,2,6,0,218.3181818181818,game-changers,INTL
-2310,flowerful,1,0,Killjoy,11,18,6,2,1,0,149.52173913043478,game-changers,NA
 2311,KP,1,0,Breach,19,13,14,1,3,0,235.8695652173913,game-changers,NA
 2312,sonder,1,0,Jett,28,17,1,8,3,0,351.2608695652174,game-changers,NA
-2313,bENITA,1,0,Astra,15,13,8,1,2,2,171.82608695652175,game-changers,NA
 2325,mmonch,1,0,Viper,21,11,7,1,2,1,261.25,game-changers,LATAM
 2326,Ivy,1,0,Raze,15,14,9,2,3,0,247.0,game-changers,LATAM
 2327,JuW,1,0,Fade,17,11,6,3,1,1,222.75,game-changers,LATAM
@@ -632,15 +616,12 @@
 2959,Mary,1,0,Raze,26,14,3,5,3,0,298.90909090909093,game-changers,EMEA
 2966,florescent,1,0,Jett,19,9,4,6,2,0,305.1666666666667,vct-challengers,NA
 2974,florescent,1,0,Jett,21,14,2,4,3,0,276.15,vct-challengers,NA
-2975,flowerful,0,1,Killjoy,11,15,3,1,1,0,136.15,game-changers,NA
 2976,KP,0,1,Harbor,12,16,11,0,1,0,203.65,game-changers,NA
 2978,sonder,0,1,Jett,16,18,2,6,7,0,237.15,game-changers,NA
-2979,bENITA,0,1,Viper,13,17,4,1,2,1,186.6,game-changers,NA
 2992,florescent,1,0,Jett,17,9,3,3,1,1,305.6875,vct-challengers,NA
 3003,florescent,1,0,Yoru,20,17,11,2,2,0,259.04347826086956,vct-challengers,NA
 3005,sonder,0,1,Raze,24,18,7,5,4,0,330.6521739130435,game-changers,NA
 3006,KP,0,1,Skye,15,15,10,0,3,2,172.69565217391303,game-changers,NA
-3007,flowerful,0,1,Cypher,13,19,6,1,2,0,145.7391304347826,game-changers,NA
 3015,mmonch,1,0,Viper,26,13,5,4,2,0,370.63157894736844,game-changers,LATAM
 3016,JuW,1,0,Sage,19,9,6,4,1,0,249.05263157894737,game-changers,LATAM
 3017,ICamii,1,0,Astra,12,8,7,4,0,0,184.26315789473685,game-changers,LATAM
@@ -656,9 +637,7 @@
 3027,daiki,1,0,Skye,15,13,10,0,2,0,180.14285714285714,game-changers,BR
 3028,isaa,1,0,Viper,19,13,8,4,1,0,262.6190476190476,game-changers,BR
 3029,Joojina,1,0,Omen,13,11,7,2,2,0,174.1904761904762,game-changers,BR
-3046,flowerful,1,0,Cypher,14,10,5,2,1,2,198.0,game-changers,NA
 3047,KP,1,0,Breach,15,12,17,1,2,0,204.8421052631579,game-changers,NA
-3048,bENITA,1,0,Brimstone,12,14,14,3,1,0,204.1578947368421,game-changers,NA
 3049,sonder,1,0,Neon,23,12,6,3,2,0,330.36842105263156,game-changers,NA
 3060,conir,1,0,Harbor,15,13,6,1,1,0,229.95,vct-challengers,LATAM
 3061,shyz,1,0,Killjoy,18,8,3,3,1,1,243.9,game-changers,LATAM
@@ -679,7 +658,6 @@
 3113,Lizhi,1,0,Jett,25,25,11,6,6,0,246.8125,game-changers,INTL
 3114,Clem,1,0,Killjoy,28,22,5,2,5,0,227.8125,game-changers,INTL
 3143,florescent,0,1,Jett,19,16,2,4,1,0,219.0,vct-challengers,NA
-3145,flowerful,1,0,Killjoy,16,16,0,0,1,1,177.08333333333334,game-changers,NA
 3147,KP,1,0,Skye,16,15,6,1,0,2,184.70833333333334,game-changers,NA
 3149,sonder,1,0,Raze,23,19,6,3,7,0,268.8333333333333,game-changers,NA
 3170,m4ndfreak,1,0,Omen,8,5,8,2,2,0,173.3846153846154,game-changers,BR
@@ -703,8 +681,6 @@
 3262,WawaLee,1,0,Skye,13,9,8,1,1,0,190.76470588235293,game-changers,INTL
 3263,Lizhi,1,0,Jett,13,11,2,3,1,0,216.52941176470588,game-changers,INTL
 3264,Clem,1,0,Cypher,15,14,5,5,1,0,268.2352941176471,game-changers,INTL
-3316,bENITA,1,0,Viper,25,23,20,3,1,0,264.25,game-changers,NA
-3317,flowerful,1,0,Killjoy,30,20,5,4,2,1,264.0625,game-changers,NA
 3318,sonder,1,0,Jett,15,24,4,4,7,0,146.84375,game-changers,NA
 3319,KP,1,0,Harbor,23,22,13,1,5,0,202.75,game-changers,NA
 3325,bizerra,1,0,Viper,21,8,5,3,0,0,319.5882352941176,game-changers,BR
@@ -733,8 +709,6 @@
 3458,isaa,1,0,Viper,15,17,9,3,6,0,197.45833333333334,game-changers,BR
 3459,Joojina,1,0,Astra,21,18,9,3,1,0,231.41666666666666,game-changers,BR
 3506,KP,1,0,Breach,11,13,13,1,2,0,161.1,game-changers,NA
-3507,flowerful,1,0,Killjoy,22,15,3,5,0,0,301.3,game-changers,NA
-3508,bENITA,1,0,Astra,20,9,13,1,3,2,255.6,game-changers,NA
 3509,sonder,1,0,Raze,11,16,6,2,3,0,173.3,game-changers,NA
 3553,florescent,1,0,Jett,22,14,5,3,0,1,327.55555555555554,vct-challengers,NA
 3570,Petra,1,0,Sova,18,10,4,4,2,1,304.125,game-changers,EMEA
@@ -818,7 +792,6 @@
 3988,lissA,1,0,Omen,35,23,18,4,3,0,266.5,game-changers,BR
 3989,jellykitt,1,0,Jett,33,26,4,9,4,0,244.78947368421052,game-changers,BR
 4031,KP,0,1,Skye,17,16,11,3,3,0,227.42857142857142,game-changers,NA
-4032,flowerful,0,1,Killjoy,11,14,1,2,1,0,144.1904761904762,game-changers,NA
 4034,sonder,0,1,Raze,14,17,5,3,1,0,223.9047619047619,game-changers,NA
 4038,florescent,1,0,Jett,13,16,0,2,5,0,177.9047619047619,vct-challengers,NA
 4060,krysme,0,1,Killjoy,8,17,4,1,2,1,146.15,game-changers,BR
@@ -881,8 +854,6 @@
 4322,Glance,1,0,Omen,17,10,9,3,0,0,229.25,game-changers,EMEA
 4323,roxi,1,0,Cypher,8,8,9,1,3,0,130.8,game-changers,EMEA
 4324,sarah2,1,0,Raze,22,11,2,6,1,0,271.85,game-changers,EMEA
-4340,bENITA,1,0,Viper,8,11,13,1,1,0,144.0,game-changers,NA
-4341,flowerful,1,0,Killjoy,13,11,1,1,3,1,190.73684210526315,game-changers,NA
 4342,KP,1,0,Harbor,13,15,2,2,4,0,177.31578947368422,game-changers,NA
 4344,sonder,1,0,Jett,27,12,5,5,1,0,409.0,game-changers,NA
 4415,ICamii,1,0,Killjoy,15,11,3,2,4,0,258.11764705882354,game-changers,LATAM
@@ -1000,11 +971,8 @@
 4809,sarah2,1,0,Raze,11,18,1,2,6,0,126.79166666666667,game-changers,EMEA
 4840,sonder,1,0,KAY/O,20,14,13,3,3,0,261.40909090909093,game-changers,NA
 4841,KP,1,0,Sova,16,12,4,3,1,1,171.77272727272728,game-changers,NA
-4844,flowerful,1,0,Killjoy,21,14,3,1,1,0,273.3181818181818,game-changers,NA
 4854,florescent,1,0,Jett,28,15,6,7,2,1,322.9130434782609,vct-challengers,NA
-4855,flowerful,0,1,Killjoy,15,15,2,1,3,1,185.1304347826087,game-changers,NA
 4856,KP,0,1,Sova,15,17,13,3,1,0,208.82608695652175,game-changers,NA
-4858,bENITA,0,1,Astra,12,21,6,2,3,0,166.34782608695653,game-changers,NA
 4859,sonder,0,1,Jett,17,18,4,3,6,0,227.69565217391303,game-changers,NA
 4864,dodonut,0,1,Raze,5,13,1,2,7,0,91.5,game-changers,NA
 4870,Vania,1,0,Omen,21,11,7,4,2,1,264.6,vct-international,EMEA
@@ -1033,7 +1001,6 @@
 4957,mimi,1,0,Skye,28,17,14,6,3,2,300.3076923076923,game-changers,EMEA
 4958,Petra,1,0,Raze,15,21,9,4,4,0,183.23076923076923,game-changers,EMEA
 4959,sarah2,1,0,Viper,15,17,8,3,1,1,165.73076923076923,game-changers,EMEA
-4960,flowerful,0,1,Chamber,11,15,3,4,1,1,158.13636363636363,game-changers,NA
 4962,sonder,0,1,Raze,14,18,6,3,5,0,218.5,game-changers,NA
 4963,KP,0,1,Omen,19,13,6,0,1,1,241.1818181818182,game-changers,NA
 4995,conir,1,0,Omen,11,16,7,2,1,0,136.7826086956522,vct-challengers,LATAM
@@ -1056,7 +1023,6 @@
 5057,sayuri,0,1,Brimstone,11,16,4,0,0,0,183.33333333333334,game-changers,BR
 5058,mell1,0,1,Sage,13,15,4,2,2,0,211.05555555555554,game-changers,BR
 5059,nanah,0,1,Viper,9,13,4,1,2,0,146.05555555555554,game-changers,BR
-5085,flowerful,1,0,Killjoy,21,9,4,6,1,0,387.9375,game-changers,NA
 5086,sonder,1,0,KAY/O,16,8,8,3,1,0,230.1875,game-changers,NA
 5087,KP,1,0,Sova,5,7,11,0,0,0,138.1875,game-changers,NA
 5100,Ninou,1,0,Sova,17,9,4,0,0,2,204.45,game-changers,EMEA
@@ -11354,7 +11320,6 @@
 47702,BONECOLD,0,1,Brimstone,5,14,3,0,1,0,112.93333333333334,vct-international,INTL
 47703,MOLSI,0,1,Fade,7,13,2,0,0,0,117.33333333333333,vct-international,INTL
 47704,ceNder,0,1,Killjoy,3,13,4,2,3,0,104.0,vct-international,INTL
-47710,TenZ,0,1,Jett,8,13,2,2,4,0,118.23529411764706,vct-international,NA
 47711,Sacy,0,1,Viper,7,15,3,0,5,0,119.47058823529412,vct-international,NA
 47713,zekken,0,1,Sova,11,13,8,0,1,0,218.23529411764707,vct-international,NA
 47714,pANcada,0,1,Astra,8,12,6,1,3,0,146.88235294117646,vct-international,NA
@@ -11540,7 +11505,6 @@
 48177,JessieVash,0,1,Sova,13,17,9,0,0,0,160.5,vct-international,SEA
 48178,DubsteP,0,1,Killjoy,23,17,1,2,1,2,223.83333333333334,vct-international,SEA
 48179,BORKUM,0,1,Omen,15,16,8,0,6,0,166.29166666666666,vct-international,SEA
-48180,TenZ,0,1,Jett,5,14,2,1,8,1,113.8,vct-international,NA
 48181,Sacy,0,1,Viper,8,15,1,1,0,0,161.13333333333333,vct-international,NA
 48183,zekken,0,1,Sova,12,15,2,1,1,0,245.13333333333333,vct-international,NA
 48184,pANcada,0,1,Killjoy,13,13,2,2,0,1,277.2,vct-international,NA
@@ -11549,7 +11513,6 @@
 48192,d4v41,1,0,KAY/O,18,6,9,1,1,0,284.73333333333335,vct-international,SEA
 48193,something,1,0,Jett,10,8,6,4,0,0,200.06666666666666,vct-international,SEA
 48194,Jinggg,1,0,Sage,13,7,4,2,3,1,227.8,vct-international,SEA
-48205,TenZ,0,1,Jett,8,16,5,2,7,0,111.69565217391305,vct-international,NA
 48206,Sacy,0,1,Viper,11,15,5,1,2,0,149.52173913043478,vct-international,NA
 48208,zekken,0,1,Skye,22,16,6,0,1,1,275.95652173913044,vct-international,NA
 48209,pANcada,0,1,Killjoy,11,15,2,0,2,0,139.34782608695653,vct-international,NA
@@ -11590,7 +11553,6 @@
 48280,Asuna,0,1,KAY/O,15,19,15,2,2,2,191.15384615384616,vct-international,NA
 48281,Cryo,0,1,Jett,18,19,2,4,4,0,168.19230769230768,vct-international,NA
 48284,bang,0,1,Omen,20,20,9,3,3,1,226.92307692307693,vct-international,NA
-48285,TenZ,1,0,Jett,23,14,3,6,5,0,239.1153846153846,vct-international,NA
 48286,Sacy,1,0,Omen,17,16,18,2,0,0,184.26923076923077,vct-international,NA
 48288,zekken,1,0,Sova,14,13,10,1,5,1,172.34615384615384,vct-international,NA
 48289,pANcada,1,0,Killjoy,22,16,7,0,2,0,232.80769230769232,vct-international,NA
@@ -12077,7 +12039,6 @@
 49280,Asuna,0,1,Skye,19,16,11,4,0,0,229.29166666666666,vct-international,NA
 49281,Cryo,0,1,Jett,13,20,3,6,5,1,160.58333333333334,vct-international,NA
 49284,bang,0,1,Brimstone,16,19,7,1,1,0,179.66666666666666,vct-international,NA
-49285,TenZ,1,0,Jett,25,15,3,4,3,0,277.4166666666667,vct-international,NA
 49286,Sacy,1,0,Brimstone,17,17,13,2,1,0,217.95833333333334,vct-international,NA
 49288,zekken,1,0,Raze,25,17,6,4,5,0,321.75,vct-international,NA
 49289,pANcada,1,0,Killjoy,11,13,4,0,3,0,134.79166666666666,vct-international,NA
@@ -12142,7 +12103,6 @@
 49394,Jinggg,0,1,Raze,20,18,6,3,2,0,259.6521739130435,vct-international,SEA
 49407,whzy,1,0,Raze,31,15,4,8,2,0,396.6666666666667,vct-international,CN
 49413,keznitdeuS,0,1,Raze,17,18,4,3,5,0,239.1304347826087,vct-international,LATAM
-49415,TenZ,1,0,Jett,18,17,8,6,3,0,225.34782608695653,vct-international,NA
 49416,Sacy,1,0,Skye,13,15,9,0,2,0,164.2608695652174,vct-international,NA
 49417,Marved,1,0,Brimstone,21,13,12,1,2,1,245.17391304347825,vct-international,NA
 49418,zekken,1,0,Raze,21,17,4,6,2,0,262.04347826086956,vct-international,NA
@@ -12540,7 +12500,6 @@
 50262,stax,1,0,Breach,18,11,5,1,2,1,230.05,vct-international,KR
 50263,MaKo,1,0,Omen,13,11,7,1,1,0,199.25,vct-international,KR
 50264,Rb,1,0,Sova,17,11,5,2,0,2,243.15,vct-international,KR
-50270,TenZ,0,1,Jett,14,13,3,2,5,2,193.42105263157896,vct-international,NA
 50271,Sacy,0,1,Skye,13,16,7,1,2,1,182.26315789473685,vct-international,NA
 50273,zekken,0,1,Breach,8,16,9,2,2,0,124.57894736842105,vct-international,NA
 50274,pANcada,0,1,Omen,11,17,6,0,1,0,157.52631578947367,vct-international,NA
@@ -12611,7 +12570,6 @@
 50387,Boaster,1,0,Brimstone,12,10,7,0,1,2,154.73684210526315,vct-international,INTL
 50388,Alfajer,1,0,Cypher,8,13,7,2,2,0,129.8421052631579,vct-international,INTL
 50389,Leo ,1,0,Skye,18,10,4,0,0,0,245.47368421052633,vct-international,INTL
-50395,TenZ,1,0,Jett,9,18,7,2,6,0,130.29166666666666,vct-international,NA
 50396,Sacy,1,0,Omen,18,16,9,3,2,0,216.875,vct-international,NA
 50398,zekken,1,0,Sova,29,15,9,2,2,1,336.0,vct-international,NA
 50399,pANcada,1,0,Killjoy,18,17,6,2,1,0,207.41666666666666,vct-international,NA
@@ -12758,7 +12716,6 @@
 50732,Haodong,1,0,Astra,11,13,4,0,1,0,142.52380952380952,vct-international,CN
 50733,nobody ,1,0,Skye,15,14,11,1,1,0,194.76190476190476,vct-international,CN
 50734,Smoggy,1,0,Jett,14,13,4,3,4,1,171.0,vct-international,CN
-50740,TenZ,0,1,Sage,12,14,5,3,1,1,174.5,vct-international,NA
 50741,Sacy,0,1,Skye,11,15,3,2,4,0,161.55,vct-international,NA
 50743,zekken,0,1,Raze,7,16,2,2,3,0,115.45,vct-international,NA
 50744,pANcada,0,1,Viper,17,13,2,1,1,0,240.6,vct-international,NA
@@ -12801,7 +12758,6 @@
 50810,Asuna,1,0,Raze,26,21,10,7,3,0,334.1923076923077,vct-international,NA
 50811,Cryo,1,0,Sage,16,19,12,4,2,2,176.69230769230768,vct-international,NA
 50814,bang,1,0,Astra,13,19,6,0,3,1,130.15384615384616,vct-international,NA
-50815,TenZ,0,1,Jett,20,21,5,4,7,0,242.34615384615384,vct-international,NA
 50816,Sacy,0,1,Sage,23,16,9,2,2,1,268.1923076923077,vct-international,NA
 50818,zekken,0,1,Skye,23,17,12,2,2,0,259.53846153846155,vct-international,NA
 50819,pANcada,0,1,Viper,17,19,6,0,3,0,194.69230769230768,vct-international,NA
@@ -12840,7 +12796,6 @@
 50911,Cryo,0,1,Jett,10,16,4,1,5,0,184.8235294117647,vct-international,NA
 50914,bang,0,1,Omen,8,14,6,2,2,1,165.0,vct-international,NA
 50918,keznitdeuS,1,0,Jett,23,10,2,4,3,0,342.3529411764706,vct-international,LATAM
-50920,TenZ,1,0,Jett,21,13,4,4,1,0,284.5,vct-international,NA
 50921,Sacy,1,0,Skye,12,12,7,2,1,0,178.15,vct-international,NA
 50922,Marved,1,0,Astra,11,12,5,1,3,0,146.25,vct-international,NA
 50923,zekken,1,0,Raze,19,14,5,3,3,1,297.95,vct-international,NA
@@ -12882,7 +12837,6 @@
 50997,MrFaliN,0,1,Omen,15,17,11,1,3,0,195.27272727272728,vct-international,INTL
 50998,qw1,0,1,Jett,21,14,1,7,2,0,247.63636363636363,vct-international,INTL
 50999,qRaxs,0,1,Gekko,16,16,11,1,1,0,230.0909090909091,vct-international,INTL
-51010,TenZ,0,1,Sage,18,18,5,1,3,0,199.30769230769232,vct-international,NA
 51011,Sacy,0,1,Viper,11,18,6,4,2,0,141.19230769230768,vct-international,NA
 51013,zekken,0,1,Raze,21,18,6,7,3,0,261.6923076923077,vct-international,NA
 51014,pANcada,0,1,Astra,17,14,10,1,2,0,183.73076923076923,vct-international,NA
@@ -13024,7 +12978,6 @@
 51309,Jinggg,0,1,Sage,12,17,11,3,3,0,183.61904761904762,vct-international,SEA
 51310,qck,1,0,Viper,7,9,2,0,3,1,88.33333333333333,vct-international,BR
 51311,dgzin,1,0,Jett,24,12,2,6,1,0,358.1111111111111,vct-international,BR
-51315,TenZ,0,1,Jett,15,14,6,5,1,0,252.83333333333334,vct-international,NA
 51316,Sacy,0,1,Sova,14,15,4,2,3,0,211.72222222222223,vct-international,NA
 51317,Marved,0,1,Astra,9,15,4,1,3,0,138.0,vct-international,NA
 51318,zekken,0,1,Breach,7,17,10,0,2,0,117.66666666666667,vct-international,NA
@@ -13494,7 +13447,6 @@
 52305,Boo,1,0,Killjoy,15,13,2,3,1,1,207.72727272727272,vct-international,INTL
 52310,qck,0,1,Viper,28,23,12,2,4,0,223.25,vct-international,BR
 52311,dgzin,0,1,Jett,21,27,3,8,5,0,163.25,vct-international,BR
-52315,TenZ,1,0,Jett,25,26,8,7,9,1,212.83333333333334,vct-international,NA
 52316,Sacy,1,0,Skye,23,25,11,2,0,0,192.5,vct-international,NA
 52317,Marved,1,0,Brimstone,27,23,11,1,6,1,210.27777777777777,vct-international,NA
 52318,zekken,1,0,Raze,31,26,10,6,0,0,256.44444444444446,vct-international,NA
@@ -13535,7 +13487,6 @@
 52377,Runi,1,0,Viper,15,9,9,3,2,0,274.11764705882354,vct-international,NA
 52378,Zellsis,1,0,Killjoy,15,9,2,1,2,1,220.47058823529412,vct-international,NA
 52403,keznitdeuS,0,1,Jett,23,15,1,3,6,2,230.53846153846155,vct-international,LATAM
-52405,TenZ,1,0,Neon,16,18,9,4,5,0,208.6153846153846,vct-international,NA
 52406,Sacy,1,0,Skye,18,18,6,4,1,1,196.53846153846155,vct-international,NA
 52407,Marved,1,0,Viper,12,19,5,3,1,0,135.92307692307693,vct-international,NA
 52408,zekken,1,0,Omen,28,18,9,2,4,2,303.5,vct-international,NA
@@ -13716,7 +13667,6 @@
 52812,Flashback,1,0,Cypher,16,10,6,2,1,1,216.89473684210526,vct-international,KR
 52814,BuZz,1,0,Jett,19,14,5,4,3,2,266.36842105263156,vct-international,KR
 52817,Munchkin,0,1,Viper,12,15,7,0,1,0,194.0,vct-international,NA
-52820,TenZ,1,0,Omen,18,13,4,3,1,1,196.0,vct-international,NA
 52821,zekken,1,0,Raze,19,19,4,4,5,0,256.7826086956522,vct-international,NA
 52822,johnqt,1,0,Cypher,11,16,6,2,3,0,158.0,vct-international,NA
 52823,Zellsis,1,0,Viper,12,12,7,1,1,0,148.7826086956522,vct-international,NA
@@ -13728,7 +13678,6 @@
 52852,d4v41,0,1,Sage,10,14,7,1,3,0,187.3125,vct-international,SEA
 52853,something,0,1,Gekko,10,15,8,2,3,0,217.25,vct-international,SEA
 52854,f0rsakeN,0,1,KAY/O,8,14,5,0,2,0,129.6875,vct-international,SEA
-52855,TenZ,1,0,Omen,22,9,10,3,0,1,345.8125,vct-international,NA
 52856,Zellsis,1,0,KAY/O,11,8,12,1,0,0,205.375,vct-international,NA
 52857,johnqt,1,0,Cypher,15,8,4,2,0,0,247.75,vct-international,NA
 52858,zekken,1,0,Raze,18,12,2,5,3,0,318.4375,vct-international,NA
@@ -13745,7 +13694,6 @@
 52875,Kicks,0,1,Killjoy,9,16,0,0,1,0,156.26315789473685,vct-international,INTL
 52876,runneR,0,1,Neon,10,16,5,3,2,0,165.94736842105263,vct-international,INTL
 52877,ceNder,0,1,Omen,9,12,6,1,0,0,136.52631578947367,vct-international,INTL
-52885,TenZ,1,0,KAY/O,28,13,14,3,2,0,367.45454545454544,vct-international,NA
 52886,zekken,1,0,Jett,19,15,2,9,1,0,258.04545454545456,vct-international,NA
 52887,johnqt,1,0,Viper,10,11,11,1,2,1,136.13636363636363,vct-international,NA
 52888,Zellsis,1,0,Killjoy,18,13,1,2,0,0,187.36363636363637,vct-international,NA
@@ -13766,7 +13714,6 @@
 52932,Flashback,1,0,Astra,17,7,2,1,0,1,242.52941176470588,vct-international,KR
 52934,BuZz,1,0,Jett,15,9,2,3,3,0,228.58823529411765,vct-international,KR
 52938,hiroronn,0,1,Sova,5,15,6,1,2,0,90.3529411764706,vct-international,JP
-52950,TenZ,1,0,Omen,14,12,14,3,0,0,218.05263157894737,vct-international,NA
 52951,zekken,1,0,Raze,20,15,5,5,3,0,311.94736842105266,vct-international,NA
 52952,johnqt,1,0,Cypher,15,9,2,1,1,0,194.0,vct-international,NA
 52953,Zellsis,1,0,Viper,14,8,9,0,2,0,196.0,vct-international,NA
@@ -13807,7 +13754,6 @@
 53018,benjyfishy,1,0,Viper,27,13,6,3,1,1,319.6818181818182,vct-international,INTL
 53019,Wo0t,1,0,Fade,15,12,2,5,2,0,191.4090909090909,vct-international,INTL
 53020,aspas,0,1,Jett,15,13,1,1,2,1,247.625,vct-international,LAS
-53025,TenZ,1,0,Omen,11,11,7,2,1,1,172.125,vct-international,NA
 53026,Zellsis,1,0,Viper,15,9,10,3,3,1,265.3125,vct-international,NA
 53027,johnqt,1,0,Cypher,15,10,6,3,0,1,254.25,vct-international,NA
 53028,zekken,1,0,Raze,19,8,8,2,0,0,339.75,vct-international,NA
@@ -13874,7 +13820,6 @@
 53122,Flashback,1,0,Cypher,14,14,4,3,2,0,179.65217391304347,vct-international,KR
 53124,BuZz,1,0,Neon,11,19,5,3,5,0,135.08695652173913,vct-international,KR
 53127,Munchkin,0,1,KAY/O,11,15,19,2,2,0,174.7391304347826,vct-international,NA
-53130,TenZ,1,0,Omen,13,9,8,1,1,0,194.16666666666666,vct-international,NA
 53131,zekken,1,0,Jett,19,10,3,7,1,1,284.27777777777777,vct-international,NA
 53132,johnqt,1,0,Killjoy,15,11,2,3,1,0,227.11111111111111,vct-international,NA
 53133,Zellsis,1,0,Breach,13,7,10,0,1,1,193.11111111111111,vct-international,NA
@@ -13907,7 +13852,6 @@
 53197,Boaster,0,1,Astra,10,15,6,2,1,0,120.0,vct-international,INTL
 53198,Alfajer,0,1,Iso,15,16,5,1,4,0,207.45454545454547,vct-international,INTL
 53199,hiro ,0,1,Cypher,11,15,8,2,3,1,140.1818181818182,vct-international,INTL
-53200,TenZ,0,1,Omen,8,16,4,0,3,0,118.72222222222223,vct-international,NA
 53201,Zellsis,0,1,KAY/O,6,16,8,0,2,0,91.5,vct-international,NA
 53202,johnqt,0,1,Cypher,10,17,4,0,2,0,176.05555555555554,vct-international,NA
 53203,zekken,0,1,Raze,17,14,2,4,3,1,276.5,vct-international,NA
@@ -13948,7 +13892,6 @@
 53295,Kicks,1,0,Sova,13,14,13,0,2,2,179.95454545454547,vct-international,INTL
 53296,runneR,1,0,Yoru,14,18,8,2,3,0,197.36363636363637,vct-international,INTL
 53297,ceNder,1,0,Viper,17,16,9,1,5,0,244.0909090909091,vct-international,INTL
-53300,TenZ,0,1,Omen,17,18,12,3,2,0,215.34782608695653,vct-international,NA
 53301,zekken,0,1,Raze,23,20,1,7,2,0,305.7391304347826,vct-international,NA
 53302,johnqt,0,1,Cypher,19,16,8,1,3,1,211.43478260869566,vct-international,NA
 53303,Zellsis,0,1,KAY/O,15,16,16,0,4,1,185.52173913043478,vct-international,NA
@@ -14035,7 +13978,6 @@
 53516,bang,1,0,Viper,15,6,4,3,1,0,276.3333333333333,vct-international,NA
 53518,Cryo,1,0,Jett,14,9,2,2,2,0,244.86666666666667,vct-international,NA
 53519,Asuna,1,0,Gekko,9,4,5,1,1,0,166.53333333333333,vct-international,NA
-53520,TenZ,1,0,Omen,11,14,9,1,2,0,174.71428571428572,vct-international,NA
 53521,zekken,1,0,Raze,21,14,3,9,4,0,307.5238095238095,vct-international,NA
 53522,johnqt,1,0,Cypher,11,10,3,0,0,1,126.0952380952381,vct-international,NA
 53523,Zellsis,1,0,Viper,18,11,4,0,2,0,222.8095238095238,vct-international,NA
@@ -14229,7 +14171,6 @@
 53986,Foxy9,0,1,KAY/O,18,15,13,4,3,1,237.4,vct-international,KR
 53987,Flashback,0,1,Cypher,19,22,4,3,0,0,226.28,vct-international,KR
 53989,BuZz,0,1,Jett,20,16,2,4,6,1,222.12,vct-international,KR
-53990,TenZ,1,0,Omen,30,17,15,5,2,0,287.5,vct-international,NA
 53991,Zellsis,1,0,KAY/O,14,16,18,1,0,0,156.4,vct-international,NA
 53992,johnqt,1,0,Cypher,18,19,8,1,1,0,175.9,vct-international,NA
 53993,zekken,1,0,Raze,31,18,3,10,7,0,294.8,vct-international,NA
@@ -14337,7 +14278,6 @@
 54252,S1Mon,1,0,Breach,15,13,10,4,0,1,187.63636363636363,vct-international,CN
 54253,nobody ,1,0,Fade,15,14,4,1,3,1,178.72727272727272,vct-international,CN
 54254,Smoggy,1,0,Clove,17,19,10,1,0,0,229.45454545454547,vct-international,CN
-54255,TenZ,0,1,Omen,12,17,11,1,3,0,164.5909090909091,vct-international,NA
 54256,zekken,0,1,Raze,19,17,5,4,4,0,256.3636363636364,vct-international,NA
 54257,johnqt,0,1,Viper,13,13,4,1,3,1,153.04545454545453,vct-international,NA
 54258,Zellsis,0,1,Killjoy,16,13,3,2,2,0,203.0,vct-international,NA
@@ -14389,7 +14329,6 @@
 54357,Boo,1,0,Omen,13,15,10,2,1,0,174.1818181818182,vct-international,INTL
 54358,benjyfishy,1,0,Viper,24,13,13,3,1,1,329.59090909090907,vct-international,INTL
 54359,Wo0t,1,0,Skye,17,16,4,3,2,0,198.04545454545453,vct-international,INTL
-54360,TenZ,0,1,Omen,10,18,7,0,2,0,179.05555555555554,vct-international,NA
 54361,Zellsis,0,1,Viper,11,15,3,0,3,1,181.61111111111111,vct-international,NA
 54362,johnqt,0,1,Cypher,9,15,2,2,1,0,163.27777777777777,vct-international,NA
 54363,zekken,0,1,Raze,13,17,6,0,4,0,238.55555555555554,vct-international,NA
@@ -14422,12 +14361,10 @@
 54407,JessieVash,1,0,Sova,14,12,12,1,1,0,192.63636363636363,vct-international,SEA
 54408,Invy,1,0,KAY/O,19,13,12,4,1,0,226.0909090909091,vct-international,SEA
 54422,Munchkin,0,1,KAY/O,11,16,9,1,3,0,175.52631578947367,vct-international,NA
-54425,TenZ,1,0,KAY/O,20,13,16,1,1,0,287.63157894736844,vct-international,NA
 54426,zekken,1,0,Jett,17,12,4,4,2,0,223.26315789473685,vct-international,NA
 54427,johnqt,1,0,Viper,11,10,9,1,1,0,159.26315789473685,vct-international,NA
 54428,Zellsis,1,0,Killjoy,13,11,3,1,3,2,192.21052631578948,vct-international,NA
 54429,Sacy,1,0,Sova,19,10,5,3,2,1,273.8421052631579,vct-international,NA
-54430,TenZ,0,1,KAY/O,14,23,18,0,3,1,168.1153846153846,vct-international,NA
 54431,Zellsis,0,1,Killjoy,14,20,6,0,4,0,187.07692307692307,vct-international,NA
 54432,johnqt,0,1,Viper,21,16,6,1,1,2,231.46153846153845,vct-international,NA
 54433,zekken,0,1,Jett,20,20,0,6,5,0,223.1153846153846,vct-international,NA
@@ -14471,7 +14408,6 @@
 54492,Boo,1,0,Viper,20,12,5,5,1,1,248.77272727272728,vct-international,INTL
 54493,benjyfishy,1,0,Killjoy,19,14,2,2,0,0,223.5,vct-international,INTL
 54494,Wo0t,1,0,Gekko,11,14,4,3,2,1,143.0,vct-international,INTL
-54495,TenZ,0,1,KAY/O,12,16,15,1,4,0,168.5909090909091,vct-international,NA
 54496,zekken,0,1,Jett,17,15,2,2,3,0,197.72727272727272,vct-international,NA
 54497,johnqt,0,1,Viper,6,16,6,2,2,0,118.86363636363636,vct-international,NA
 54498,Zellsis,0,1,Killjoy,22,16,2,2,2,0,271.22727272727275,vct-international,NA
@@ -14534,7 +14470,6 @@
 54637,Boo,0,1,Omen,14,14,6,1,0,0,199.57894736842104,vct-international,INTL
 54638,benjyfishy,0,1,Viper,10,13,2,1,4,0,141.3684210526316,vct-international,INTL
 54639,Wo0t,0,1,Raze,10,15,4,3,6,0,154.21052631578948,vct-international,INTL
-54640,TenZ,1,0,Omen,14,12,9,1,1,0,166.13636363636363,vct-international,NA
 54641,zekken,1,0,Raze,23,16,7,5,3,0,267.8636363636364,vct-international,NA
 54642,johnqt,1,0,Viper,15,12,11,3,0,1,188.3181818181818,vct-international,NA
 54643,Zellsis,1,0,Killjoy,20,13,3,4,1,0,245.1818181818182,vct-international,NA
@@ -14587,7 +14522,6 @@
 54787,Boaster,1,0,Brimstone,7,13,10,3,3,1,107.625,vct-international,INTL
 54788,Leo ,1,0,Gekko,17,12,6,0,1,1,188.375,vct-international,INTL
 54789,Alfajer,1,0,Viper,15,17,1,0,1,0,179.41666666666666,vct-international,INTL
-54790,TenZ,1,0,Yoru,14,16,10,3,2,0,206.13636363636363,vct-international,NA
 54791,Zellsis,1,0,Brimstone,15,15,13,2,1,0,191.13636363636363,vct-international,NA
 54792,johnqt,1,0,Viper,13,11,6,2,1,1,155.0,vct-international,NA
 54793,zekken,1,0,Raze,23,16,3,5,2,0,298.6363636363636,vct-international,NA
@@ -14598,7 +14532,6 @@
 54817,Boo,0,1,Omen,11,14,4,2,2,0,149.26315789473685,vct-international,INTL
 54818,benjyfishy,0,1,Cypher,12,16,7,1,4,0,199.3684210526316,vct-international,INTL
 54819,Wo0t,0,1,Raze,13,15,5,1,5,0,225.8421052631579,vct-international,INTL
-54830,TenZ,0,1,Gekko,14,18,6,4,3,0,192.16666666666666,vct-international,NA
 54831,zekken,0,1,Raze,9,19,6,2,2,0,132.625,vct-international,NA
 54832,johnqt,0,1,Viper,17,17,8,1,0,1,209.25,vct-international,NA
 54833,Zellsis,0,1,Brimstone,15,17,10,4,3,0,202.625,vct-international,NA
@@ -14632,7 +14565,6 @@
 54894,Xeppaa,1,0,Skye,14,12,9,1,4,0,201.8095238095238,vct-international,NA
 54897,NaturE,0,1,Breach,8,14,14,0,0,0,128.8095238095238,vct-international,NA
 54902,NaturE,0,1,Viper,9,18,3,0,4,1,108.0,vct-international,NA
-54905,TenZ,1,0,Omen,21,17,14,1,0,1,261.5217391304348,vct-international,NA
 54906,zekken,1,0,Raze,22,16,3,7,4,0,255.2608695652174,vct-international,NA
 54907,johnqt,1,0,Viper,18,14,11,1,1,0,201.0,vct-international,NA
 54908,Zellsis,1,0,Killjoy,16,17,6,3,4,0,224.52173913043478,vct-international,NA
@@ -14649,12 +14581,10 @@
 54932,Boaster,0,1,Astra,9,17,9,2,2,0,133.45833333333334,vct-international,INTL
 54933,Alfajer,0,1,Breach,20,15,13,3,0,0,214.83333333333334,vct-international,INTL
 54934,hiro ,0,1,Cypher,12,18,1,1,1,0,130.45833333333334,vct-international,INTL
-54935,TenZ,1,0,Omen,12,18,8,0,2,0,145.08333333333334,vct-international,NA
 54936,zekken,1,0,Raze,16,20,7,4,9,0,197.70833333333334,vct-international,NA
 54937,johnqt,1,0,Cypher,23,12,4,2,0,3,244.45833333333334,vct-international,NA
 54938,Zellsis,1,0,KAY/O,15,17,10,1,1,1,175.45833333333334,vct-international,NA
 54939,Sacy,1,0,Gekko,17,18,8,2,3,1,225.91666666666666,vct-international,NA
-54940,TenZ,1,0,Omen,18,20,10,1,1,0,207.84615384615384,vct-international,NA
 54941,Zellsis,1,0,KAY/O,13,23,17,2,3,0,160.80769230769232,vct-international,NA
 54942,johnqt,1,0,Cypher,21,19,4,4,1,1,235.80769230769232,vct-international,NA
 54943,zekken,1,0,Raze,14,21,5,3,7,1,166.84615384615384,vct-international,NA
@@ -14664,7 +14594,6 @@
 54947,Saadhak,0,1,Sova,21,17,10,4,2,1,226.8846153846154,vct-international,BR
 54948,Less,0,1,Viper,17,16,10,4,2,0,210.30769230769232,vct-international,BR
 54949,tuyz,0,1,Omen,20,13,8,1,2,0,198.84615384615384,vct-international,BR
-54960,TenZ,1,0,Omen,14,14,9,5,3,0,239.23529411764707,vct-international,NA
 54961,Zellsis,1,0,Killjoy,10,13,6,0,3,1,164.52941176470588,vct-international,NA
 54962,johnqt,1,0,Viper,16,12,5,0,0,2,229.1764705882353,vct-international,NA
 54963,zekken,1,0,Raze,18,13,8,4,2,1,307.88235294117646,vct-international,NA
@@ -14674,7 +14603,6 @@
 54967,Saadhak,0,1,Skye,10,15,6,0,0,1,174.41176470588235,vct-international,BR
 54968,Less,0,1,Viper,14,13,3,0,2,0,233.11764705882354,vct-international,BR
 54969,tuyz,0,1,Omen,12,14,8,1,2,0,208.7058823529412,vct-international,BR
-54970,TenZ,1,0,Omen,22,12,13,4,3,0,251.25,vct-international,NA
 54971,Zellsis,1,0,Killjoy,16,14,4,1,2,1,194.54166666666666,vct-international,NA
 54972,johnqt,1,0,Viper,21,12,9,4,1,0,266.3333333333333,vct-international,NA
 54973,zekken,1,0,Raze,15,18,4,2,5,0,174.91666666666666,vct-international,NA
@@ -14686,7 +14614,6 @@
 54992,d4v41,0,1,Omen,5,17,6,1,3,0,94.94736842105263,vct-international,SEA
 54993,something,0,1,Gekko,8,14,6,3,1,0,143.42105263157896,vct-international,SEA
 54994,f0rsakeN,0,1,Fade,13,14,6,0,3,0,182.78947368421052,vct-international,SEA
-54995,TenZ,1,0,Omen,16,11,13,4,1,1,225.68421052631578,vct-international,NA
 54996,Zellsis,1,0,KAY/O,7,12,19,1,0,0,131.68421052631578,vct-international,NA
 54997,johnqt,1,0,Killjoy,13,8,4,1,0,1,176.57894736842104,vct-international,NA
 54998,zekken,1,0,Jett,25,10,3,5,5,0,351.0,vct-international,NA
@@ -14698,7 +14625,6 @@
 55017,carpe,0,1,Sova,14,16,10,1,0,0,168.29166666666666,vct-international,NA
 55019,Sayaplayer,0,1,Jett,19,16,7,5,4,1,226.125,vct-international,NA
 55020,aspas,1,0,Raze,47,19,6,7,3,0,372.3611111111111,vct-international,LAS
-55025,TenZ,0,1,Omen,18,29,14,5,6,1,167.83333333333334,vct-international,NA
 55026,zekken,0,1,Raze,20,32,5,2,6,0,170.47222222222223,vct-international,NA
 55027,johnqt,0,1,Viper,29,21,6,2,2,3,230.41666666666666,vct-international,NA
 55028,Zellsis,0,1,Killjoy,23,25,1,2,4,1,193.36111111111111,vct-international,NA
@@ -14735,7 +14661,6 @@
 55082,S1Mon,1,0,KAY/O,7,13,14,1,2,0,112.6842105263158,vct-international,CN
 55083,nobody ,1,0,Sova,20,13,3,3,0,2,261.94736842105266,vct-international,CN
 55084,Smoggy,1,0,Omen,12,12,9,1,3,0,152.3684210526316,vct-international,CN
-55085,TenZ,0,1,Omen,21,17,7,1,1,0,307.36842105263156,vct-international,NA
 55086,zekken,0,1,Neon,17,17,4,3,6,0,265.10526315789474,vct-international,NA
 55087,johnqt,0,1,Cypher,9,13,5,2,2,0,144.78947368421052,vct-international,NA
 55088,Zellsis,0,1,Breach,8,15,8,1,2,0,142.78947368421052,vct-international,NA
@@ -14746,7 +14671,6 @@
 55093,Invy,1,0,Sage,10,6,8,0,1,0,182.78571428571428,vct-international,SEA
 55098,hiroronn,0,1,Sova,4,14,1,0,0,0,112.57142857142857,vct-international,JP
 55107,Munchkin,0,1,KAY/O,14,18,11,1,6,0,174.625,vct-international,NA
-55110,TenZ,1,0,Omen,20,9,15,1,1,0,268.7142857142857,vct-international,NA
 55111,Zellsis,1,0,Viper,13,14,5,1,3,0,170.14285714285714,vct-international,NA
 55112,johnqt,1,0,Cypher,12,9,5,2,0,0,165.9047619047619,vct-international,NA
 55113,zekken,1,0,Raze,26,12,3,6,3,0,333.6190476190476,vct-international,NA
@@ -14755,13 +14679,11 @@
 55121,Foxy9,0,1,Breach,23,17,13,1,0,0,220.92857142857142,vct-international,KR
 55122,Flashback,0,1,Cypher,22,18,4,3,1,1,220.57142857142858,vct-international,KR
 55124,BuZz,0,1,Neon,18,22,10,4,7,0,197.21428571428572,vct-international,KR
-55125,TenZ,1,0,Omen,21,19,13,3,3,0,211.64285714285714,vct-international,NA
 55126,zekken,1,0,Neon,27,23,8,8,4,0,289.39285714285717,vct-international,NA
 55127,johnqt,1,0,Cypher,15,15,7,1,2,0,140.60714285714286,vct-international,NA
 55128,Zellsis,1,0,Breach,17,17,17,2,2,2,191.07142857142858,vct-international,NA
 55129,Sacy,1,0,Fade,18,20,16,1,2,1,182.85714285714286,vct-international,NA
 55130,keznitdeuS,1,0,Reyna,18,11,1,4,6,1,239.47368421052633,vct-international,LATAM
-55140,TenZ,0,1,Omen,15,15,11,3,4,0,226.8095238095238,vct-international,NA
 55141,zekken,0,1,Jett,7,19,4,1,4,0,115.47619047619048,vct-international,NA
 55142,johnqt,0,1,Cypher,9,16,3,2,0,0,132.0952380952381,vct-international,NA
 55143,Zellsis,0,1,Breach,11,14,12,3,1,0,152.23809523809524,vct-international,NA
@@ -14805,7 +14727,6 @@
 55221,Cryo,1,0,Brimstone,13,12,8,0,1,0,158.8421052631579,vct-international,NA
 55223,bang,1,0,Viper,13,11,9,1,0,1,204.8421052631579,vct-international,NA
 55224,Asuna,1,0,Raze,17,14,4,7,4,1,261.0,vct-international,NA
-55225,TenZ,0,1,Yoru,15,14,5,3,3,0,240.1578947368421,vct-international,NA
 55226,Zellsis,0,1,Brimstone,12,15,10,0,2,0,187.1578947368421,vct-international,NA
 55227,johnqt,0,1,Viper,11,13,7,2,1,0,197.1578947368421,vct-international,NA
 55228,zekken,0,1,Raze,12,16,3,1,3,0,194.57894736842104,vct-international,NA
@@ -14821,7 +14742,6 @@
 55248,Leo ,1,0,Fade,10,7,7,1,0,1,164.64705882352942,vct-international,INTL
 55249,Alfajer,1,0,Killjoy,17,9,3,3,2,0,261.05882352941177,vct-international,INTL
 55250,aspas,1,0,Jett,21,15,3,6,4,0,255.83333333333334,vct-international,LAS
-55255,TenZ,0,1,KAY/O,19,16,11,2,2,0,212.16666666666666,vct-international,NA
 55256,zekken,0,1,Jett,21,16,1,5,2,0,237.54166666666666,vct-international,NA
 55257,johnqt,0,1,Viper,6,15,10,1,0,0,94.625,vct-international,NA
 55258,Zellsis,0,1,Killjoy,16,15,2,4,3,0,212.08333333333334,vct-international,NA
@@ -15011,7 +14931,6 @@
 55612,Saadhak,1,0,Killjoy,15,16,4,2,4,0,204.57142857142858,vct-international,BR
 55613,Less,1,0,Viper,11,10,8,2,2,0,145.23809523809524,vct-international,BR
 55614,tuyz,1,0,Harbor,10,12,6,2,0,1,131.61904761904762,vct-international,BR
-55615,TenZ,0,1,KAY/O,11,16,9,1,3,0,158.57142857142858,vct-international,NA
 55616,zekken,0,1,Jett,14,15,2,5,5,0,193.1904761904762,vct-international,NA
 55617,johnqt,0,1,Viper,15,13,6,2,0,0,205.47619047619048,vct-international,NA
 55618,Zellsis,0,1,Killjoy,6,16,1,2,1,1,106.66666666666667,vct-international,NA
@@ -15145,7 +15064,6 @@
 55896,runneR,1,0,Cypher,20,8,5,4,0,1,296.4117647058824,vct-international,INTL
 55897,ceNder,1,0,Omen,13,9,12,0,4,0,224.35294117647058,vct-international,INTL
 55901,leaf,1,0,Raze,17,17,2,3,5,0,206.3181818181818,vct-international,NA
-55905,TenZ,0,1,Omen,10,14,6,1,2,0,129.3181818181818,vct-international,NA
 55906,Zellsis,0,1,Viper,19,12,7,3,1,0,239.9090909090909,vct-international,NA
 55907,johnqt,0,1,Cypher,13,12,9,3,0,0,174.22727272727272,vct-international,NA
 55908,zekken,0,1,Raze,13,16,5,1,7,0,177.27272727272728,vct-international,NA
@@ -15259,7 +15177,6 @@
 56142,Boo,0,1,Omen,15,18,8,1,2,0,188.13636363636363,vct-international,INTL
 56143,benjyfishy,0,1,Killjoy,12,16,5,1,4,0,150.9090909090909,vct-international,INTL
 56144,paTiTek,0,1,Viper,13,17,6,1,3,0,168.95454545454547,vct-international,INTL
-56145,TenZ,1,0,Omen,20,17,16,2,1,0,240.4090909090909,vct-international,NA
 56146,Zellsis,1,0,Killjoy,17,12,4,2,2,1,211.1818181818182,vct-international,NA
 56147,johnqt,1,0,Viper,12,13,11,1,1,2,203.0,vct-international,NA
 56148,zekken,1,0,Raze,20,18,6,7,4,0,264.3181818181818,vct-international,NA
@@ -15309,7 +15226,6 @@
 56237,carpe,1,0,Sova,17,13,4,3,1,1,238.45,vct-international,NA
 56239,Sayaplayer,1,0,Raze,18,10,1,4,3,1,238.9,vct-international,NA
 56242,Munchkin,1,0,KAY/O,18,11,9,1,0,0,207.52380952380952,vct-international,NA
-56245,TenZ,0,1,Omen,19,16,6,1,2,1,225.38095238095238,vct-international,NA
 56246,Zellsis,0,1,KAY/O,9,16,12,1,3,0,141.85714285714286,vct-international,NA
 56247,johnqt,0,1,Killjoy,12,14,4,2,2,0,164.66666666666666,vct-international,NA
 56248,zekken,0,1,Jett,19,18,5,4,4,0,251.95238095238096,vct-international,NA
@@ -15323,7 +15239,6 @@
 56256,bang,1,0,Viper,23,18,9,3,1,2,262.03846153846155,vct-international,NA
 56258,Cryo,1,0,Jett,20,20,3,4,3,1,219.65384615384616,vct-international,NA
 56259,Asuna,1,0,Gekko,18,21,7,4,4,1,198.73076923076923,vct-international,NA
-56260,TenZ,1,0,Gekko,16,8,13,2,0,0,207.45,vct-international,NA
 56261,zekken,1,0,Raze,22,14,6,8,3,0,330.15,vct-international,NA
 56262,johnqt,1,0,Viper,15,9,6,0,3,0,202.8,vct-international,NA
 56263,Zellsis,1,0,Brimstone,12,11,10,0,1,1,167.25,vct-international,NA
@@ -15434,7 +15349,6 @@
 56566,bang,1,0,Viper,12,11,2,3,1,0,189.72222222222223,vct-international,NA
 56568,Cryo,1,0,Jett,15,12,1,1,4,0,202.27777777777777,vct-international,NA
 56569,Asuna,1,0,Gekko,12,8,9,1,2,0,173.05555555555554,vct-international,NA
-56570,TenZ,1,0,Omen,21,16,6,3,5,0,247.125,vct-international,NA
 56571,zekken,1,0,Raze,22,20,12,4,3,0,301.2916666666667,vct-international,NA
 56572,johnqt,1,0,Cypher,15,14,8,0,1,1,185.95833333333334,vct-international,NA
 56573,Zellsis,1,0,Breach,13,11,15,0,0,0,151.45833333333334,vct-international,NA
@@ -15491,7 +15405,6 @@
 56643,benjyfishy,0,1,Cypher,11,13,1,1,2,0,137.68421052631578,vct-international,INTL
 56644,Wo0t,0,1,Jett,9,15,4,2,6,0,148.10526315789474,vct-international,INTL
 56647,Munchkin,1,0,Viper,9,13,5,1,4,0,150.42105263157896,vct-international,NA
-56655,TenZ,1,0,Omen,19,12,9,1,1,0,224.3,vct-international,NA
 56656,Zellsis,1,0,Viper,12,14,14,4,2,0,229.5,vct-international,NA
 56657,johnqt,1,0,Cypher,16,11,2,2,1,1,203.7,vct-international,NA
 56658,zekken,1,0,Raze,20,12,6,3,3,0,285.4,vct-international,NA
@@ -15510,7 +15423,6 @@
 56688,benjyfishy,1,0,Cypher,14,14,4,3,0,1,168.3913043478261,vct-international,INTL
 56689,Wo0t,1,0,Iso,14,16,7,0,6,0,167.2608695652174,vct-international,INTL
 56692,Munchkin,0,1,KAY/O,13,14,8,1,4,1,171.3684210526316,vct-international,NA
-56695,TenZ,1,0,KAY/O,16,14,16,2,1,0,278.10526315789474,vct-international,NA
 56696,Zellsis,1,0,Killjoy,19,9,3,1,0,0,268.8421052631579,vct-international,NA
 56697,johnqt,1,0,Viper,14,9,8,2,1,0,190.42105263157896,vct-international,NA
 56698,zekken,1,0,Jett,12,14,4,6,5,0,183.6315789473684,vct-international,NA
@@ -15554,7 +15466,6 @@
 56772,Boo,0,1,Sage,12,16,11,1,3,0,168.38095238095238,vct-international,INTL
 56773,benjyfishy,0,1,Killjoy,5,18,0,2,3,0,78.9047619047619,vct-international,INTL
 56774,Wo0t,0,1,Omen,15,15,7,2,2,0,207.38095238095238,vct-international,INTL
-56775,TenZ,1,0,Omen,29,10,7,3,1,0,358.0,vct-international,NA
 56776,zekken,1,0,Neon,15,16,8,2,5,0,214.38095238095238,vct-international,NA
 56777,johnqt,1,0,Cypher,14,9,4,2,1,1,181.0,vct-international,NA
 56778,Zellsis,1,0,Breach,13,12,13,1,3,0,177.66666666666666,vct-international,NA
@@ -15586,7 +15497,6 @@
 56862,d4v41,0,1,Skye,11,17,9,0,0,1,138.07692307692307,vct-international,SEA
 56863,something,0,1,Jett,21,18,1,5,6,0,218.0,vct-international,SEA
 56864,f0rsakeN,0,1,Cypher,16,21,9,2,3,1,193.26923076923077,vct-international,SEA
-56865,TenZ,1,0,Omen,25,16,15,1,0,0,271.3076923076923,vct-international,NA
 56866,Zellsis,1,0,Killjoy,13,18,8,4,3,0,169.80769230769232,vct-international,NA
 56867,johnqt,1,0,Viper,19,13,14,2,1,1,211.96153846153845,vct-international,NA
 56868,zekken,1,0,Raze,32,16,2,8,4,0,326.61538461538464,vct-international,NA
@@ -15690,7 +15600,6 @@
 57072,Flashback,0,1,Viper,25,26,14,2,2,2,209.91176470588235,vct-international,KR
 57074,BuZz,0,1,Raze,33,27,3,5,5,2,280.70588235294116,vct-international,KR
 57077,Munchkin,1,0,Viper,34,20,17,2,1,0,271.2352941176471,vct-international,NA
-57080,TenZ,1,0,Omen,22,14,6,1,0,1,267.8181818181818,vct-international,NA
 57081,zekken,1,0,Neon,23,18,9,9,1,0,308.5,vct-international,NA
 57082,johnqt,1,0,Cypher,19,13,8,0,2,0,214.77272727272728,vct-international,NA
 57083,Zellsis,1,0,Breach,7,17,16,1,4,0,112.27272727272727,vct-international,NA
@@ -15778,7 +15687,6 @@
 57222,Saadhak,0,1,Skye,3,15,2,1,3,0,72.0,vct-international,BR
 57223,Less,0,1,Viper,10,12,4,1,2,0,225.875,vct-international,BR
 57224,tuyz,0,1,Omen,8,11,4,1,0,0,147.875,vct-international,BR
-57225,TenZ,1,0,Omen,16,7,4,3,1,0,272.9375,vct-international,NA
 57226,Zellsis,1,0,Viper,11,8,6,1,3,1,178.9375,vct-international,NA
 57227,johnqt,1,0,Cypher,8,5,2,1,1,0,133.25,vct-international,NA
 57228,zekken,1,0,Raze,16,7,3,3,0,0,275.6875,vct-international,NA
@@ -15818,7 +15726,6 @@
 57291,leaf,1,0,Killjoy,22,25,6,4,5,0,230.1,vct-international,NA
 57295,keznitdeuS,0,1,Jett,29,21,7,7,1,0,275.73333333333335,vct-international,LATAM
 57298,mta,0,1,Sova,14,24,15,2,3,0,151.6,vct-international,LATAM
-57300,TenZ,0,1,KAY/O,4,16,9,1,2,0,87.0625,vct-international,NA
 57301,Zellsis,0,1,Viper,5,13,7,0,0,0,134.75,vct-international,NA
 57302,johnqt,0,1,Cypher,9,12,2,0,1,0,137.8125,vct-international,NA
 57303,zekken,0,1,Jett,7,15,4,3,7,0,150.3125,vct-international,NA
@@ -15841,13 +15748,11 @@
 57352,Boo,1,0,Omen,13,8,12,0,0,1,165.27777777777777,vct-international,INTL
 57353,benjyfishy,1,0,Cypher,10,13,4,1,0,0,147.55555555555554,vct-international,INTL
 57354,Wo0t,1,0,Raze,27,13,4,10,2,0,417.27777777777777,vct-international,INTL
-57365,TenZ,1,0,Omen,18,7,9,2,0,1,295.0,vct-international,NA
 57366,zekken,1,0,Raze,18,10,4,6,4,0,319.8125,vct-international,NA
 57367,johnqt,1,0,Viper,14,8,10,1,1,1,246.9375,vct-international,NA
 57368,Zellsis,1,0,Killjoy,14,8,8,0,1,1,238.75,vct-international,NA
 57369,Sacy,1,0,Fade,10,8,6,1,0,0,150.625,vct-international,NA
 57371,leaf,1,0,Yoru,23,17,5,5,0,0,295.59090909090907,vct-international,NA
-57375,TenZ,0,1,KAY/O,15,18,7,1,2,1,185.13636363636363,vct-international,NA
 57376,Zellsis,0,1,Viper,14,15,4,1,0,2,184.36363636363637,vct-international,NA
 57377,johnqt,0,1,Cypher,13,16,5,1,3,0,189.1818181818182,vct-international,NA
 57378,zekken,0,1,Jett,16,21,1,3,7,0,205.54545454545453,vct-international,NA
@@ -15874,7 +15779,6 @@
 57425,icy,0,1,Yoru,17,17,4,4,5,1,225.72727272727272,vct-international,NA
 57426,leaf,0,1,Viper,13,15,6,1,0,0,186.4090909090909,vct-international,NA
 57431,Marved,0,1,Viper,14,15,4,1,2,0,281.25,vct-international,NA
-57435,TenZ,1,0,Omen,13,11,6,5,0,0,229.0,vct-international,NA
 57436,Zellsis,1,0,Viper,15,8,7,4,0,0,273.9375,vct-international,NA
 57437,johnqt,1,0,Cypher,18,7,5,0,0,2,287.125,vct-international,NA
 57438,zekken,1,0,Raze,10,13,3,4,2,0,181.5,vct-international,NA
@@ -15887,7 +15791,6 @@
 57447,Boaster,1,0,Astra,13,12,9,3,1,0,208.89473684210526,vct-international,INTL
 57448,Alfajer,1,0,Breach,12,11,11,1,0,0,182.05263157894737,vct-international,INTL
 57449,hiro ,1,0,Cypher,15,10,6,2,2,0,196.1578947368421,vct-international,INTL
-57455,TenZ,1,0,Omen,18,12,5,2,4,0,245.0,vct-international,NA
 57456,Zellsis,1,0,KAY/O,13,10,11,1,0,1,190.26315789473685,vct-international,NA
 57457,johnqt,1,0,Killjoy,9,11,1,1,0,1,139.21052631578948,vct-international,NA
 57458,zekken,1,0,Jett,21,11,2,6,3,0,308.10526315789474,vct-international,NA
@@ -15897,7 +15800,6 @@
 57467,Boo,1,0,Omen,14,14,10,2,0,0,192.4090909090909,vct-international,INTL
 57468,benjyfishy,1,0,Cypher,21,15,9,5,1,0,269.6818181818182,vct-international,INTL
 57469,paTiTek,1,0,KAY/O,11,13,16,1,2,1,158.27272727272728,vct-international,INTL
-57470,TenZ,1,0,Omen,14,8,11,2,1,1,207.61111111111111,vct-international,NA
 57471,Zellsis,1,0,Killjoy,13,10,4,2,1,0,208.27777777777777,vct-international,NA
 57472,johnqt,1,0,Viper,15,9,5,1,2,0,211.05555555555554,vct-international,NA
 57473,zekken,1,0,Raze,21,12,6,5,2,0,308.8333333333333,vct-international,NA
@@ -16046,7 +15948,6 @@
 57789,Wild0reoo,1,0,Cypher,18,13,6,2,1,1,215.5909090909091,vct-international,SEA
 57796,Marved,1,0,Viper,15,7,4,3,0,1,220.11764705882354,vct-international,NA
 57802,Munchkin,1,0,KAY/O,18,13,14,2,1,0,262.15,vct-international,NA
-57805,TenZ,0,1,Omen,10,17,3,2,3,0,138.2,vct-international,NA
 57806,zekken,0,1,Jett,12,17,3,2,5,0,176.05,vct-international,NA
 57807,johnqt,0,1,Deadlock,10,14,4,0,0,0,125.7,vct-international,NA
 57808,Zellsis,0,1,Cypher,10,16,3,3,3,0,131.5,vct-international,NA
@@ -16187,7 +16088,6 @@
 58117,Boo,1,0,Omen,18,10,8,1,1,1,269.2631578947368,vct-international,INTL
 58118,benjyfishy,1,0,Cypher,15,14,9,1,2,0,246.78947368421052,vct-international,INTL
 58119,Wo0t,1,0,Iso,20,11,3,3,5,0,274.36842105263156,vct-international,INTL
-58125,TenZ,1,0,Omen,19,11,10,2,1,0,282.6111111111111,vct-international,NA
 58126,zekken,1,0,Raze,19,11,4,6,2,0,288.05555555555554,vct-international,NA
 58127,johnqt,1,0,Viper,10,7,5,2,1,1,156.0,vct-international,NA
 58128,Zellsis,1,0,Killjoy,9,6,2,1,1,0,141.0,vct-international,NA
@@ -16200,7 +16100,6 @@
 58142,carpe,0,1,Gekko,17,17,6,1,1,2,193.3181818181818,vct-international,NA
 58144,Sayaplayer,0,1,Raze,13,17,4,3,4,0,176.27272727272728,vct-international,NA
 58147,Munchkin,1,0,Viper,15,13,6,1,0,0,191.22727272727272,vct-international,NA
-58150,TenZ,1,0,Omen,24,13,8,1,3,0,289.3636363636364,vct-international,NA
 58151,Zellsis,1,0,KAY/O,12,17,14,2,1,0,183.72727272727272,vct-international,NA
 58152,johnqt,1,0,Cypher,14,14,8,1,2,0,180.45454545454547,vct-international,NA
 58153,zekken,1,0,Raze,18,14,4,7,3,0,235.86363636363637,vct-international,NA
@@ -16260,7 +16159,6 @@
 58237,Boaster,0,1,Astra,16,14,3,4,1,1,167.625,vct-international,INTL
 58238,Alfajer,0,1,Breach,15,16,11,0,3,0,180.58333333333334,vct-international,INTL
 58239,hiro ,0,1,Cypher,19,18,6,2,3,0,223.91666666666666,vct-international,INTL
-58240,TenZ,1,0,Omen,23,16,10,4,2,0,229.96153846153845,vct-international,NA
 58241,zekken,1,0,Raze,24,19,14,5,4,0,294.53846153846155,vct-international,NA
 58242,johnqt,1,0,Cypher,15,17,4,1,2,0,166.65384615384616,vct-international,NA
 58243,Zellsis,1,0,Breach,21,14,16,1,1,1,220.8846153846154,vct-international,NA
@@ -16420,7 +16318,6 @@
 58562,Saadhak,1,0,Deadlock,5,13,4,1,5,0,85.25,vct-international,BR
 58563,Less,1,0,Viper,11,7,4,0,1,0,168.55,vct-international,BR
 58564,tuyz,1,0,Omen,17,10,6,2,2,0,212.6,vct-international,BR
-58565,TenZ,0,1,Omen,9,15,6,2,1,0,158.8,vct-international,NA
 58566,zekken,0,1,Raze,13,12,4,3,3,1,184.45,vct-international,NA
 58567,johnqt,0,1,Viper,10,16,4,3,3,0,159.3,vct-international,NA
 58568,Zellsis,0,1,Killjoy,10,13,1,0,1,0,146.8,vct-international,NA
@@ -16441,7 +16338,6 @@
 58592,Saadhak,1,0,Killjoy,16,16,6,3,1,0,214.54166666666666,vct-international,BR
 58593,Less,1,0,Viper,18,14,3,3,1,0,216.375,vct-international,BR
 58594,tuyz,1,0,Harbor,17,12,13,0,2,1,173.33333333333334,vct-international,BR
-58595,TenZ,0,1,KAY/O,16,17,20,2,4,0,210.625,vct-international,NA
 58596,Zellsis,0,1,Killjoy,17,17,5,3,1,0,174.625,vct-international,NA
 58597,johnqt,0,1,Viper,19,14,8,2,3,1,230.54166666666666,vct-international,NA
 58598,zekken,0,1,Jett,16,20,2,3,1,0,192.66666666666666,vct-international,NA
@@ -16450,7 +16346,6 @@
 58601,bang,1,0,Omen,31,12,8,5,1,3,347.0,vct-international,NA
 58603,Cryo,1,0,Jett,23,16,3,4,2,1,250.56521739130434,vct-international,NA
 58604,Asuna,1,0,KAY/O,14,21,13,2,2,0,173.7826086956522,vct-international,NA
-58605,TenZ,0,1,Omen,15,17,10,2,2,0,206.56521739130434,vct-international,NA
 58606,zekken,0,1,Jett,28,19,2,7,7,0,355.04347826086956,vct-international,NA
 58607,johnqt,0,1,Deadlock,12,18,7,1,2,0,151.91304347826087,vct-international,NA
 58608,Zellsis,0,1,Cypher,12,15,5,0,1,0,148.8695652173913,vct-international,NA
@@ -16497,7 +16392,6 @@
 58687,Boaster,1,0,Viper,14,16,12,2,2,0,189.66666666666666,vct-international,INTL
 58688,Leo ,1,0,Sova,15,14,6,1,0,0,183.75,vct-international,INTL
 58689,Alfajer,1,0,Cypher,16,19,7,2,3,0,205.20833333333334,vct-international,INTL
-58690,TenZ,0,1,Gekko,11,18,9,1,2,1,148.04545454545453,vct-international,NA
 58691,zekken,0,1,Raze,19,20,5,4,5,0,255.45454545454547,vct-international,NA
 58692,johnqt,0,1,Viper,15,14,5,4,2,1,195.3181818181818,vct-international,NA
 58693,Zellsis,0,1,Brimstone,5,15,17,0,0,0,88.86363636363636,vct-international,NA
@@ -16539,7 +16433,6 @@
 58772,Saadhak,1,0,KAY/O,11,14,12,2,3,0,170.0,vct-international,BR
 58773,Less,1,0,Viper,15,16,11,3,1,0,208.04545454545453,vct-international,BR
 58774,tuyz,1,0,Omen,7,14,11,0,2,0,89.22727272727273,vct-international,BR
-58775,TenZ,0,1,Omen,7,12,15,1,2,0,109.22727272727273,vct-international,NA
 58776,Zellsis,0,1,KAY/O,11,13,12,1,4,0,139.63636363636363,vct-international,NA
 58777,johnqt,0,1,Killjoy,14,13,8,1,0,0,202.8181818181818,vct-international,NA
 58778,zekken,0,1,Jett,14,16,4,4,4,0,190.0,vct-international,NA
@@ -16698,7 +16591,6 @@
 59088,Runi,1,0,Sova,21,21,13,1,2,1,187.73529411764707,vct-international,NA
 59089,Xeppaa,1,0,KAY/O,26,24,16,4,4,2,234.11764705882354,vct-international,NA
 59092,Munchkin,1,0,Viper,19,15,2,0,5,0,244.66666666666666,vct-international,NA
-59095,TenZ,0,1,KAY/O,16,15,12,3,0,1,235.61904761904762,vct-international,NA
 59096,Zellsis,0,1,Viper,12,14,5,1,0,0,164.1904761904762,vct-international,NA
 59097,johnqt,0,1,Cypher,12,15,3,3,2,0,164.38095238095238,vct-international,NA
 59098,zekken,0,1,Jett,20,16,3,7,4,0,260.57142857142856,vct-international,NA
@@ -16795,7 +16687,6 @@
 59270,aspas,1,0,Jett,22,7,1,5,1,0,330.6470588235294,vct-international,LAS
 59275,icy,0,1,Jett,5,14,4,0,2,1,81.17647058823529,vct-international,NA
 59276,leaf,0,1,Killjoy,5,15,1,1,3,1,71.3529411764706,vct-international,NA
-59290,TenZ,1,0,Omen,14,14,10,3,0,0,199.1904761904762,vct-international,NA
 59291,Zellsis,1,0,Viper,14,11,4,2,2,0,171.57142857142858,vct-international,NA
 59292,johnqt,1,0,Cypher,18,13,6,2,1,0,245.71428571428572,vct-international,NA
 59293,zekken,1,0,Raze,18,14,4,6,3,0,255.85714285714286,vct-international,NA
@@ -16851,7 +16742,6 @@
 59365,Kicks,1,0,KAY/O,16,11,13,2,0,1,215.35,vct-international,INTL
 59366,runneR,1,0,Killjoy,9,10,2,2,2,0,121.55,vct-international,INTL
 59367,ceNder,1,0,Omen,11,16,10,2,3,0,161.55,vct-international,INTL
-59370,TenZ,1,0,Omen,15,9,13,1,0,1,217.52941176470588,vct-international,NA
 59371,Zellsis,1,0,Viper,19,8,6,1,0,1,294.11764705882354,vct-international,NA
 59372,johnqt,1,0,Cypher,15,10,5,3,1,1,230.05882352941177,vct-international,NA
 59373,zekken,1,0,Raze,13,13,11,6,1,0,246.1764705882353,vct-international,NA
@@ -16888,7 +16778,6 @@
 59464,Jinggg,1,0,Raze,21,13,5,3,1,0,276.2,vct-international,SEA
 59465,icy,0,1,Raze,12,16,7,4,3,0,203.8,vct-international,NA
 59466,leaf,0,1,Viper,10,18,6,1,3,0,161.65,vct-international,NA
-59470,TenZ,1,0,Omen,17,14,5,4,1,0,211.0,vct-international,NA
 59471,Zellsis,1,0,KAY/O,19,10,10,1,2,1,231.0,vct-international,NA
 59472,johnqt,1,0,Cypher,9,13,8,1,1,0,121.80952380952381,vct-international,NA
 59473,zekken,1,0,Raze,19,16,6,6,5,1,266.6190476190476,vct-international,NA
@@ -16944,7 +16833,6 @@
 59591,runneR,1,0,Killjoy,11,13,6,3,1,1,166.75,vct-international,INTL
 59592,ceNder,1,0,Omen,10,10,13,1,3,0,146.45,vct-international,INTL
 59602,Munchkin,0,1,Viper,15,17,16,2,2,0,196.0,vct-international,NA
-59605,TenZ,1,0,Gekko,16,18,9,4,3,0,178.30769230769232,vct-international,NA
 59606,Zellsis,1,0,Brimstone,15,15,19,1,2,1,175.53846153846155,vct-international,NA
 59607,johnqt,1,0,Viper,13,15,7,1,1,0,144.8846153846154,vct-international,NA
 59608,zekken,1,0,Raze,21,21,7,6,3,0,253.96153846153845,vct-international,NA
@@ -16954,7 +16842,6 @@
 59612,MrFaliN,1,0,Gekko,14,10,8,2,3,0,229.88235294117646,vct-international,INTL
 59614,ATA KAPTAN,1,0,Omen,20,9,6,2,0,0,301.47058823529414,vct-international,INTL
 59621,Marved,1,0,Omen,8,16,9,1,2,0,129.71428571428572,vct-international,NA
-59625,TenZ,0,1,Omen,14,15,8,2,0,0,210.33333333333334,vct-international,NA
 59626,Zellsis,0,1,KAY/O,17,14,7,3,3,0,213.61904761904762,vct-international,NA
 59627,johnqt,0,1,Cypher,5,14,6,0,2,0,78.42857142857143,vct-international,NA
 59628,zekken,0,1,Jett,16,17,3,6,3,0,225.61904761904762,vct-international,NA
@@ -17044,7 +16931,6 @@
 59837,MrFaliN,1,0,Sova,17,20,6,1,4,1,205.42307692307693,vct-international,INTL
 59839,ATA KAPTAN,1,0,Omen,8,19,12,0,3,0,101.5,vct-international,INTL
 59856,leaf,1,0,Raze,26,17,3,7,4,0,267.4642857142857,vct-international,NA
-59875,TenZ,1,0,Omen,17,11,6,5,1,0,258.0,vct-international,NA
 59876,zekken,1,0,Raze,19,12,5,5,2,1,304.3888888888889,vct-international,NA
 59877,johnqt,1,0,Cypher,11,12,4,1,1,1,150.72222222222223,vct-international,NA
 59878,Zellsis,1,0,Viper,10,11,7,1,1,0,164.94444444444446,vct-international,NA
@@ -17073,7 +16959,6 @@
 59917,Haodong,0,1,Gekko,6,19,8,2,1,0,83.08333333333333,vct-international,CN
 59918,nobody ,0,1,Skye,21,16,9,3,2,1,225.375,vct-international,CN
 59919,Smoggy,0,1,Omen,25,17,5,5,2,1,285.9583333333333,vct-international,CN
-59920,TenZ,1,0,Omen,10,13,14,2,3,0,166.47368421052633,vct-international,NA
 59921,zekken,1,0,Raze,19,9,7,4,2,1,282.4736842105263,vct-international,NA
 59922,johnqt,1,0,Viper,17,11,5,1,1,0,230.52631578947367,vct-international,NA
 59923,Zellsis,1,0,Killjoy,16,12,3,1,3,1,218.89473684210526,vct-international,NA
@@ -17134,7 +17019,6 @@
 60007,ceNder,0,1,Killjoy,12,19,7,2,0,0,140.71428571428572,vct-international,INTL
 60008,Kicks,0,1,Sova,20,20,7,2,3,0,217.21428571428572,vct-international,INTL
 60009,Destrian,0,1,Omen,15,18,13,0,6,1,163.07142857142858,vct-international,INTL
-60010,TenZ,1,0,Omen,15,15,8,1,2,0,197.61904761904762,vct-international,NA
 60011,zekken,1,0,Neon,27,16,7,6,2,1,349.6190476190476,vct-international,NA
 60012,johnqt,1,0,Cypher,9,12,8,1,1,0,104.23809523809524,vct-international,NA
 60013,Zellsis,1,0,Breach,17,10,16,0,2,0,227.57142857142858,vct-international,NA
@@ -17143,7 +17027,6 @@
 60016,Foxy9,0,1,Breach,8,15,10,0,2,0,125.0,vct-international,KR
 60017,Flashback,0,1,Cypher,17,16,3,4,1,0,235.95238095238096,vct-international,KR
 60019,BuZz,0,1,Jett,15,17,0,5,6,1,215.47619047619048,vct-international,KR
-60020,TenZ,1,0,Gekko,14,12,5,2,1,0,185.76190476190476,vct-international,NA
 60021,zekken,1,0,Raze,20,13,8,3,3,1,262.85714285714283,vct-international,NA
 60022,johnqt,1,0,Viper,12,9,6,2,2,1,164.47619047619048,vct-international,NA
 60023,Zellsis,1,0,Brimstone,17,14,11,1,3,0,221.95238095238096,vct-international,NA
@@ -17167,7 +17050,6 @@
 60061,bang,1,0,Omen,12,10,8,1,0,0,173.4,vct-international,NA
 60063,Cryo,1,0,Iso,13,15,6,3,1,0,199.3,vct-international,NA
 60064,Asuna,1,0,Yoru,22,11,7,5,2,0,273.25,vct-international,NA
-60065,TenZ,0,1,Omen,16,15,6,2,4,0,254.4,vct-international,NA
 60066,zekken,0,1,Jett,11,18,5,3,3,0,166.55,vct-international,NA
 60067,johnqt,0,1,Killjoy,16,16,1,0,1,0,223.1,vct-international,NA
 60068,Zellsis,0,1,Breach,10,13,6,0,1,0,134.15,vct-international,NA
@@ -17175,7 +17057,6 @@
 60073,hiroronn,0,1,KAY/O,9,14,8,3,1,0,175.35294117647058,vct-international,JP
 60077,Munchkin,1,0,KAY/O,12,10,8,3,2,0,185.76470588235293,vct-international,NA
 60082,Munchkin,1,0,Viper,14,9,10,1,0,2,224.22222222222223,vct-international,NA
-60085,TenZ,0,1,Omen,8,14,13,1,3,0,139.88888888888889,vct-international,NA
 60086,Zellsis,0,1,Viper,15,12,10,2,1,0,271.3333333333333,vct-international,NA
 60087,johnqt,0,1,Cypher,18,10,4,3,0,0,265.6666666666667,vct-international,NA
 60088,zekken,0,1,Raze,10,15,3,2,4,0,167.33333333333334,vct-international,NA
@@ -17226,7 +17107,6 @@
 60197,Boo,1,0,Fade,21,21,11,1,0,0,222.71428571428572,vct-international,INTL
 60198,benjyfishy,1,0,Killjoy,16,19,3,1,6,1,153.71428571428572,vct-international,INTL
 60199,Wo0t,1,0,Omen,15,19,14,1,3,0,140.71428571428572,vct-international,INTL
-60200,TenZ,1,0,Omen,8,15,8,1,2,0,119.05,vct-international,NA
 60201,Zellsis,1,0,Killjoy,14,12,3,2,2,0,186.95,vct-international,NA
 60202,johnqt,1,0,Viper,18,9,6,1,0,0,240.75,vct-international,NA
 60203,zekken,1,0,Raze,23,10,5,6,2,1,315.0,vct-international,NA
@@ -17315,7 +17195,6 @@
 60392,Saadhak,1,0,Skye,19,20,10,1,4,0,226.125,vct-international,BR
 60393,Less,1,0,Viper,14,13,9,2,3,0,157.5,vct-international,BR
 60394,tuyz,1,0,Omen,13,14,18,0,1,1,177.79166666666666,vct-international,BR
-60395,TenZ,0,1,Omen,19,16,6,3,0,0,234.625,vct-international,NA
 60396,Zellsis,0,1,Viper,15,19,10,1,1,0,204.125,vct-international,NA
 60397,johnqt,0,1,Cypher,15,14,3,2,3,0,170.66666666666666,vct-international,NA
 60398,zekken,0,1,Raze,22,17,4,7,4,0,257.0833333333333,vct-international,NA
@@ -17358,7 +17237,6 @@
 60501,Jremy,1,0,Raze,19,11,3,4,4,0,297.77777777777777,vct-international,SEA
 60502,JessieVash,1,0,Fade,12,10,10,1,1,0,187.88888888888889,vct-international,SEA
 60503,Invy,1,0,Viper,12,12,5,2,0,0,181.66666666666666,vct-international,SEA
-60510,TenZ,1,0,Gekko,21,17,8,4,1,0,225.54166666666666,vct-international,NA
 60511,Zellsis,1,0,Brimstone,21,15,12,2,1,1,251.79166666666666,vct-international,NA
 60512,johnqt,1,0,Viper,10,13,4,1,2,1,127.20833333333333,vct-international,NA
 60513,zekken,1,0,Raze,27,18,5,6,4,1,329.5416666666667,vct-international,NA
@@ -17421,7 +17299,6 @@
 60631,bang,0,1,Viper,17,16,11,2,2,0,232.04347826086956,vct-international,NA
 60633,Cryo,0,1,Jett,26,16,2,7,3,0,313.5652173913044,vct-international,NA
 60634,Asuna,0,1,Gekko,11,16,6,2,1,0,138.2173913043478,vct-international,NA
-60635,TenZ,1,0,KAY/O,15,16,21,1,4,0,207.08695652173913,vct-international,NA
 60636,zekken,1,0,Jett,14,17,3,3,7,0,166.52173913043478,vct-international,NA
 60637,johnqt,1,0,Viper,15,12,5,1,2,0,201.30434782608697,vct-international,NA
 60638,Zellsis,1,0,Killjoy,13,13,3,2,0,0,172.6086956521739,vct-international,NA
@@ -17521,7 +17398,6 @@
 60854,Foxy9,1,0,Cypher,22,12,5,2,1,0,245.625,vct-international,KR
 60857,Munchkin,0,1,Viper,8,16,16,2,2,0,143.41666666666666,vct-international,NA
 60865,blaZek1ngg,1,0,Sova,21,15,6,4,0,1,263.7916666666667,vct-international,SEA
-60870,TenZ,0,1,Omen,14,14,6,2,1,1,212.1,vct-international,NA
 60871,zekken,0,1,Jett,26,16,2,6,6,1,345.7,vct-international,NA
 60872,johnqt,0,1,Cypher,7,16,7,1,2,0,111.85,vct-international,NA
 60873,Zellsis,0,1,KAY/O,4,18,10,0,1,0,91.55,vct-international,NA
@@ -17566,7 +17442,6 @@
 60974,tuyz,0,1,Omen,15,16,3,0,0,2,220.1,vct-international,BR
 60977,NaturE,1,0,KAY/O,11,15,10,3,0,0,174.9,vct-international,NA
 60980,aspas,1,0,Jett,19,12,5,5,2,0,285.36842105263156,vct-international,LAS
-60985,TenZ,0,1,KAY/O,9,16,7,0,2,0,154.0,vct-international,NA
 60986,Zellsis,0,1,Viper,9,16,5,1,0,0,136.68421052631578,vct-international,NA
 60987,johnqt,0,1,Cypher,10,14,5,1,3,0,163.73684210526315,vct-international,NA
 60988,zekken,0,1,Jett,15,15,2,5,5,0,215.89473684210526,vct-international,NA
@@ -17610,7 +17485,6 @@
 61062,Saadhak,1,0,KAY/O,13,15,15,4,1,0,216.61904761904762,vct-international,BR
 61063,Less,1,0,Viper,8,12,5,1,3,0,98.23809523809524,vct-international,BR
 61064,tuyz,1,0,Brimstone,19,12,16,1,0,2,251.04761904761904,vct-international,BR
-61065,TenZ,0,1,Yoru,14,19,7,5,5,0,220.33333333333334,vct-international,NA
 61066,Zellsis,0,1,Brimstone,15,15,2,0,2,0,183.61904761904762,vct-international,NA
 61067,johnqt,0,1,Viper,15,13,3,0,2,1,202.14285714285714,vct-international,NA
 61068,zekken,0,1,Raze,15,15,6,2,4,0,222.33333333333334,vct-international,NA
@@ -17661,7 +17535,6 @@
 61145,leaf,0,1,Viper,17,17,4,3,5,0,191.29166666666666,vct-international,NA
 61146,icy,0,1,Raze,15,18,7,4,1,1,186.33333333333334,vct-international,NA
 61152,Munchkin,0,1,Viper,6,16,12,0,3,1,104.26086956521739,vct-international,NA
-61155,TenZ,1,0,Omen,16,15,11,2,3,1,189.1304347826087,vct-international,NA
 61156,Zellsis,1,0,Viper,13,16,9,3,3,0,184.43478260869566,vct-international,NA
 61157,johnqt,1,0,Cypher,19,14,11,1,0,1,228.43478260869566,vct-international,NA
 61158,zekken,1,0,Raze,29,16,10,4,4,1,366.6521739130435,vct-international,NA

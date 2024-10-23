@@ -10,7 +10,6 @@
 36,keznitdeuS,KRU Esports,1.3974960876369327,242.18715977922923,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel', 'Controller')",LATAM,vct-international,81,3,109000.0,0.3902439024390244,1.1875,0.18518518518518517,False
 38,jfoeN,Six Karma,1.6786206896551723,213.45796753518687,"('Raze', 'Breach', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",LATAM,vct-challengers,51,8,6375.0,0.5576923076923077,0.9166666666666666,0.23529411764705882,False
 43,dapr,G2 Esports,1.3002136752136753,179.72072550614493,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller', 'Duelist', 'Initiator')",NA,vct-international,65,2,407250.0,0.5303030303030303,0.976,0.27692307692307694,False
-44,TenZ,Sentinels,1.6799420709630701,211.7292036245061,"('Omen', 'KAY/O', 'Jett')","('Controller', 'Initiator', 'Duelist', 'Sentinel')",NA,vct-international,93,3,435500.0,0.574468085106383,1.0328638497652582,0.23655913978494625,False
 45,vanity,Shopify Rebellion,1.3557358053302433,173.36343911290055,"('Omen', 'Skye', 'Viper')","('Controller', 'Initiator', 'Sentinel')",NA,vct-international,58,1,281197.0,0.4406779661016949,0.792,0.27586206896551724,False
 47,Zellsis,Cloud9,1.5506849315068494,186.02159786829895,"('Killjoy', 'Viper', 'KAY/O')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",NA,vct-international,109,10,234143.0,0.6272727272727273,0.8235294117647058,0.3669724770642202,False
 51,Derke,FNATIC,1.4795613160518444,246.1925492251812,"('Raze', 'Jett', 'Yoru')","('Duelist',)",INTL,vct-international,136,2,1242285.0,0.6934306569343066,1.1653225806451613,0.19117647058823528,False
@@ -79,11 +78,9 @@
 293,PinOcChiOs,SHARPER ESPORT,1.4977628635346756,195.6448385831799,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Controller', 'Duelist')",SEA,vct-challengers,58,33,25560.0,0.4576271186440678,0.875,0.4482758620689655,False
 295,b3ta,Made In Thailand,1.544894366197183,185.26719091219084,"('Omen', 'Astra', 'Brimstone')","('Controller',)",SEA,vct-challengers,78,5,64510.0,0.5443037974683544,0.9037037037037037,0.41025641025641024,False
 303,W1nner,One Team Esports,1.5572519083969465,226.00532311964753,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",SEA,vct-challengers,78,10,34500.0,0.7341772151898734,1.2093023255813953,0.2692307692307692,False
-305,flowerful,Shopify Rebellion,1.24,198.48018374811605,"('Killjoy', 'Cypher', 'Omen')","('Sentinel', 'Controller')",NA,game-changers,23,1,281197.0,0.4166666666666667,1.28125,0.6521739130434783,False
 306,KP,Shopify Rebellion,1.4955752212389382,189.05038105017834,"('Breach', 'Skye', 'Harbor')","('Initiator', 'Controller')",NA,game-changers,23,1,281197.0,0.4166666666666667,0.8157894736842105,0.30434782608695654,False
 314,Ciao,FiRePOWER,1.4313725490196079,197.7628117300432,"('Brimstone', 'Astra', 'Breach')","('Controller', 'Initiator')",LATAM,game-changers,7,9,10187.0,0.5,1.1,0.7142857142857143,False
 317,LunaFox,KS Hunters,1.5145348837209303,219.36769678952268,"('Gekko', 'Skye', 'Breach')","('Initiator', 'Controller', 'Sentinel')",LATAM,game-changers,22,48,18495.0,0.43478260869565216,0.9636363636363636,0.36363636363636365,False
-319,bENITA,Shopify Rebellion,1.4939024390243902,193.00400139842358,"('Viper', 'Astra', 'Brimstone')","('Controller', 'Initiator')",NA,game-changers,11,1,281197.0,0.5,0.85,0.5454545454545454,False
 331,dodonut,FlyQuest Red,1.4838709677419355,251.66981042382338,"('Raze', 'Jett')","('Duelist',)",NA,game-changers,25,7,23000.0,0.38461538461538464,1.2790697674418605,0.2,False
 336,SkRossi,Revenant Esports,1.5135135135135136,218.1218754006254,"('Sova', 'Jett', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",INTL,vct-international,66,7,28000.0,0.6268656716417911,1.1353383458646618,0.24242424242424243,False
 337,skillZ,Revenant Esports,1.4429012345679013,180.02245222631123,"('Killjoy', 'Omen', 'Viper')","('Sentinel', 'Controller', 'Initiator')",INTL,vct-international,51,7,28000.0,0.6538461538461539,1.1363636363636365,0.21568627450980393,False
@@ -317,7 +314,6 @@
 1953,sherb,TSM,1.6153846153846154,183.30434782608697,"('Cypher',)","('Sentinel',)",NA,vct-challengers,1,8,175000.0,0.5,1.0,0.0,False
 1964,Natasha,LOUD,1.3933823529411764,192.3895341032657,"('Cypher', 'Killjoy', 'Brimstone')","('Sentinel', 'Controller')",BR,game-changers,20,1,937507.0,0.5714285714285714,1.2592592592592593,0.4,False
 1966,Lendary,FiRePOWER,0.9428571428571428,170.39576947969397,"('Neon', 'Jett', 'Omen')","('Duelist', 'Controller')",LATAM,game-changers,8,9,10187.0,0.4444444444444444,0.7692307692307693,0.375,True
-1967,bstrdd,Team Liquid Brazil,1.5131964809384164,253.21252225689315,"('Raze', 'Jett', 'Iso')","('Duelist', 'Sentinel')",BR,game-changers,24,12,143107.0,0.6,1.2054794520547945,0.25,False
 1976,ghoul33,THE 7,1.3892045454545454,248.69173784943897,"('Jett', 'Iso', 'Raze')","('Duelist', 'Controller')",BR,vct-challengers,23,4,40669.0,0.6666666666666666,1.359375,0.08695652173913043,False
 1977,x jfoen,ILLICIT,1.6866359447004609,174.2239568262886,"('Breach', 'Skye', 'Sova')","('Initiator',)",LATAM,vct-challengers,16,4,11125.0,0.47058823529411764,0.7142857142857143,0.75,False
 1980,Jcz,Oxen,1.3691756272401434,196.29811495405835,"('Deadlock', 'Gekko', 'Sova')","('Initiator', 'Sentinel')",LATAM,vct-challengers,19,4,8214.0,0.45,0.9,0.2631578947368421,False
