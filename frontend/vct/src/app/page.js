@@ -71,7 +71,7 @@ export default function LandingPage() {
         >
           <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7b76209193f1bfe190d3ae6ef8728328870be9c3-736x138.png?auto=format&amp;fit=fill&amp;q=80&amp;w=300" className="valorant-logo"></img>
           <h2>FORGE YOUR TEAM</h2>
-          <p>THEIR POTENTIAL IS UP TO YOU.</p>
+          <p> </p>
         </motion.div>
 
         <motion.div

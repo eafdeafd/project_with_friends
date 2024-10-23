@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 import Header from "./Header";
 import { Send } from "lucide-react";
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 
 export default function Chatbot({ submittedText }) {
   const [messages, setMessages] = useState([]);
@@ -103,6 +103,12 @@ export default function Chatbot({ submittedText }) {
     { label: 'CONTACT' },
   ];
 
+  const messageVariants = {
+    initial: { opacity: 0, y: 20 },
+    animate: { opacity: 1, y: 0 },
+    exit: { opacity: 0, y: -20 }
+  }
+
   return (
     <div className="fullscreen-div">
       <motion.div
@@ -110,7 +116,7 @@ export default function Chatbot({ submittedText }) {
         animate={{ y: 0, opacity: 1 }}      // Drop down to position and fade in
         transition={{ type: 'tween', stiffness: 50, damping: 10 }}  // Smooth spring animation
       >
-        <Header title="RIOT GAMES" buttons={buttons} />
+        <Header title="VCT MANAGER" buttons={buttons} />
       </motion.div>
       <motion.div
         initial={{ opacity: 0 }}
@@ -120,15 +126,29 @@ export default function Chatbot({ submittedText }) {
 
         <div className="flex flex-col h-screen dark-gray text-gray-100">
           <div ref={messageContainerRef} className="flex-1-main p-4 space-y-4 overflow-y-auto"> {/* Added flex-col for vertical stacking */}
-            {messages.map((message, index) => (
-              <div
-                key={index}
-                className={`message max-w-[80%] self-start p-3 rounded-lg ${message.sender === "user" ? "self-end bg-red-600" : "bg-gray-700"
-                  }`} // Use self-start for received and self-end for sent
-              >
-                {message.text}
-              </div>
-            ))}
+            <AnimatePresence initial={false}>
+              {messages.map((message) => (
+                <motion.div
+                  key={message.id}
+                  variants={messageVariants}
+                  initial="initial"
+                  animate="animate"
+                  exit="exit"
+                  transition={{
+                    type: "spring",
+                    stiffness: 500,
+                    damping: 50,
+                    mass: 1
+                  }}
+                  className={`message max-w-[80%] p-3 rounded-lg ${message.sender === "user"
+                      ? "self-end bg-red-600 text-white ml-auto"
+                      : "self-start bg-gray-700 text-white"
+                    }`}
+                >
+                  {message.text}
+                </motion.div>
+              ))}
+            </AnimatePresence>
           </div>
           <motion.div
             className="chatbox-main fixed bottom-0 left-0 right-0 w-full mx-auto mb-4" // Fixed position to bottom
