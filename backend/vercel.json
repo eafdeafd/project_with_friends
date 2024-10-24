@@ -1,8 +1,3 @@
 {
-    "rewrites": [
-        {
-            "source": "/(.*)",
-            "destination": "app-flask"
-        }
-    ]
+    "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }]
 }

@@ -23,6 +23,3 @@ def query_agent():
             }) + '\n'
 
     return Response(stream_agent_wrapper(), content_type='application/json')
-
-if __name__ == '__main__':
-    app.run(debug=True)
