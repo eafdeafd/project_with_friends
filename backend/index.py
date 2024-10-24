@@ -9,6 +9,10 @@ CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://vct-e
 # Initialize Bedrock client and agent
 bedrock_agent = BedrockAgent()
 
+@app.route('/')
+def home():
+    return 'Hello, World!'
+
 @app.route('/query_agent', methods=['GET'])
 def query_agent():
     prompt = request.args.get('prompt')
