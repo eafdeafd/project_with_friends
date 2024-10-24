@@ -1,3 +1,4 @@
+aiohttp
 anyio==4.4.0
 boto3==1.35.19
 botocore
