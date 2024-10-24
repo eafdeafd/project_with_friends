@@ -1,14 +1,15 @@
 "use client";
 
-import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 import Header from "./Header";
-import { Send } from "lucide-react";
+import { Send, Loader2 } from "lucide-react";
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function Chatbot({ submittedText }) {
   const [messages, setMessages] = useState([]);
   const [inputValue, setInputValue] = useState("");
+  const [sessionId, setSessionId] = useState(null);
+  const [isWaitingForResponse, setIsWaitingForResponse] = useState(false);
   const isTextSubmitted = useRef(false); // Ref to track if the message has been submitted
   const textAreaRef = useRef(null);
   const messageContainerRef = useRef(null); // Ref for message container
@@ -18,22 +19,35 @@ export default function Chatbot({ submittedText }) {
     autoResizeTextArea(); // Dynamically resize based on content
   };
 
+  // Update the function that the button send calls
   const handleSendMessage = async (submittedText) => {
+    let messageToSend = "";
     if (isTextSubmitted.current === false && submittedText) {
       addUserMessage(submittedText);
       isTextSubmitted.current = true;
+      setInputValue("");
+      messageToSend = submittedText;
     } else if (inputValue.trim()) {
       addUserMessage(inputValue);
+      messageToSend = submittedText;
     }
 
     const textarea = textAreaRef.current;
     textarea.style.height = `${minHeight}px`;
 
-    // After sending the message, call the backend and wait for the response
-    const response = await sendMessageToBackend(inputValue);
-    addBotMessage(response);
+    // Clear input immediately after submitting the message and disable text area until response
+    setInputValue("");
+    setIsWaitingForResponse(true);
 
-    setInputValue(""); // Clear input after sending
+    try {
+      // After sending the message, call the backend and wait for the response
+      const newSessionId = await sendMessageToBackend(messageToSend, sessionId); // Use the stored message
+      if (newSessionId) {
+        setSessionId(newSessionId); // Update session ID if received
+      }
+    } finally {
+      setIsWaitingForResponse(false); // Re-enable textarea after response
+    }
   };
 
   const addUserMessage = (text) => {
@@ -42,24 +56,61 @@ export default function Chatbot({ submittedText }) {
   };
 
   const addBotMessage = (text) => {
+    // Create a new bot message
     const newMessage = { text, sender: "bot" };
-    setMessages((prevMessages) => [...prevMessages, newMessage]);
+    setMessages((prevMessages) => {
+      return [...prevMessages, newMessage];
+    });
+
   };
 
-  const sendMessageToBackend = async (message) => {
+  const sendMessageToBackend = async (message, sessionId) => {
+    const url = new URL('http://127.0.0.1:8000/query_agent');
+    url.searchParams.append('prompt', message); // Add the user message
+
+    // Only add session_id if it's available
+    if (sessionId) {
+      url.searchParams.append('session_id', sessionId); // Add the session ID
+    }
+
     try {
-      const response = await fetch('YOUR_BACKEND_API_URL', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ message }), // Adjust the body structure as per backend
+      const response = await fetch(url.toString(), {
+        method: 'GET',
       });
-      const data = await response.json(); // Assuming the response is in JSON format
-      return data.reply; // Adjust according to backend response structure
+
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder('utf-8');
+      let done = false;
+      let newSessionId = null; // To store the session ID from the response
+
+      // Read the stream
+      while (!done) {
+        const { done: isDone, value } = await reader.read();
+        done = isDone;
+
+        if (value) {
+          const chunk = decoder.decode(value, { stream: true });
+          const messageData = JSON.parse(chunk);
+
+          // Capture the session ID from the response and store
+          if (messageData.session_id) {
+            newSessionId = messageData.session_id;
+          }
+
+          // Append the bot message to the chat
+          addBotMessage(messageData.response);
+        }
+      }
+
+      return newSessionId; // Return the new session ID for future requests
     } catch (error) {
       console.error('Error sending message to backend:', error);
-      return 'Sorry, something went wrong.';
+      // Create a new bot message for the error, don't append to previous
+      addBotMessage('Sorry, something went wrong.');
     }
   };
 
@@ -91,11 +142,23 @@ export default function Chatbot({ submittedText }) {
   useEffect(() => {
     const textarea = textAreaRef.current;
     textarea.style.height = `${minHeight}px`; // Initialize at minimum height
-    if (submittedText && submittedText.trim() && !isTextSubmitted.current) {
-      handleSendMessage(submittedText);
+
+    // Prevent new lines by explicitly clearing any leading/trailing whitespaces
+    const trimmedSubmittedText = submittedText?.trim();
+
+    if (trimmedSubmittedText && !isTextSubmitted.current) {
+      setInputValue(""); // Clear the input first to prevent a new line
+      handleSendMessage(trimmedSubmittedText); // Send the trimmed message
       isTextSubmitted.current = true; // Set the flag to true after the first submission
     }
   }, [submittedText]);
+
+  useEffect(() => {
+    if (!isWaitingForResponse && textAreaRef.current) {
+      textAreaRef.current.focus(); // Refocus the textarea when re-enabled when receiving response
+      setInputValue("");
+    }
+  }, [isWaitingForResponse]);
 
   const buttons = [
     { label: 'DEMO', link: 'https://youtube.com/' },
@@ -127,9 +190,9 @@ export default function Chatbot({ submittedText }) {
         <div className="flex flex-col h-screen dark-gray text-gray-100">
           <div ref={messageContainerRef} className="flex-1-main p-4 space-y-4 overflow-y-auto"> {/* Added flex-col for vertical stacking */}
             <AnimatePresence initial={false}>
-              {messages.map((message) => (
+              {messages.map((message, index) => (
                 <motion.div
-                  key={message.id}
+                  key={index}
                   variants={messageVariants}
                   initial="initial"
                   animate="animate"
@@ -141,14 +204,25 @@ export default function Chatbot({ submittedText }) {
                     mass: 1
                   }}
                   className={`message max-w-[80%] p-3 rounded-lg ${message.sender === "user"
-                      ? "self-end bg-red-600 text-white ml-auto"
-                      : "self-start bg-gray-700 text-white"
+                    ? "self-end bg-red-600 text-white ml-auto"
+                    : "self-start bg-gray-700 text-white"
                     }`}
                 >
                   {message.text}
                 </motion.div>
               ))}
             </AnimatePresence>
+            {isWaitingForResponse && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.8 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.8 }}
+                transition={{ duration: 0.3 }}
+                className="flex justify-center items-center p-4"
+              >
+                <Loader2 className="w-6 h-6 text-gray-400 animate-spin" />
+              </motion.div>
+            )}
           </div>
           <motion.div
             className="chatbox-main fixed bottom-0 left-0 right-0 w-full mx-auto mb-4" // Fixed position to bottom
@@ -161,6 +235,7 @@ export default function Chatbot({ submittedText }) {
                 ref={textAreaRef}
                 value={inputValue}
                 onChange={handleInputChange}
+                disabled={isWaitingForResponse}
                 onKeyPress={(e) => {
                   if (e.key === "Enter") {
                     if (e.shiftKey) {
@@ -179,6 +254,7 @@ export default function Chatbot({ submittedText }) {
             </div>
             <button
               onClick={() => handleSendMessage(inputValue)}
+              disabled={isWaitingForResponse}
               className="p-2 bg-red-500 rounded-md transition-colors duration-200 ease-in-out hover:bg-white group focus:outline-none focus:ring-2 focus:ring-red-500"
             >
               <Send className="w-4 h-4 text-white group-hover:text-black transition-colors duration-200 ease-in-out" />
