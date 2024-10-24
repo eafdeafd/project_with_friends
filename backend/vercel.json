@@ -1,9 +1,8 @@
 {
-    "version": 2,
-    "builds": [
-      { "src": "app-flask.py", "use": "@vercel/python" }
-    ],
-    "routes": [
-      { "src": "/(.*)", "dest": "/app-flask.py" }
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "app-flask"
+        }
     ]
-  }
+}
