@@ -9,29 +9,36 @@ def lambda_handler(event, context):
     
     param_dict = {param['name'].lower() : param['value'] for param in parameters}
 
-    if function == "query_aggregated_data":
-        player_name = param_dict.get("player_name", "all")
-        bracket = param_dict.get("bracket", "vct-challengers vct-international game-changers").split(" ")
-        region = param_dict.get("region", "all")
-        try:
-            result_text = actions.query_aggregated_data(player_name, bracket, region)
-        except ValueError as e:
-            print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
-            result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
-    elif function == "query_unaggregated_data":
-        player_name = param_dict.get("player_name", "all")
-        bracket = param_dict.get("bracket", "vct-challengers vct-international game-changers").split(" ")
-        region = param_dict.get("region", "all")
-        past_games = param_dict.get("past_games", "all")
-        agent = param_dict.get("agent", "all")
-        try:
-            result_text = actions.query_unaggregated_data(player_name, bracket, region, past_games, agent)
-        except ValueError as e:
-            print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
-            result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
-
-    # Execute your business logic here. For more information, refer to: https://docs.aws.amazon.com/basdfedrock/latest/userguide/agents-lambda.html
-
+    try:
+        if function == "query_past_games":
+            player_name = param_dict.get("player_name")
+            if not player_name:
+                raise ValueError("player_name parameter is required for query_past_games function.")
+            past_games = int(param_dict.get("past_games", 5))
+            agent = param_dict.get("agent", "all")
+            result_text = actions.query_past_games(player_name, past_games, agent)
+        elif function == "get_players_from_specifiers":
+            role = param_dict.get("role")
+            if not role:
+                raise ValueError("role parameter is required for get_players_from_specifiers function.")
+            bracket = param_dict.get("bracket")
+            if not bracket:
+                raise ValueError("bracket parameter is required for get_players_from_specifiers function.")
+            region = param_dict.get("region", "all")
+            agent = param_dict.get("agent", "all")
+            IGL = param_dict.get("igl", False)
+            result_text = actions.get_players_from_specifiers(role, bracket, region, agent, IGL)
+        elif function == "query_player":
+            player_name = param_dict.get("player_name")
+            if not player_name:
+                raise ValueError("player_name parameter is required for query_player function.")
+            result_text = actions.query_player(player_name)
+        else:
+            raise ValueError(f"Function {function} is not recognized.")
+    except ValueError as e:
+        print(f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}")
+        result_text = f"Invalid input. Please provide valid input. Error = {e}. Stack trace: {traceback.format_exc()}"
+    
     responseBody = {
         "TEXT": {
             "body": result_text

@@ -1,269 +1,269 @@
 ,player_name,team_name,player_kda,player_combat_score,top_3_agents,top_roles,region,bracket,games_played,rank,earnings,win_rate,fb-fd ratio,clutches_per_game,KPR,KPR_Variance,kill_assists_survived_traded,IGL,OPer
-0,Sacy,Sentinels,1.49,185.37,"('Skye', 'Sova', 'Fade')","('Initiator', 'Controller', 'Sentinel')",NA,vct-international,102,3,435500.0,55.34%,0.86,0.3,0.63,0.67,,True,False
+0,Sacy,Sentinels,1.49,185.37,"('Skye', 'Sova', 'Fade')","('Initiator', 'Controller')",NA,vct-international,102,3,435500.0,55.34%,0.86,0.3,0.63,0.67,,True,False
 1,Boaster,FNATIC,1.51,160.94,"('Omen', 'Astra', 'Brimstone')","('Controller', 'Initiator')",INTL,vct-international,136,2,1242285.0,69.34%,0.78,0.29,0.55,0.59,73%,True,False
 2,aspas,LOUD,1.6,244.96,"('Jett', 'Raze', 'Neon')","('Duelist',)",BR,vct-international,154,1,937507.0,61.94%,1.54,0.36,0.88,0.92,,False,False
 3,Less,LOUD,1.56,218.39,"('Viper', 'Killjoy', 'Cypher')","('Controller', 'Sentinel')",BR,vct-international,125,1,937507.0,56.35%,1.26,0.4,0.78,0.77,66%,True,False
-4,silentzz,2GAME eSports,1.3,235.29,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel', 'Controller', 'Initiator')",BR,vct-challengers,55,2,22130.0,60.71%,1.47,0.15,0.83,0.89,,False,False
-5,Urango,Galorys,1.35,195.99,"('KAY/O', 'Raze', 'Viper')","('Initiator', 'Duelist', 'Sentinel', 'Controller')",BR,vct-challengers,56,3,31491.0,54.39%,0.79,0.14,0.69,0.77,,True,False
-6,qck,FURIA,1.2,191.94,"('Viper', 'Phoenix', 'Jett')","('Duelist', 'Controller', 'Sentinel', 'Initiator')",BR,vct-international,70,6,123788.0,46.48%,0.89,0.24,0.67,0.73,,False,False
-7,Saadhak,LOUD,1.41,189.68,"('KAY/O', 'Killjoy', 'Viper')","('Initiator', 'Sentinel', 'Controller', 'Duelist')",BR,vct-international,125,1,937507.0,56.35%,0.74,0.24,0.61,0.67,,True,False
-8,keznitdeuS,KRU Esports,1.4,242.19,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel', 'Controller')",LATAM,vct-international,81,3,109000.0,39.02%,1.19,0.19,0.83,0.95,,False,False
-9,jfoeN,Six Karma,1.68,213.46,"('Raze', 'Breach', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",LATAM,vct-challengers,51,8,6375.0,55.77%,0.92,0.24,0.73,0.79,,False,False
-10,dapr,G2 Esports,1.3,179.72,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller', 'Duelist', 'Initiator')",NA,vct-international,65,2,407250.0,53.03%,0.98,0.28,0.62,0.61,72%,False,False
-11,Zellsis,Cloud9,1.55,186.02,"('Killjoy', 'Viper', 'KAY/O')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",NA,vct-international,109,10,234143.0,62.73%,0.82,0.37,0.65,0.69,74%,False,False
+4,silentzz,2GAME eSports,1.3,235.29,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel')",BR,vct-challengers,55,2,22130.0,60.71%,1.47,0.15,0.83,0.89,,False,False
+5,Urango,Galorys,1.35,195.99,"('KAY/O', 'Raze', 'Viper')","('Initiator', 'Duelist')",BR,vct-challengers,56,3,31491.0,54.39%,0.79,0.14,0.69,0.77,,True,False
+6,qck,FURIA,1.2,191.94,"('Viper', 'Phoenix', 'Jett')","('Duelist', 'Controller')",BR,vct-international,70,6,123788.0,46.48%,0.89,0.24,0.67,0.73,,False,False
+7,Saadhak,LOUD,1.41,189.68,"('KAY/O', 'Killjoy', 'Viper')","('Initiator', 'Sentinel')",BR,vct-international,125,1,937507.0,56.35%,0.74,0.24,0.61,0.67,,True,False
+8,keznitdeuS,KRU Esports,1.4,242.19,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel')",LATAM,vct-international,81,3,109000.0,39.02%,1.19,0.19,0.83,0.95,,False,False
+9,jfoeN,Six Karma,1.68,213.46,"('Raze', 'Breach', 'Skye')","('Initiator', 'Duelist')",LATAM,vct-challengers,51,8,6375.0,55.77%,0.92,0.24,0.73,0.79,,False,False
+10,dapr,G2 Esports,1.3,179.72,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",NA,vct-international,65,2,407250.0,53.03%,0.98,0.28,0.62,0.61,72%,False,False
+11,Zellsis,Cloud9,1.55,186.02,"('Killjoy', 'Viper', 'KAY/O')","('Sentinel', 'Controller')",NA,vct-international,109,10,234143.0,62.73%,0.82,0.37,0.65,0.69,74%,False,False
 12,Derke,FNATIC,1.48,246.19,"('Raze', 'Jett', 'Yoru')","('Duelist',)",INTL,vct-international,136,2,1242285.0,69.34%,1.17,0.19,0.87,0.93,71%,False,False
-13,Munchkin,T1,1.6,194.4,"('Viper', 'KAY/O', 'Killjoy')","('Controller', 'Initiator', 'Sentinel')",NA,vct-international,162,3,128371.0,60.12%,0.83,0.33,0.67,0.78,71%,True,False
+13,Munchkin,T1,1.6,194.4,"('Viper', 'KAY/O', 'Killjoy')","('Controller', 'Initiator')",NA,vct-international,162,3,128371.0,60.12%,0.83,0.33,0.67,0.78,71%,True,False
 14,CGRS,Made In Thailand,1.42,182.2,"('Sova', 'Cypher', 'Gekko')","('Initiator', 'Sentinel')",SEA,vct-international,66,5,64510.0,61.19%,0.87,0.5,0.64,0.66,74%,False,False
-15,isaa,Team Liquid Brazil,1.33,180.54,"('Viper', 'Gekko', 'Killjoy')","('Controller', 'Initiator', 'Sentinel')",BR,game-changers,53,12,143107.0,66.67%,0.9,0.23,0.62,0.7,,False,False
-16,shyz,KRÜ Blaze,1.59,183.18,"('Breach', 'KAY/O', 'Killjoy')","('Initiator', 'Sentinel', 'Controller', 'Duelist')",LATAM,game-changers,45,3,76618.0,67.39%,1.32,0.31,0.65,0.66,,True,False
+15,isaa,Team Liquid Brazil,1.33,180.54,"('Viper', 'Gekko', 'Killjoy')","('Controller', 'Initiator')",BR,game-changers,53,12,143107.0,66.67%,0.9,0.23,0.62,0.7,,False,False
+16,shyz,KRÜ Blaze,1.59,183.18,"('Breach', 'KAY/O', 'Killjoy')","('Initiator', 'Sentinel')",LATAM,game-changers,45,3,76618.0,67.39%,1.32,0.31,0.65,0.66,,True,False
 17,nanah,Legacy,1.03,146.43,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",BR,game-changers,16,29,20690.0,52.94%,1.04,0.38,0.54,0.55,,False,False
-18,bizerra,Team Liquid Brazil,1.71,217.45,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller', 'Initiator')",BR,game-changers,53,12,143107.0,66.67%,1.49,0.51,0.78,0.81,,False,False
+18,bizerra,Team Liquid Brazil,1.71,217.45,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",BR,game-changers,53,12,143107.0,66.67%,1.49,0.51,0.78,0.81,,False,False
 19,sayuri,Legacy,1.77,183.36,"('Omen', 'Breach', 'Brimstone')","('Controller', 'Initiator')",BR,game-changers,35,29,20690.0,63.89%,0.9,0.46,0.63,0.68,,False,False
-20,antg,Legacy,1.79,221.56,"('KAY/O', 'Skye', 'Brimstone')","('Initiator', 'Controller', 'Sentinel', 'Duelist')",BR,game-changers,36,29,20690.0,56.76%,0.95,0.22,0.78,0.87,,False,False
+20,antg,Legacy,1.79,221.56,"('KAY/O', 'Skye', 'Brimstone')","('Initiator', 'Controller')",BR,game-changers,36,29,20690.0,56.76%,0.95,0.22,0.78,0.87,,False,False
 21,bstrdd,Team Liquid Brazil,1.44,247.66,"('Jett', 'Raze')","('Duelist',)",BR,game-changers,29,12,143107.0,70.00%,1.27,0.24,0.88,0.89,,False,True
 22,daiki,Team Liquid Brazil,1.71,199.59,"('Skye', 'KAY/O', 'Sova')","('Initiator', 'Duelist')",BR,game-changers,53,12,143107.0,66.67%,0.88,0.43,0.71,0.76,,True,False
 23,UNNSTO,Furious Gaming,1.33,185.0,"('Sova', 'Skye', 'Sage')","('Initiator', 'Sentinel')",LAS,vct-challengers,18,7,8743.0,47.37%,1.33,0.33,0.63,0.61,,False,False
 24,Cebando,All Knights,1.64,190.99,"('Omen', 'Astra', 'Brimstone')","('Controller',)",LAS,vct-challengers,84,2,45286.0,63.53%,0.96,0.25,0.68,0.77,,False,False
 25,BandiCoot,Six Karma,1.63,185.77,"('Omen', 'Astra', 'Brimstone')","('Controller', 'Initiator')",LATAM,vct-challengers,53,8,6375.0,48.15%,1.18,0.34,0.64,0.62,,False,False
 26,TwoPotz,E-Xolos LAZER,1.26,158.55,"('Omen', 'Viper', 'Astra')","('Controller',)",LATAM,vct-challengers,9,2,27375.0,50.00%,0.74,0.11,0.54,0.63,,False,False
-27,tuyz,LOUD,1.59,171.32,"('Omen', 'Harbor', 'Astra')","('Controller', 'Duelist', 'Initiator')",BR,vct-international,125,1,937507.0,56.35%,0.89,0.38,0.62,0.65,73%,False,False
-28,BcJ,M80,1.61,186.19,"('Gekko', 'Sova', 'Fade')","('Initiator', 'Controller', 'Sentinel')",NA,vct-international,42,1,128350.0,62.79%,0.74,0.45,0.63,0.66,75%,False,False
-29,zekken,Sentinels,1.47,249.61,"('Raze', 'Jett', 'Neon')","('Duelist', 'Initiator', 'Controller')",NA,vct-international,102,3,435500.0,55.34%,1.23,0.24,0.86,0.9,73%,False,False
+27,tuyz,LOUD,1.59,171.32,"('Omen', 'Harbor', 'Astra')","('Controller', 'Duelist')",BR,vct-international,125,1,937507.0,56.35%,0.89,0.38,0.62,0.65,73%,False,False
+28,BcJ,M80,1.61,186.19,"('Gekko', 'Sova', 'Fade')","('Initiator', 'Controller')",NA,vct-international,42,1,128350.0,62.79%,0.74,0.45,0.63,0.66,75%,False,False
+29,zekken,Sentinels,1.47,249.61,"('Raze', 'Jett', 'Neon')","('Duelist', 'Initiator')",NA,vct-international,102,3,435500.0,55.34%,1.23,0.24,0.86,0.9,73%,False,False
 30,Marved,Sentinels,1.38,192.95,"('Viper', 'Omen', 'Brimstone')","('Controller', 'Sentinel')",NA,vct-international,33,3,435500.0,55.88%,0.8,0.36,0.68,0.74,72%,True,False
 31,nitr0,M80,1.25,175.41,"('Killjoy', 'Cypher', 'Omen')","('Sentinel', 'Controller')",NA,vct-international,16,1,128350.0,58.82%,0.9,0.44,0.6,0.73,72%,True,False
-32,Asuna,100 Thieves,1.51,212.51,"('Raze', 'KAY/O', 'Gekko')","('Initiator', 'Duelist', 'Sentinel')",NA,vct-international,81,4,214000.0,47.56%,0.94,0.22,0.72,0.74,73%,False,False
+32,Asuna,100 Thieves,1.51,212.51,"('Raze', 'KAY/O', 'Gekko')","('Initiator', 'Duelist')",NA,vct-international,81,4,214000.0,47.56%,0.94,0.22,0.72,0.74,73%,False,False
 33,gMd,TSM,1.55,204.79,"('Omen', 'Brimstone', 'Astra')","('Controller',)",NA,vct-international,62,8,175000.0,49.21%,0.99,0.42,0.71,0.74,74%,False,False
 34,stax,DRX,1.56,177.8,"('Skye', 'KAY/O', 'Breach')","('Initiator', 'Controller')",KR,vct-international,108,2,812171.0,57.80%,0.71,0.25,0.62,0.71,,True,False
-35,Rb,DRX,1.4,186.06,"('Killjoy', 'Harbor', 'Astra')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",KR,vct-international,72,2,812171.0,56.16%,1.07,0.57,0.66,0.7,,False,False
+35,Rb,DRX,1.4,186.06,"('Killjoy', 'Harbor', 'Astra')","('Sentinel', 'Controller')",KR,vct-international,72,2,812171.0,56.16%,1.07,0.57,0.66,0.7,,False,False
 36,MaKo,DRX,1.78,205.53,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator')",KR,vct-international,133,2,812171.0,57.46%,1.04,0.34,0.71,0.79,67%,True,False
-37,BuZz,DRX,1.38,230.94,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel', 'Initiator')",KR,vct-international,131,2,812171.0,56.82%,1.06,0.26,0.81,0.87,,False,False
-38,JoxJo,FENNEL,1.54,166.47,"('Breach', 'KAY/O', 'Skye')","('Initiator', 'Sentinel', 'Controller')",JP,vct-international,63,2,42268.0,60.94%,0.6,0.29,0.56,0.62,71%,True,False
+37,BuZz,DRX,1.38,230.94,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel')",KR,vct-international,131,2,812171.0,56.82%,1.06,0.26,0.81,0.87,,False,False
+38,JoxJo,FENNEL,1.54,166.47,"('Breach', 'KAY/O', 'Skye')","('Initiator', 'Sentinel')",JP,vct-international,63,2,42268.0,60.94%,0.6,0.29,0.56,0.62,71%,True,False
 39,Seoldam,RIDDLE ORDER,1.33,227.58,"('Jett', 'Gekko', 'Yoru')","('Duelist', 'Initiator')",JP,vct-international,32,1,12920.0,48.48%,1.26,0.16,0.8,0.84,72%,False,False
 40,Mis4ya,Sengoku Gaming,1.53,181.45,"('KAY/O', 'Breach', 'Viper')","('Initiator', 'Controller')",JP,vct-challengers,43,4,13670.0,52.27%,0.8,0.3,0.62,0.58,,True,False
-41,CLZ,FENNEL,1.54,212.61,"('Jett', 'Breach', 'KAY/O')","('Duelist', 'Initiator', 'Controller', 'Sentinel')",JP,vct-challengers,98,2,42268.0,57.58%,1.16,0.43,0.75,0.78,73%,False,False
+41,CLZ,FENNEL,1.54,212.61,"('Jett', 'Breach', 'KAY/O')","('Duelist', 'Initiator')",JP,vct-challengers,98,2,42268.0,57.58%,1.16,0.43,0.75,0.78,73%,False,False
 42,something,Sengoku Gaming,1.52,224.46,"('Jett', 'Gekko', 'Reyna')","('Duelist', 'Initiator')",JP,vct-international,127,4,13670.0,61.72%,1.42,0.38,0.82,0.84,73%,False,True
-43,Jowzera,Six Karma,1.38,191.67,"('Sova', 'Viper', 'Gekko')","('Initiator', 'Controller', 'Duelist')",LATAM,vct-challengers,83,8,6375.0,57.14%,1.07,0.34,0.69,0.75,,False,False
-44,Feniz,Six Karma,1.44,194.94,"('Cypher', 'Killjoy', 'Gekko')","('Sentinel', 'Initiator', 'Controller')",LATAM,vct-challengers,83,8,6375.0,57.14%,1.29,0.33,0.7,0.74,,False,False
+43,Jowzera,Six Karma,1.38,191.67,"('Sova', 'Viper', 'Gekko')","('Initiator', 'Controller')",LATAM,vct-challengers,83,8,6375.0,57.14%,1.07,0.34,0.69,0.75,,False,False
+44,Feniz,Six Karma,1.44,194.94,"('Cypher', 'Killjoy', 'Gekko')","('Sentinel', 'Initiator')",LATAM,vct-challengers,83,8,6375.0,57.14%,1.29,0.33,0.7,0.74,,False,False
 45,conir,KRÜ Blaze,2.15,225.44,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator')",LATAM,vct-challengers,53,3,76618.0,83.33%,1.49,0.34,0.83,0.82,,False,False
 46,ceNder,Team Vitality,1.32,181.78,"('Omen', 'Viper', 'Killjoy')","('Controller', 'Sentinel')",INTL,vct-international,92,9,110000.0,47.31%,0.77,0.29,0.64,0.7,69%,False,False
 47,qw1,FUT Esports,1.32,220.57,"('Jett', 'Neon', 'Raze')","('Duelist',)",INTL,vct-international,51,10,390990.0,51.92%,1.14,0.33,0.8,0.88,69%,False,True
-48,ATA KAPTAN,FUT Esports,1.53,192.12,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator', 'Sentinel', 'Duelist')",INTL,vct-international,110,10,390990.0,51.35%,0.7,0.28,0.67,0.74,72%,False,False
+48,ATA KAPTAN,FUT Esports,1.53,192.12,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator')",INTL,vct-international,110,10,390990.0,51.35%,0.7,0.28,0.67,0.74,72%,False,False
 49,mojj,FUT Esports,1.26,188.95,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",INTL,vct-international,51,10,390990.0,51.92%,0.98,0.45,0.66,0.76,70%,False,False
-50,qRaxs,FUT Esports,1.53,192.65,"('KAY/O', 'Gekko', 'Fade')","('Initiator', 'Sentinel', 'Duelist')",INTL,vct-international,112,10,390990.0,50.44%,1.0,0.31,0.68,0.72,73%,False,False
-51,MrFaliN,FUT Esports,1.55,190.61,"('Omen', 'Sova', 'Breach')","('Initiator', 'Controller', 'Sentinel')",INTL,vct-international,112,10,390990.0,50.44%,0.84,0.35,0.66,0.71,74%,True,False
-52,WACKIE,Dsyre,1.91,252.52,"('Raze', 'Killjoy', 'Gekko')","('Duelist', 'Initiator', 'Sentinel', 'Controller')",EMEA,vct-challengers,69,4,25656.0,80.00%,1.39,0.32,0.91,0.96,71%,False,False
-53,hvoya,RECKONING ESPORTS,1.62,224.65,"('Killjoy', 'Skye', 'Sova')","('Sentinel', 'Initiator', 'Duelist')",INTL,vct-challengers,36,29,31650.0,56.76%,1.4,0.22,0.81,0.87,68%,False,False
-54,Chronicle,FNATIC,1.8,211.03,"('Viper', 'Breach', 'KAY/O')","('Initiator', 'Controller', 'Sentinel', 'Duelist')",INTL,vct-international,136,2,1242285.0,69.34%,1.32,0.3,0.74,0.77,75%,False,False
-55,corey,TSM,1.47,216.5,"('Raze', 'Neon', 'Sova')","('Duelist', 'Initiator', 'Sentinel', 'Controller')",NA,vct-challengers,60,8,175000.0,55.74%,1.08,0.35,0.76,0.84,72%,False,False
+50,qRaxs,FUT Esports,1.53,192.65,"('KAY/O', 'Gekko', 'Fade')","('Initiator', 'Sentinel')",INTL,vct-international,112,10,390990.0,50.44%,1.0,0.31,0.68,0.72,73%,False,False
+51,MrFaliN,FUT Esports,1.55,190.61,"('Omen', 'Sova', 'Breach')","('Initiator', 'Controller')",INTL,vct-international,112,10,390990.0,50.44%,0.84,0.35,0.66,0.71,74%,True,False
+52,WACKIE,Dsyre,1.91,252.52,"('Raze', 'Killjoy', 'Gekko')","('Duelist', 'Initiator')",EMEA,vct-challengers,69,4,25656.0,80.00%,1.39,0.32,0.91,0.96,71%,False,False
+53,hvoya,RECKONING ESPORTS,1.62,224.65,"('Killjoy', 'Skye', 'Sova')","('Sentinel', 'Initiator')",INTL,vct-challengers,36,29,31650.0,56.76%,1.4,0.22,0.81,0.87,68%,False,False
+54,Chronicle,FNATIC,1.8,211.03,"('Viper', 'Breach', 'KAY/O')","('Initiator', 'Controller')",INTL,vct-international,136,2,1242285.0,69.34%,1.32,0.3,0.74,0.77,75%,False,False
+55,corey,TSM,1.47,216.5,"('Raze', 'Neon', 'Sova')","('Duelist', 'Initiator')",NA,vct-challengers,60,8,175000.0,55.74%,1.08,0.35,0.76,0.84,72%,False,False
 56,dazzle,Shopify Rebellion,1.23,161.6,"('Skye', 'Raze', 'Breach')","('Initiator', 'Duelist')",NA,vct-challengers,13,1,281197.0,50.00%,0.96,0.15,0.54,0.61,72%,False,False
 57,moose,Shopify Rebellion,1.34,179.05,"('Cypher', 'Killjoy', 'Viper')","('Sentinel', 'Controller')",NA,vct-international,51,1,281197.0,46.15%,1.19,0.41,0.63,0.66,74%,False,False
 58,bang,100 Thieves,1.52,199.2,"('Viper', 'Omen', 'Brimstone')","('Controller',)",NA,vct-international,81,4,214000.0,47.56%,1.02,0.33,0.7,0.73,73%,False,False
-59,severiNe,BOOM ESPORTS,1.47,188.64,"('KAY/O', 'Viper', 'Omen')","('Controller', 'Initiator', 'Sentinel')",SEA,vct-challengers,108,4,155975.0,62.39%,0.76,0.28,0.66,0.71,71%,False,False
-60,Shiro,BOOM ESPORTS,1.88,213.87,"('Sova', 'Breach', 'Viper')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-challengers,90,4,155975.0,72.53%,1.15,0.31,0.75,0.79,61%,False,False
-61,PTC,Made In Thailand,1.78,206.18,"('Viper', 'Killjoy', 'Cypher')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",SEA,vct-international,78,5,64510.0,74.68%,1.2,0.44,0.74,0.76,74%,False,False
-62,JohnOlsen,FULL SENSE,1.44,245.43,"('Jett', 'Raze', 'Viper')","('Duelist', 'Controller', 'Sentinel')",SEA,vct-international,74,2,97868.0,69.33%,1.25,0.14,0.86,0.89,73%,False,True
-63,DubsteP,OASIS GAMING,1.41,185.73,"('Omen', 'Killjoy', 'Jett')","('Controller', 'Sentinel', 'Duelist', 'Initiator')",SEA,vct-international,75,9,40113.0,56.58%,0.9,0.44,0.67,0.71,70%,False,False
-64,JessieVash,Team Secret,1.44,187.27,"('Sova', 'Fade', 'Cypher')","('Initiator', 'Sentinel', 'Controller')",SEA,vct-international,64,8,219316.0,50.77%,0.96,0.41,0.66,0.71,73%,False,False
+59,severiNe,BOOM ESPORTS,1.47,188.64,"('KAY/O', 'Viper', 'Omen')","('Controller', 'Initiator')",SEA,vct-challengers,108,4,155975.0,62.39%,0.76,0.28,0.66,0.71,71%,False,False
+60,Shiro,BOOM ESPORTS,1.88,213.87,"('Sova', 'Breach', 'Viper')","('Initiator', 'Controller')",SEA,vct-challengers,90,4,155975.0,72.53%,1.15,0.31,0.75,0.79,61%,False,False
+61,PTC,Made In Thailand,1.78,206.18,"('Viper', 'Killjoy', 'Cypher')","('Sentinel', 'Controller')",SEA,vct-international,78,5,64510.0,74.68%,1.2,0.44,0.74,0.76,74%,False,False
+62,JohnOlsen,FULL SENSE,1.44,245.43,"('Jett', 'Raze', 'Viper')","('Duelist', 'Controller')",SEA,vct-international,74,2,97868.0,69.33%,1.25,0.14,0.86,0.89,73%,False,True
+63,DubsteP,OASIS GAMING,1.41,185.73,"('Omen', 'Killjoy', 'Jett')","('Controller', 'Sentinel')",SEA,vct-international,75,9,40113.0,56.58%,0.9,0.44,0.67,0.71,70%,False,False
+64,JessieVash,Team Secret,1.44,187.27,"('Sova', 'Fade', 'Cypher')","('Initiator', 'Sentinel')",SEA,vct-international,64,8,219316.0,50.77%,0.96,0.41,0.66,0.71,73%,False,False
 65,BORKUM,Team Secret,1.55,183.84,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator')",SEA,vct-international,59,8,219316.0,48.33%,0.99,0.36,0.64,0.74,72%,False,False
 66,asteriskk,ALTER EGO,1.73,182.73,"('Omen', 'Brimstone', 'Astra')","('Controller',)",SEA,vct-challengers,27,14,33213.0,53.57%,0.79,0.3,0.62,0.64,72%,False,False
-67,d4v41,PAPER REX,1.7,196.56,"('Skye', 'Viper', 'Killjoy')","('Initiator', 'Sentinel', 'Controller')",SEA,vct-international,142,1,1096136.0,61.54%,1.12,0.37,0.7,0.71,76%,False,False
+67,d4v41,PAPER REX,1.7,196.56,"('Skye', 'Viper', 'Killjoy')","('Initiator', 'Sentinel')",SEA,vct-international,142,1,1096136.0,61.54%,1.12,0.37,0.7,0.71,76%,False,False
 68,mindfreak,PAPER REX,1.51,174.37,"('Omen', 'Viper', 'Brimstone')","('Controller', 'Initiator')",SEA,vct-international,142,1,1096136.0,61.54%,0.73,0.39,0.64,0.66,74%,False,False
-69,f0rsakeN,PAPER REX,1.51,210.42,"('Harbor', 'KAY/O', 'Breach')","('Initiator', 'Duelist', 'Controller', 'Sentinel')",SEA,vct-international,142,1,1096136.0,61.54%,1.01,0.22,0.74,0.85,73%,True,False
-70,PinOcChiOs,SHARPER ESPORT,1.5,195.64,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Controller', 'Duelist')",SEA,vct-challengers,58,33,25560.0,45.76%,0.88,0.45,0.68,0.79,68%,False,False
+69,f0rsakeN,PAPER REX,1.51,210.42,"('Harbor', 'KAY/O', 'Breach')","('Initiator', 'Duelist')",SEA,vct-international,142,1,1096136.0,61.54%,1.01,0.22,0.74,0.85,73%,True,False
+70,PinOcChiOs,SHARPER ESPORT,1.5,195.64,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Controller')",SEA,vct-challengers,58,33,25560.0,45.76%,0.88,0.45,0.68,0.79,68%,False,False
 71,b3ta,Made In Thailand,1.54,185.27,"('Omen', 'Astra', 'Brimstone')","('Controller',)",SEA,vct-challengers,78,5,64510.0,54.43%,0.9,0.41,0.65,0.71,74%,True,False
-72,W1nner,One Team Esports,1.56,226.01,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",SEA,vct-challengers,78,10,34500.0,73.42%,1.21,0.27,0.81,0.83,69%,False,False
+72,W1nner,One Team Esports,1.56,226.01,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",SEA,vct-challengers,78,10,34500.0,73.42%,1.21,0.27,0.81,0.83,69%,False,False
 73,Ciao,FiRePOWER,1.43,197.76,"('Brimstone', 'Astra', 'Breach')","('Controller', 'Initiator')",LATAM,game-changers,7,9,10187.0,50.00%,1.1,0.71,0.68,0.59,65%,False,False
 74,dodonut,FlyQuest Red,1.48,251.67,"('Raze', 'Jett')","('Duelist',)",NA,game-changers,25,7,23000.0,38.46%,1.28,0.2,0.86,0.89,74%,False,False
-75,SkRossi,Revenant Esports,1.51,218.12,"('Sova', 'Jett', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",INTL,vct-international,66,7,28000.0,62.69%,1.14,0.24,0.77,0.85,71%,False,False
-76,skillZ,Revenant Esports,1.44,180.02,"('Killjoy', 'Omen', 'Viper')","('Sentinel', 'Controller', 'Initiator')",INTL,vct-international,51,7,28000.0,65.38%,1.14,0.22,0.65,0.65,71%,False,False
-77,eva,BBL Queens,1.66,203.91,"('Skye', 'Sova', 'Gekko')","('Initiator', 'Controller', 'Sentinel')",EMEA,vct-international,60,10,47183.0,55.74%,1.24,0.42,0.75,0.78,77%,False,False
+75,SkRossi,Revenant Esports,1.51,218.12,"('Sova', 'Jett', 'Skye')","('Initiator', 'Duelist')",INTL,vct-international,66,7,28000.0,62.69%,1.14,0.24,0.77,0.85,71%,False,False
+76,skillZ,Revenant Esports,1.44,180.02,"('Killjoy', 'Omen', 'Viper')","('Sentinel', 'Controller')",INTL,vct-international,51,7,28000.0,65.38%,1.14,0.22,0.65,0.65,71%,False,False
+77,eva,BBL Queens,1.66,203.91,"('Skye', 'Sova', 'Gekko')","('Initiator', 'Controller')",EMEA,vct-international,60,10,47183.0,55.74%,1.24,0.42,0.75,0.78,77%,False,False
 78,rayka,BBL Queens,1.12,167.79,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",EMEA,vct-international,16,10,47183.0,47.06%,0.62,0.25,0.58,0.64,69%,False,False
 79,Petra,G2 Gozen,1.55,213.01,"('Skye', 'Sova', 'Fade')","('Initiator', 'Duelist')",EMEA,game-changers,57,6,35844.0,72.41%,0.83,0.26,0.74,0.82,74%,False,False
-80,mimi,G2 Gozen,1.93,209.97,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Sentinel', 'Controller')",EMEA,game-changers,57,6,35844.0,72.41%,1.14,0.47,0.76,0.8,76%,True,False
+80,mimi,G2 Gozen,1.93,209.97,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Sentinel')",EMEA,game-changers,57,6,35844.0,72.41%,1.14,0.47,0.76,0.8,76%,True,False
 81,Mary,G2 Gozen,1.53,268.77,"('Raze', 'Jett', 'Chamber')","('Duelist', 'Sentinel')",EMEA,game-changers,30,6,35844.0,67.74%,1.14,0.23,0.94,1.06,73%,False,True
 82,xazyyyy,Dsyre,1.53,176.9,"('Omen', 'Breach', 'Skye')","('Controller', 'Initiator')",EMEA,vct-challengers,51,4,25656.0,53.85%,0.8,0.2,0.61,0.65,,False,False
 83,paTiTek,Team Heretics,1.57,184.95,"('KAY/O', 'Viper', 'Fade')","('Initiator', 'Controller')",INTL,vct-international,46,1,650000.0,59.57%,0.99,0.28,0.63,0.67,74%,False,False
-84,leaf,Cloud9,1.4,223.21,"('Killjoy', 'Viper', 'Jett')","('Sentinel', 'Duelist', 'Controller', 'Initiator')",NA,vct-international,112,10,234143.0,57.52%,1.05,0.3,0.78,0.85,66%,False,False
-85,Xeppaa,Cloud9,1.52,198.21,"('Skye', 'Raze', 'KAY/O')","('Initiator', 'Duelist', 'Sentinel')",NA,vct-international,69,10,234143.0,54.29%,0.88,0.26,0.68,0.71,75%,False,False
+84,leaf,Cloud9,1.4,223.21,"('Killjoy', 'Viper', 'Jett')","('Sentinel', 'Duelist')",NA,vct-international,112,10,234143.0,57.52%,1.05,0.3,0.78,0.85,66%,False,False
+85,Xeppaa,Cloud9,1.52,198.21,"('Skye', 'Raze', 'KAY/O')","('Initiator', 'Duelist')",NA,vct-international,69,10,234143.0,54.29%,0.88,0.26,0.68,0.71,75%,False,False
 86,xeta,T1,1.55,190.31,"('Viper', 'Sova', 'Harbor')","('Initiator', 'Controller')",NA,vct-international,50,3,128371.0,49.02%,0.9,0.34,0.66,0.76,77%,False,False
-87,seven,TSM,1.53,211.35,"('Gekko', 'Killjoy', 'KAY/O')","('Initiator', 'Sentinel', 'Duelist', 'Controller')",NA,vct-international,62,8,175000.0,49.21%,1.16,0.5,0.73,0.81,72%,False,False
-88,romi,KRÜ Blaze,1.9,232.42,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller', 'Initiator')",LATAM,game-changers,53,3,76618.0,83.33%,1.53,0.45,0.86,0.91,,False,False
+87,seven,TSM,1.53,211.35,"('Gekko', 'Killjoy', 'KAY/O')","('Initiator', 'Sentinel')",NA,vct-international,62,8,175000.0,49.21%,1.16,0.5,0.73,0.81,72%,False,False
+88,romi,KRÜ Blaze,1.9,232.42,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",LATAM,game-changers,53,3,76618.0,83.33%,1.53,0.45,0.86,0.91,,False,False
 89,Joojina,Team Liquid Brazil,1.68,201.65,"('Omen', 'Brimstone', 'Astra')","('Controller',)",BR,game-changers,53,12,143107.0,66.67%,1.06,0.43,0.73,0.78,,False,False
 90,roxi,G2 Gozen,1.31,185.09,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",EMEA,game-changers,46,6,35844.0,59.57%,0.94,0.48,0.65,0.72,70%,False,False
 91,Glance,G2 Gozen,1.55,186.46,"('Omen', 'Sova', 'Harbor')","('Controller', 'Initiator')",EMEA,game-changers,46,6,35844.0,59.57%,0.98,0.37,0.67,0.64,76%,False,False
 92,Vania,BBL Queens,2.11,248.08,"('Omen', 'Viper', 'Brimstone')","('Controller',)",EMEA,vct-international,47,10,47183.0,68.75%,1.26,0.47,0.9,0.96,79%,False,False
-93,Felipa,BBL Queens,1.52,188.89,"('Breach', 'KAY/O', 'Fade')","('Initiator', 'Controller', 'Sentinel', 'Duelist')",EMEA,vct-international,42,10,47183.0,48.84%,0.89,0.43,0.66,0.69,74%,False,False
-94,mmonch,FiRePOWER,1.87,225.32,"('Cypher', 'Viper', 'Harbor')","('Sentinel', 'Controller', 'Initiator')",LATAM,game-changers,44,9,10187.0,80.00%,1.61,0.68,0.82,0.83,,False,False
-95,JuW,FiRePOWER,1.58,231.77,"('Raze', 'Jett', 'Sage')","('Duelist', 'Sentinel', 'Initiator')",LATAM,game-changers,44,9,10187.0,80.00%,1.16,0.23,0.8,0.87,,False,False
-96,Ivy,FiRePOWER,1.88,220.63,"('Skye', 'Gekko', 'Raze')","('Initiator', 'Duelist', 'Sentinel')",LATAM,game-changers,44,9,10187.0,80.00%,1.05,0.23,0.79,0.88,,False,False
-97,micaela,KRÜ Blaze,1.78,219.42,"('Raze', 'Jett', 'KAY/O')","('Duelist', 'Initiator', 'Controller', 'Sentinel')",LATAM,game-changers,53,3,76618.0,83.33%,1.05,0.23,0.79,0.9,,False,False
+93,Felipa,BBL Queens,1.52,188.89,"('Breach', 'KAY/O', 'Fade')","('Initiator', 'Controller')",EMEA,vct-international,42,10,47183.0,48.84%,0.89,0.43,0.66,0.69,74%,False,False
+94,mmonch,FiRePOWER,1.87,225.32,"('Cypher', 'Viper', 'Harbor')","('Sentinel', 'Controller')",LATAM,game-changers,44,9,10187.0,80.00%,1.61,0.68,0.82,0.83,,False,False
+95,JuW,FiRePOWER,1.58,231.77,"('Raze', 'Jett', 'Sage')","('Duelist', 'Sentinel')",LATAM,game-changers,44,9,10187.0,80.00%,1.16,0.23,0.8,0.87,,False,False
+96,Ivy,FiRePOWER,1.88,220.63,"('Skye', 'Gekko', 'Raze')","('Initiator', 'Duelist')",LATAM,game-changers,44,9,10187.0,80.00%,1.05,0.23,0.79,0.88,,False,False
+97,micaela,KRÜ Blaze,1.78,219.42,"('Raze', 'Jett', 'KAY/O')","('Duelist', 'Initiator')",LATAM,game-changers,53,3,76618.0,83.33%,1.05,0.23,0.79,0.9,,False,False
 98,miyori,GIANTX,1.41,219.53,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",EMEA,game-changers,24,18,60210.0,52.00%,1.11,0.46,0.79,0.86,69%,False,False
 99,shelbyN,Stellae Gaming,1.3,190.02,"('Viper', 'Omen', 'Astra')","('Controller',)",BR,vct-challengers,25,10,8047.0,53.85%,1.08,0.16,0.68,0.67,,False,False
 100,MiniBoo,Team Heretics,1.32,220.95,"('Neon', 'Raze', 'Yoru')","('Duelist', 'Initiator')",INTL,vct-international,86,1,650000.0,60.92%,1.05,0.15,0.77,0.79,70%,False,False
 101,Filu,Dsyre,1.74,268.22,"('Raze', 'Jett', 'Yoru')","('Duelist', 'Initiator')",EMEA,vct-challengers,39,4,25656.0,92.50%,1.55,0.31,0.98,1.1,70%,False,True
 102,Kicks,Team Vitality,1.5,179.83,"('Gekko', 'KAY/O', 'Skye')","('Initiator', 'Sentinel')",INTL,vct-international,61,9,110000.0,50.00%,0.75,0.44,0.64,0.7,72%,False,False
-103,Boo,Team Heretics,1.51,173.99,"('Omen', 'Viper', 'Killjoy')","('Controller', 'Sentinel', 'Initiator')",INTL,vct-international,131,1,650000.0,56.82%,1.02,0.35,0.62,0.61,73%,True,False
-104,feqew,Dsyre,1.65,243.41,"('Jett', 'Killjoy', 'Cypher')","('Sentinel', 'Duelist', 'Initiator', 'Controller')",EMEA,vct-international,30,4,25656.0,61.29%,1.4,0.13,0.86,0.89,70%,False,False
-105,flabben,RECKONING ESPORTS,1.72,218.09,"('Omen', 'Harbor', 'Jett')","('Controller', 'Duelist', 'Sentinel')",INTL,vct-challengers,36,29,31650.0,56.76%,1.17,0.53,0.78,0.77,70%,False,True
+103,Boo,Team Heretics,1.51,173.99,"('Omen', 'Viper', 'Killjoy')","('Controller', 'Sentinel')",INTL,vct-international,131,1,650000.0,56.82%,1.02,0.35,0.62,0.61,73%,True,False
+104,feqew,Dsyre,1.65,243.41,"('Jett', 'Killjoy', 'Cypher')","('Sentinel', 'Duelist')",EMEA,vct-international,30,4,25656.0,61.29%,1.4,0.13,0.86,0.89,70%,False,False
+105,flabben,RECKONING ESPORTS,1.72,218.09,"('Omen', 'Harbor', 'Jett')","('Controller', 'Duelist')",INTL,vct-challengers,36,29,31650.0,56.76%,1.17,0.53,0.78,0.77,70%,False,True
 106,kamyk,FNATIC,1.52,200.29,"('Killjoy', 'Cypher')","('Sentinel',)",INTL,vct-international,5,2,1242285.0,66.67%,1.86,0.2,0.75,0.72,73%,False,False
 107,cauanzin,LOUD,1.55,208.03,"('Skye', 'Sova', 'Breach')","('Initiator',)",BR,vct-international,111,1,937507.0,56.25%,1.35,0.19,0.73,0.8,,False,False
 108,dgzin,HeroBase,1.4,243.51,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel')",BR,vct-international,81,5,89079.0,54.88%,1.39,0.21,0.86,0.95,71%,False,True
-109,Acetics,SHARPER ESPORT,1.29,177.49,"('Sova', 'Fade', 'Skye')","('Initiator', 'Sentinel', 'Duelist')",SEA,vct-challengers,55,33,25560.0,46.43%,0.87,0.31,0.62,0.65,69%,False,False
-110,AloNeFillz,Made In Thailand,1.67,198.48,"('Sova', 'Viper', 'Gekko')","('Initiator', 'Controller', 'Sentinel', 'Duelist')",SEA,vct-challengers,68,5,64510.0,59.42%,1.36,0.51,0.71,0.75,75%,False,False
+109,Acetics,SHARPER ESPORT,1.29,177.49,"('Sova', 'Fade', 'Skye')","('Initiator', 'Sentinel')",SEA,vct-challengers,55,33,25560.0,46.43%,0.87,0.31,0.62,0.65,69%,False,False
+110,AloNeFillz,Made In Thailand,1.67,198.48,"('Sova', 'Viper', 'Gekko')","('Initiator', 'Controller')",SEA,vct-challengers,68,5,64510.0,59.42%,1.36,0.51,0.71,0.75,75%,False,False
 111,kongared,Made In Thailand,1.46,186.7,"('Skye', 'Breach', 'Fade')","('Initiator', 'Controller')",SEA,vct-challengers,67,5,64510.0,58.82%,0.88,0.33,0.66,0.7,72%,False,False
 112,Kadoom,Made In Thailand,1.45,259.92,"('Raze', 'Jett', 'Neon')","('Duelist',)",SEA,vct-challengers,80,5,64510.0,67.90%,1.16,0.1,0.88,0.95,72%,False,False
 113,KRX,SHARPER ESPORT,1.24,213.48,"('Raze', 'Jett', 'Neon')","('Duelist', 'Initiator')",SEA,vct-challengers,19,33,25560.0,50.00%,0.85,0.11,0.74,0.88,67%,False,True
-114,Jremy,Team Secret,1.33,226.48,"('Raze', 'Jett', 'Killjoy')","('Duelist', 'Sentinel', 'Initiator')",SEA,vct-international,72,8,219316.0,50.68%,1.03,0.28,0.78,0.83,71%,False,False
-115,xavi8k,OASIS GAMING,1.72,219.75,"('Cypher', 'Killjoy', 'Breach')","('Sentinel', 'Initiator', 'Duelist', 'Controller')",SEA,vct-challengers,74,9,40113.0,64.00%,1.13,0.31,0.78,0.83,74%,True,False
-116,Nexi,OASIS GAMING,1.6,206.4,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Initiator', 'Controller', 'Duelist')",SEA,vct-international,81,9,40113.0,73.17%,1.12,0.27,0.73,0.78,74%,False,False
-117,Invy,Team Secret,1.73,202.98,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-international,71,8,219316.0,51.39%,1.13,0.34,0.73,0.78,74%,False,False
-118,Wild0reoo,OASIS GAMING,1.64,201.46,"('Viper', 'Sova', 'Skye')","('Controller', 'Initiator', 'Sentinel', 'Duelist')",SEA,vct-international,59,9,40113.0,60.00%,1.08,0.44,0.73,0.76,70%,False,False
+114,Jremy,Team Secret,1.33,226.48,"('Raze', 'Jett', 'Killjoy')","('Duelist', 'Sentinel')",SEA,vct-international,72,8,219316.0,50.68%,1.03,0.28,0.78,0.83,71%,False,False
+115,xavi8k,OASIS GAMING,1.72,219.75,"('Cypher', 'Killjoy', 'Breach')","('Sentinel', 'Initiator')",SEA,vct-challengers,74,9,40113.0,64.00%,1.13,0.31,0.78,0.83,74%,True,False
+116,Nexi,OASIS GAMING,1.6,206.4,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Initiator')",SEA,vct-international,81,9,40113.0,73.17%,1.12,0.27,0.73,0.78,74%,False,False
+117,Invy,Team Secret,1.73,202.98,"('Breach', 'KAY/O', 'Viper')","('Initiator', 'Controller')",SEA,vct-international,71,8,219316.0,51.39%,1.13,0.34,0.73,0.78,74%,False,False
+118,Wild0reoo,OASIS GAMING,1.64,201.46,"('Viper', 'Sova', 'Skye')","('Controller', 'Initiator')",SEA,vct-international,59,9,40113.0,60.00%,1.08,0.44,0.73,0.76,70%,False,False
 119,Georggyyy,OASIS GAMING,1.51,256.34,"('Jett', 'Skye', 'Reyna')","('Duelist', 'Initiator')",SEA,vct-challengers,43,9,40113.0,59.09%,1.09,0.23,0.9,1.04,70%,False,False
-120,adrnking,ALTER EGO,1.55,195.5,"('Skye', 'Breach', 'Killjoy')","('Initiator', 'Sentinel', 'Controller')",SEA,vct-challengers,90,14,33213.0,58.24%,0.91,0.31,0.7,0.7,73%,False,False
-121,blaZek1ngg,BOOM ESPORTS,1.51,208.34,"('Sova', 'Viper', 'Astra')","('Controller', 'Initiator', 'Sentinel')",SEA,vct-international,73,4,155975.0,52.70%,1.24,0.37,0.73,0.79,,False,False
-122,BerserX PRE,BOOM ESPORTS,1.71,209.95,"('Killjoy', 'Cypher', 'KAY/O')","('Sentinel', 'Initiator', 'Duelist', 'Controller')",SEA,vct-challengers,78,4,155975.0,73.42%,1.2,0.46,0.75,0.79,,False,False
+120,adrnking,ALTER EGO,1.55,195.5,"('Skye', 'Breach', 'Killjoy')","('Initiator', 'Sentinel')",SEA,vct-challengers,90,14,33213.0,58.24%,0.91,0.31,0.7,0.7,73%,False,False
+121,blaZek1ngg,BOOM ESPORTS,1.51,208.34,"('Sova', 'Viper', 'Astra')","('Controller', 'Initiator')",SEA,vct-international,73,4,155975.0,52.70%,1.24,0.37,0.73,0.79,,False,False
+122,BerserX PRE,BOOM ESPORTS,1.71,209.95,"('Killjoy', 'Cypher', 'KAY/O')","('Sentinel', 'Initiator')",SEA,vct-challengers,78,4,155975.0,73.42%,1.2,0.46,0.75,0.79,,False,False
 123,famouz,BOOM ESPORTS,1.56,253.05,"('Jett', 'Raze')","('Duelist',)",SEA,vct-challengers,42,4,155975.0,65.12%,1.24,0.29,0.88,0.98,72%,False,True
-124,Cud,BOOM ESPORTS,1.39,192.05,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",SEA,vct-challengers,57,4,155975.0,65.52%,0.99,0.51,0.7,0.81,69%,True,False
-125,YESicaN,Fancy United Esports,2.23,218.32,"('KAY/O', 'Gekko', 'Breach')","('Initiator', 'Controller', 'Duelist', 'Sentinel')",VN,vct-challengers,59,11,84531.0,78.33%,1.59,0.32,0.77,0.79,77%,True,False
-126,Hyzee,Fancy United Esports,1.7,213.93,"('Breach', 'Omen', 'KAY/O')","('Initiator', 'Controller', 'Sentinel')",VN,vct-challengers,55,11,84531.0,57.14%,1.41,0.22,0.74,0.76,74%,False,False
-127,n1zzy,Fancy United Esports,2.17,228.72,"('Fade', 'Sova', 'KAY/O')","('Initiator', 'Sentinel', 'Duelist', 'Controller')",VN,vct-challengers,39,11,84531.0,82.50%,1.46,0.31,0.82,0.76,74%,False,False
-128,f1cio,Fancy United Esports,1.99,238.75,"('Viper', 'Omen', 'Astra')","('Controller', 'Duelist', 'Initiator', 'Sentinel')",VN,vct-challengers,59,11,84531.0,78.33%,1.48,0.22,0.84,0.85,73%,False,False
+124,Cud,BOOM ESPORTS,1.39,192.05,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",SEA,vct-challengers,57,4,155975.0,65.52%,0.99,0.51,0.7,0.81,69%,True,False
+125,YESicaN,Fancy United Esports,2.23,218.32,"('KAY/O', 'Gekko', 'Breach')","('Initiator', 'Controller')",VN,vct-challengers,59,11,84531.0,78.33%,1.59,0.32,0.77,0.79,77%,True,False
+126,Hyzee,Fancy United Esports,1.7,213.93,"('Breach', 'Omen', 'KAY/O')","('Initiator', 'Controller')",VN,vct-challengers,55,11,84531.0,57.14%,1.41,0.22,0.74,0.76,74%,False,False
+127,n1zzy,Fancy United Esports,2.17,228.72,"('Fade', 'Sova', 'KAY/O')","('Initiator', 'Sentinel')",VN,vct-challengers,39,11,84531.0,82.50%,1.46,0.31,0.82,0.76,74%,False,False
+128,f1cio,Fancy United Esports,1.99,238.75,"('Viper', 'Omen', 'Astra')","('Controller', 'Duelist')",VN,vct-challengers,59,11,84531.0,78.33%,1.48,0.22,0.84,0.85,73%,False,False
 129,TRIPCIEW,Rapid Lofi,1.43,193.41,"('Omen', 'Viper', 'Killjoy')","('Controller', 'Sentinel')",VN,vct-challengers,16,24,12109.0,58.82%,0.66,0.62,0.68,0.78,64%,False,False
-130,gin,Fancy United Esports,1.6,225.56,"('Killjoy', 'Cypher', 'Chamber')","('Sentinel', 'Duelist', 'Controller', 'Initiator')",VN,vct-challengers,59,11,84531.0,78.33%,1.19,0.31,0.81,0.86,69%,False,False
-131,killua,FULL SENSE,1.36,209.99,"('Skye', 'Killjoy', 'Sova')","('Initiator', 'Sentinel', 'Controller', 'Duelist')",SEA,vct-international,71,2,97868.0,65.28%,1.13,0.38,0.76,0.82,70%,False,False
-132,Kush,ALTER EGO,1.67,231.83,"('Sova', 'Skye', 'Gekko')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-challengers,72,14,33213.0,61.64%,1.34,0.26,0.83,0.86,73%,False,False
+130,gin,Fancy United Esports,1.6,225.56,"('Killjoy', 'Cypher', 'Chamber')","('Sentinel', 'Duelist')",VN,vct-challengers,59,11,84531.0,78.33%,1.19,0.31,0.81,0.86,69%,False,False
+131,killua,FULL SENSE,1.36,209.99,"('Skye', 'Killjoy', 'Sova')","('Initiator', 'Sentinel')",SEA,vct-international,71,2,97868.0,65.28%,1.13,0.38,0.76,0.82,70%,False,False
+132,Kush,ALTER EGO,1.67,231.83,"('Sova', 'Skye', 'Gekko')","('Initiator', 'Controller')",SEA,vct-challengers,72,14,33213.0,61.64%,1.34,0.26,0.83,0.86,73%,False,False
 133,g0tten,ALTER EGO,1.63,189.41,"('Omen', 'Brimstone', 'Killjoy')","('Controller', 'Sentinel')",SEA,vct-challengers,44,14,33213.0,66.67%,1.26,0.3,0.67,0.75,,False,False
-134,Jinggg,PAPER REX,1.43,230.67,"('Raze', 'Sage', 'Phoenix')","('Duelist', 'Sentinel', 'Controller')",SEA,vct-international,115,1,1096136.0,64.66%,1.1,0.18,0.79,0.91,73%,False,False
+134,Jinggg,PAPER REX,1.43,230.67,"('Raze', 'Sage', 'Phoenix')","('Duelist', 'Sentinel')",SEA,vct-international,115,1,1096136.0,64.66%,1.1,0.18,0.79,0.91,73%,False,False
 135,RieNs,Team Heretics,1.62,205.45,"('Sova', 'Gekko', 'Breach')","('Initiator', 'Controller')",INTL,vct-international,109,1,650000.0,62.73%,1.2,0.35,0.72,0.77,73%,False,False
-136,Alfajer,FNATIC,1.56,219.54,"('Killjoy', 'Cypher', 'Iso')","('Sentinel', 'Duelist', 'Controller', 'Initiator')",INTL,vct-international,131,2,1242285.0,68.94%,1.27,0.35,0.8,0.83,74%,False,False
+136,Alfajer,FNATIC,1.56,219.54,"('Killjoy', 'Cypher', 'Iso')","('Sentinel', 'Duelist')",INTL,vct-international,131,2,1242285.0,68.94%,1.27,0.35,0.8,0.83,74%,False,False
 137,eeiu,M80,1.78,199.04,"('Sova', 'Fade', 'Breach')","('Initiator', 'Controller')",NA,vct-international,84,1,128350.0,61.18%,1.42,0.5,0.73,0.73,76%,False,False
-138,Sayaplayer,T1,1.32,218.15,"('Jett', 'Raze', 'Chamber')","('Duelist', 'Sentinel', 'Initiator')",NA,vct-international,99,3,128371.0,46.00%,1.2,0.3,0.79,0.84,71%,False,True
-139,bdog,Shopify Rebellion,1.39,205.29,"('Jett', 'Breach', 'Gekko')","('Duelist', 'Initiator', 'Controller', 'Sentinel')",NA,vct-challengers,61,1,281197.0,56.45%,0.95,0.38,0.72,0.79,71%,False,False
-140,mada,Shopify Rebellion,1.55,245.74,"('Raze', 'Jett', 'KAY/O')","('Duelist', 'Initiator', 'Sentinel')",NA,vct-challengers,58,1,281197.0,55.93%,1.47,0.14,0.85,0.89,72%,False,False
+138,Sayaplayer,T1,1.32,218.15,"('Jett', 'Raze', 'Chamber')","('Duelist', 'Sentinel')",NA,vct-international,99,3,128371.0,46.00%,1.2,0.3,0.79,0.84,71%,False,True
+139,bdog,Shopify Rebellion,1.39,205.29,"('Jett', 'Breach', 'Gekko')","('Duelist', 'Initiator')",NA,vct-challengers,61,1,281197.0,56.45%,0.95,0.38,0.72,0.79,71%,False,False
+140,mada,Shopify Rebellion,1.55,245.74,"('Raze', 'Jett', 'KAY/O')","('Duelist', 'Initiator')",NA,vct-challengers,58,1,281197.0,55.93%,1.47,0.14,0.85,0.89,72%,False,False
 141,Zander,M80,1.86,223.82,"('Omen', 'Viper', 'Astra')","('Controller', 'Initiator')",NA,vct-challengers,65,1,128350.0,71.21%,1.26,0.31,0.78,0.81,76%,False,False
-142,Cryo,100 Thieves,1.49,226.73,"('Jett', 'Brimstone', 'Omen')","('Duelist', 'Controller', 'Sentinel', 'Initiator')",NA,vct-international,81,4,214000.0,47.56%,1.25,0.25,0.82,0.88,,False,True
-143,NicoMachine,All Knights,1.55,200.34,"('KAY/O', 'Raze', 'Fade')","('Initiator', 'Duelist', 'Controller')",LAS,vct-challengers,84,2,45286.0,63.53%,1.0,0.29,0.68,0.71,,False,False
+142,Cryo,100 Thieves,1.49,226.73,"('Jett', 'Brimstone', 'Omen')","('Duelist', 'Controller')",NA,vct-international,81,4,214000.0,47.56%,1.25,0.25,0.82,0.88,,False,True
+143,NicoMachine,All Knights,1.55,200.34,"('KAY/O', 'Raze', 'Fade')","('Initiator', 'Duelist')",LAS,vct-challengers,84,2,45286.0,63.53%,1.0,0.29,0.68,0.71,,False,False
 144,Kiuuuu,Oblivion Force,1.75,220.58,"('Omen', 'Viper', 'Astra')","('Controller', 'Sentinel')",SEA,vct-challengers,79,6,31500.0,70.00%,1.27,0.33,0.8,0.85,71%,False,False
 145,CHIMEI,Oblivion Force,1.58,182.89,"('Skye', 'KAY/O', 'Killjoy')","('Initiator', 'Sentinel')",SEA,vct-challengers,80,6,31500.0,70.37%,0.76,0.3,0.64,0.7,69%,False,False
-146,Hypathor,Oblivion Force,1.55,184.94,"('Sova', 'Breach', 'Viper')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-challengers,56,6,31500.0,66.67%,0.81,0.32,0.63,0.63,68%,False,False
-147,TENNN,FENNEL,1.12,184.43,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller', 'Duelist', 'Initiator')",JP,vct-international,57,2,42268.0,46.55%,0.81,0.35,0.65,0.67,70%,False,False
-148,Xdll,FENNEL,1.47,214.68,"('Sova', 'Fade', 'Sage')","('Initiator', 'Sentinel', 'Duelist', 'Controller')",JP,vct-international,98,2,42268.0,57.58%,1.0,0.29,0.74,0.82,71%,False,False
-149,yetujey,FUT Esports,1.45,201.57,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller', 'Duelist')",INTL,vct-international,61,10,390990.0,48.39%,1.06,0.41,0.72,0.79,71%,False,False
-150,koalanoob,M80,1.61,237.02,"('Jett', 'Omen', 'Yoru')","('Duelist', 'Controller', 'Sentinel')",NA,vct-challengers,65,1,128350.0,71.21%,1.4,0.18,0.85,0.87,72%,False,True
-151,NiSMO,M80,1.81,208.01,"('KAY/O', 'Breach', 'Deadlock')","('Initiator', 'Sentinel', 'Duelist')",NA,vct-challengers,65,1,128350.0,71.21%,1.22,0.35,0.73,0.74,75%,False,False
-152,johnqt,M80,1.59,188.31,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",NA,vct-international,107,1,128350.0,63.89%,1.19,0.48,0.67,0.69,76%,True,False
-153,kalita,KRÜ Blaze,1.54,178.29,"('Skye', 'Sova', 'Viper')","('Initiator', 'Controller', 'Sentinel')",LATAM,game-changers,50,3,76618.0,66.67%,1.04,0.26,0.63,0.59,,False,False
+146,Hypathor,Oblivion Force,1.55,184.94,"('Sova', 'Breach', 'Viper')","('Initiator', 'Controller')",SEA,vct-challengers,56,6,31500.0,66.67%,0.81,0.32,0.63,0.63,68%,False,False
+147,TENNN,FENNEL,1.12,184.43,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",JP,vct-international,57,2,42268.0,46.55%,0.81,0.35,0.65,0.67,70%,False,False
+148,Xdll,FENNEL,1.47,214.68,"('Sova', 'Fade', 'Sage')","('Initiator', 'Sentinel')",JP,vct-international,98,2,42268.0,57.58%,1.0,0.29,0.74,0.82,71%,False,False
+149,yetujey,FUT Esports,1.45,201.57,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller')",INTL,vct-international,61,10,390990.0,48.39%,1.06,0.41,0.72,0.79,71%,False,False
+150,koalanoob,M80,1.61,237.02,"('Jett', 'Omen', 'Yoru')","('Duelist', 'Controller')",NA,vct-challengers,65,1,128350.0,71.21%,1.4,0.18,0.85,0.87,72%,False,True
+151,NiSMO,M80,1.81,208.01,"('KAY/O', 'Breach', 'Deadlock')","('Initiator', 'Sentinel')",NA,vct-challengers,65,1,128350.0,71.21%,1.22,0.35,0.73,0.74,75%,False,False
+152,johnqt,M80,1.59,188.31,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller')",NA,vct-international,107,1,128350.0,63.89%,1.19,0.48,0.67,0.69,76%,True,False
+153,kalita,KRÜ Blaze,1.54,178.29,"('Skye', 'Sova', 'Viper')","('Initiator', 'Controller')",LATAM,game-changers,50,3,76618.0,66.67%,1.04,0.26,0.63,0.59,,False,False
 154,ICamii,FiRePOWER,1.7,218.63,"('Astra', 'Omen', 'Viper')","('Controller', 'Sentinel')",LATAM,game-changers,45,9,10187.0,63.04%,1.28,0.4,0.77,0.81,,False,False
-155,Deathmaker,Velocity Gaming,1.33,232.06,"('Jett', 'Raze', 'Gekko')","('Duelist', 'Initiator', 'Sentinel')",INTL,vct-challengers,73,20,29600.0,55.41%,1.01,0.26,0.82,0.91,70%,False,False
-156,Hellff,Velocity Gaming,1.4,189.9,"('Sova', 'Astra', 'Gekko')","('Initiator', 'Controller', 'Sentinel')",INTL,vct-challengers,79,20,29600.0,53.75%,0.94,0.2,0.66,0.67,71%,False,False
-157,Foxy9,DRX,1.39,193.06,"('Jett', 'Cypher', 'KAY/O')","('Duelist', 'Initiator', 'Sentinel', 'Controller')",KR,vct-international,88,2,812171.0,62.92%,0.95,0.26,0.69,0.77,70%,False,False
+155,Deathmaker,Velocity Gaming,1.33,232.06,"('Jett', 'Raze', 'Gekko')","('Duelist', 'Initiator')",INTL,vct-challengers,73,20,29600.0,55.41%,1.01,0.26,0.82,0.91,70%,False,False
+156,Hellff,Velocity Gaming,1.4,189.9,"('Sova', 'Astra', 'Gekko')","('Initiator', 'Controller')",INTL,vct-challengers,79,20,29600.0,53.75%,0.94,0.2,0.66,0.67,71%,False,False
+157,Foxy9,DRX,1.39,193.06,"('Jett', 'Cypher', 'KAY/O')","('Duelist', 'Initiator')",KR,vct-international,88,2,812171.0,62.92%,0.95,0.26,0.69,0.77,70%,False,False
 158,Evilkyk,Galorys,1.32,160.32,"('Sova', 'Skye', 'Fade')","('Initiator',)",BR,vct-challengers,50,3,31491.0,60.78%,0.74,0.42,0.57,0.59,,False,False
 159,olzerr,Furious Gaming,1.55,166.4,"('Omen', 'Brimstone', 'Astra')","('Controller',)",LAS,vct-international,12,7,8743.0,46.15%,0.43,0.42,0.58,0.63,,False,False
 160,Toki,CASE HYDRA,1.28,201.2,"('Raze', 'Omen', 'Viper')","('Duelist', 'Controller')",EMEA,game-changers,32,27,6558.0,51.52%,0.94,0.19,0.66,0.7,71%,False,False
 161,waddle,Dsyre,1.97,200.98,"('Sova', 'Skye', 'Fade')","('Initiator', 'Sentinel')",EMEA,vct-international,39,4,25656.0,92.50%,1.31,0.33,0.74,0.78,73%,False,False
-162,Kanpeki,TSM,1.55,178.86,"('Skye', 'Viper', 'Breach')","('Initiator', 'Controller', 'Duelist')",NA,vct-international,30,8,175000.0,45.16%,0.67,0.23,0.62,0.64,72%,False,False
+162,Kanpeki,TSM,1.55,178.86,"('Skye', 'Viper', 'Breach')","('Initiator', 'Controller')",NA,vct-international,30,8,175000.0,45.16%,0.67,0.23,0.62,0.64,72%,False,False
 163,krysme,LOUD,1.12,184.49,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",BR,game-changers,38,1,937507.0,48.72%,0.89,0.42,0.65,0.76,,False,False
 164,jellykitt,LOUD,1.74,279.02,"('Raze', 'Jett', 'Breach')","('Duelist', 'Initiator')",BR,game-changers,20,1,937507.0,47.62%,1.9,0.25,0.98,1.05,,False,False
 165,lissA,LOUD,1.51,203.65,"('Viper', 'Omen', 'Astra')","('Controller', 'Sentinel')",BR,game-changers,33,1,937507.0,47.06%,0.86,0.39,0.72,0.76,,False,False
-166,Haodong,EDward Gaming,1.36,170.42,"('Omen', 'Brimstone', 'Astra')","('Controller', 'Sentinel', 'Initiator')",CN,vct-international,45,1,1260689.0,45.65%,0.78,0.29,0.6,0.66,,False,False
+166,Haodong,EDward Gaming,1.36,170.42,"('Omen', 'Brimstone', 'Astra')","('Controller', 'Sentinel')",CN,vct-international,45,1,1260689.0,45.65%,0.78,0.29,0.6,0.66,,False,False
 167,CHICHOO,EDward Gaming,1.5,202.09,"('Viper', 'Cypher', 'Killjoy')","('Sentinel', 'Controller')",CN,vct-international,66,1,1260689.0,52.24%,1.18,0.39,0.71,0.73,,False,False
-168,ZmjjKK,EDward Gaming,1.41,249.08,"('Jett', 'Raze', 'Neon')","('Duelist', 'Initiator', 'Sentinel')",CN,vct-international,66,1,1260689.0,52.24%,1.22,0.2,0.87,1.05,70%,False,True
+168,ZmjjKK,EDward Gaming,1.41,249.08,"('Jett', 'Raze', 'Neon')","('Duelist', 'Initiator')",CN,vct-international,66,1,1260689.0,52.24%,1.22,0.2,0.87,1.05,70%,False,True
 169,nobody ,EDward Gaming,1.35,185.89,"('Sova', 'Skye', 'Fade')","('Initiator',)",CN,vct-international,66,1,1260689.0,52.24%,0.66,0.41,0.65,0.7,,True,False
-170,Smoggy,EDward Gaming,1.52,204.45,"('Breach', 'Omen', 'KAY/O')","('Controller', 'Initiator', 'Duelist', 'Sentinel')",CN,vct-international,66,1,1260689.0,52.24%,1.15,0.41,0.74,0.79,,False,False
-171,PxS,E-Xolos LAZER,1.26,219.22,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel', 'Controller')",LATAM,vct-challengers,54,2,27375.0,45.45%,1.04,0.37,0.75,0.81,,False,False
+170,Smoggy,EDward Gaming,1.52,204.45,"('Breach', 'Omen', 'KAY/O')","('Controller', 'Initiator')",CN,vct-international,66,1,1260689.0,52.24%,1.15,0.41,0.74,0.79,,False,False
+171,PxS,E-Xolos LAZER,1.26,219.22,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel')",LATAM,vct-challengers,54,2,27375.0,45.45%,1.04,0.37,0.75,0.81,,False,False
 172,rood,Galorys,1.3,173.38,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",BR,vct-challengers,56,3,31491.0,54.39%,0.86,0.48,0.6,0.59,,False,False
 173,Lizhi,Chao Hui EDward Gaming,1.83,282.63,"('Jett', 'Raze')","('Duelist',)",INTL,game-changers,11,22,20484.0,75.00%,1.75,0.09,1.0,1.26,,False,False
 174,WawaLee,Chao Hui EDward Gaming,1.15,155.61,"('Sova', 'Viper', 'Breach')","('Initiator', 'Controller')",INTL,game-changers,15,22,20484.0,56.25%,0.85,0.07,0.53,0.55,,True,False
 175,XiMiLu,Chao Hui EDward Gaming,1.55,187.05,"('KAY/O', 'Breach', 'Skye')","('Initiator', 'Duelist')",INTL,game-changers,15,22,20484.0,56.25%,0.77,0.4,0.63,0.63,,False,False
 176,YusinGC,Chao Hui EDward Gaming,2.11,217.4,"('Omen',)","('Controller',)",INTL,game-changers,15,22,20484.0,56.25%,2.0,0.73,0.8,0.78,,False,False
-177,caydeN,Dsyre,1.9,191.16,"('Omen', 'Sova', 'Brimstone')","('Controller', 'Initiator', 'Sentinel')",EMEA,vct-challengers,69,4,25656.0,80.00%,1.1,0.45,0.68,0.74,74%,False,False
+177,caydeN,Dsyre,1.9,191.16,"('Omen', 'Sova', 'Brimstone')","('Controller', 'Initiator')",EMEA,vct-challengers,69,4,25656.0,80.00%,1.1,0.45,0.68,0.74,74%,False,False
 178,Alkyia,BBL Queens,1.24,219.67,"('Jett', 'Raze', 'Skye')","('Duelist', 'Initiator')",EMEA,vct-international,42,10,47183.0,48.84%,1.12,0.17,0.76,0.87,69%,False,True
 179,Wens,BBL Queens,1.2,185.48,"('Killjoy', 'Cypher', 'Viper')","('Sentinel', 'Controller')",EMEA,vct-international,26,10,47183.0,48.15%,0.98,0.27,0.66,0.67,71%,False,False
-180,runneR,Team Vitality,1.29,203.03,"('Cypher', 'Raze', 'Killjoy')","('Sentinel', 'Duelist', 'Controller')",INTL,vct-international,61,9,110000.0,50.00%,1.04,0.28,0.69,0.72,72%,False,False
+180,runneR,Team Vitality,1.29,203.03,"('Cypher', 'Raze', 'Killjoy')","('Sentinel', 'Duelist')",INTL,vct-international,61,9,110000.0,50.00%,1.04,0.28,0.69,0.72,72%,False,False
 181,benjyfishy,Team Heretics,1.41,198.46,"('Cypher', 'Killjoy', 'Viper')","('Sentinel', 'Controller')",INTL,vct-international,109,1,650000.0,62.73%,1.0,0.41,0.74,0.77,70%,False,False
-182,hiro ,FNATIC,1.6,191.17,"('Fade', 'Cypher', 'Gekko')","('Initiator', 'Sentinel', 'Controller')",INTL,vct-international,35,2,1242285.0,66.67%,0.84,0.37,0.7,0.76,72%,False,False
-183,Wo0t,Team Heretics,1.54,215.66,"('Raze', 'Gekko', 'KAY/O')","('Initiator', 'Duelist', 'Controller')",INTL,vct-international,86,1,650000.0,65.52%,1.25,0.16,0.75,0.78,74%,False,False
-184,coconut,Oblivion Force,1.64,224.85,"('Killjoy', 'Sova', 'Cypher')","('Sentinel', 'Initiator', 'Controller', 'Duelist')",SEA,vct-challengers,80,6,31500.0,70.37%,1.04,0.39,0.81,0.85,70%,False,False
-185,GGHuiii,Oblivion Force,1.43,236.0,"('Jett', 'Raze', 'Chamber')","('Duelist', 'Sentinel', 'Controller')",SEA,vct-challengers,60,6,31500.0,65.57%,1.2,0.28,0.85,0.92,68%,False,False
+182,hiro ,FNATIC,1.6,191.17,"('Fade', 'Cypher', 'Gekko')","('Initiator', 'Sentinel')",INTL,vct-international,35,2,1242285.0,66.67%,0.84,0.37,0.7,0.76,72%,False,False
+183,Wo0t,Team Heretics,1.54,215.66,"('Raze', 'Gekko', 'KAY/O')","('Initiator', 'Duelist')",INTL,vct-international,86,1,650000.0,65.52%,1.25,0.16,0.75,0.78,74%,False,False
+184,coconut,Oblivion Force,1.64,224.85,"('Killjoy', 'Sova', 'Cypher')","('Sentinel', 'Initiator')",SEA,vct-challengers,80,6,31500.0,70.37%,1.04,0.39,0.81,0.85,70%,False,False
+185,GGHuiii,Oblivion Force,1.43,236.0,"('Jett', 'Raze', 'Chamber')","('Duelist', 'Sentinel')",SEA,vct-challengers,60,6,31500.0,65.57%,1.2,0.28,0.85,0.92,68%,False,False
 186,SunfaN,One Team Esports,1.27,130.67,"('Breach', 'Sova', 'Viper')","('Initiator', 'Controller')",SEA,vct-challengers,7,10,34500.0,62.50%,0.91,0.0,0.4,0.4,,False,False
-187,Ra1ny,One Team Esports,1.82,187.45,"('Omen', 'Killjoy', 'Astra')","('Controller', 'Initiator', 'Sentinel')",SEA,vct-challengers,78,10,34500.0,73.42%,1.17,0.22,0.68,0.66,,False,False
-188,ChiaWei,One Team Esports,2.05,229.69,"('Sova', 'Gekko', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",SEA,vct-challengers,56,10,34500.0,80.70%,1.51,0.43,0.85,0.89,75%,False,False
+187,Ra1ny,One Team Esports,1.82,187.45,"('Omen', 'Killjoy', 'Astra')","('Controller', 'Initiator')",SEA,vct-challengers,78,10,34500.0,73.42%,1.17,0.22,0.68,0.66,,False,False
+188,ChiaWei,One Team Esports,2.05,229.69,"('Sova', 'Gekko', 'Skye')","('Initiator', 'Duelist')",SEA,vct-challengers,56,10,34500.0,80.70%,1.51,0.43,0.85,0.89,75%,False,False
 189,XyuS,One Team Esports,1.65,250.94,"('Jett', 'Raze', 'KAY/O')","('Duelist', 'Initiator')",SEA,vct-challengers,78,10,34500.0,73.42%,1.57,0.12,0.91,1.01,71%,False,True
 190,XiaoShi77,One Team Esports,2.05,220.81,"('Sova',)","('Initiator',)",SEA,vct-challengers,4,10,34500.0,60.00%,2.0,0.25,0.74,0.99,,False,False
-191,Apinya ,FULL SENSE,1.62,208.86,"('Breach', 'Skye', 'KAY/O')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-international,25,2,97868.0,57.69%,0.78,0.24,0.73,0.71,72%,False,False
-192,theelovefam,FULL SENSE,1.73,209.49,"('Killjoy', 'Brimstone', 'Omen')","('Sentinel', 'Controller', 'Initiator')",SEA,vct-international,19,2,97868.0,60.00%,1.36,0.63,0.76,0.85,,False,False
+191,Apinya ,FULL SENSE,1.62,208.86,"('Breach', 'Skye', 'KAY/O')","('Initiator', 'Controller')",SEA,vct-international,25,2,97868.0,57.69%,0.78,0.24,0.73,0.71,72%,False,False
+192,theelovefam,FULL SENSE,1.73,209.49,"('Killjoy', 'Brimstone', 'Omen')","('Sentinel', 'Controller')",SEA,vct-international,19,2,97868.0,60.00%,1.36,0.63,0.76,0.85,,False,False
 193,Chainyyy,SHARPER ESPORT,1.19,173.08,"('Killjoy', 'Viper')","('Sentinel', 'Controller')",SEA,vct-challengers,21,33,25560.0,45.45%,0.59,0.38,0.61,0.64,68%,False,False
 194,Changeeee,SHARPER ESPORT,1.25,218.55,"('Raze', 'Jett')","('Duelist',)",SEA,vct-challengers,21,33,25560.0,45.45%,0.95,0.29,0.74,0.86,,False,True
-195,Flukyy3,FULL SENSE,1.55,209.0,"('Omen', 'Astra', 'Jett')","('Controller', 'Duelist', 'Initiator', 'Sentinel')",SEA,vct-international,40,2,97868.0,51.22%,1.2,0.38,0.72,0.8,,False,False
-196,Tag,Dsyre,1.7,199.77,"('Cypher', 'Viper', 'Breach')","('Sentinel', 'Initiator', 'Controller', 'Duelist')",EMEA,vct-challengers,63,4,25656.0,82.81%,1.04,0.25,0.72,0.78,70%,False,False
+195,Flukyy3,FULL SENSE,1.55,209.0,"('Omen', 'Astra', 'Jett')","('Controller', 'Duelist')",SEA,vct-international,40,2,97868.0,51.22%,1.2,0.38,0.72,0.8,,False,False
+196,Tag,Dsyre,1.7,199.77,"('Cypher', 'Viper', 'Breach')","('Sentinel', 'Initiator')",EMEA,vct-challengers,63,4,25656.0,82.81%,1.04,0.25,0.72,0.78,70%,False,False
 197,Leo ,FNATIC,2.05,205.95,"('Sova', 'Fade', 'Skye')","('Initiator', 'Sentinel')",INTL,vct-international,101,2,1242285.0,69.61%,1.56,0.39,0.74,0.73,79%,False,False
-198,SyouTa ,FENNEL,1.61,238.21,"('Astra', 'Raze', 'Jett')","('Duelist', 'Controller', 'Sentinel')",JP,vct-challengers,98,2,42268.0,57.58%,1.14,0.33,0.86,0.99,72%,False,True
-199,hiroronn,FENNEL,1.36,190.85,"('Killjoy', 'Cypher', 'Sova')","('Sentinel', 'Initiator', 'Controller')",JP,vct-international,81,2,42268.0,47.56%,0.83,0.38,0.69,0.74,70%,False,False
-200,BRIAN,REJECT,1.4,203.17,"('Gekko', 'Omen', 'Yoru')","('Duelist', 'Controller', 'Initiator', 'Sentinel')",JP,vct-challengers,40,7,10429.0,53.66%,0.91,0.32,0.71,0.81,70%,True,False
+198,SyouTa ,FENNEL,1.61,238.21,"('Astra', 'Raze', 'Jett')","('Duelist', 'Controller')",JP,vct-challengers,98,2,42268.0,57.58%,1.14,0.33,0.86,0.99,72%,False,True
+199,hiroronn,FENNEL,1.36,190.85,"('Killjoy', 'Cypher', 'Sova')","('Sentinel', 'Initiator')",JP,vct-international,81,2,42268.0,47.56%,0.83,0.38,0.69,0.74,70%,False,False
+200,BRIAN,REJECT,1.4,203.17,"('Gekko', 'Omen', 'Yoru')","('Duelist', 'Controller')",JP,vct-challengers,40,7,10429.0,53.66%,0.91,0.32,0.71,0.81,70%,True,False
 201,Drax,OASIS GAMING,1.83,177.03,"('Omen', 'Brimstone', 'Viper')","('Controller', 'Initiator')",SEA,vct-challengers,22,9,40113.0,60.87%,1.12,0.18,0.62,0.61,,False,False
-202,ZYND,ZOL Esports,1.4,228.08,"('Jett', 'Cypher', 'Killjoy')","('Duelist', 'Sentinel', 'Controller', 'Initiator')",SEA,vct-challengers,89,13,16747.0,53.33%,1.37,0.22,0.81,0.85,68%,False,False
-203,PatMen,ZOL Esports,1.52,239.85,"('Raze', 'Skye', 'KAY/O')","('Initiator', 'Duelist', 'Controller', 'Sentinel')",SEA,vct-challengers,86,13,16747.0,54.02%,1.16,0.19,0.83,0.86,72%,False,False
-204,Marky3,OASIS GAMING,1.85,230.18,"('Jett', 'Sova', 'Omen')","('Initiator', 'Controller', 'Duelist', 'Sentinel')",SEA,vct-challengers,67,9,40113.0,60.29%,1.23,0.19,0.82,0.83,,False,False
+202,ZYND,ZOL Esports,1.4,228.08,"('Jett', 'Cypher', 'Killjoy')","('Duelist', 'Sentinel')",SEA,vct-challengers,89,13,16747.0,53.33%,1.37,0.22,0.81,0.85,68%,False,False
+203,PatMen,ZOL Esports,1.52,239.85,"('Raze', 'Skye', 'KAY/O')","('Initiator', 'Duelist')",SEA,vct-challengers,86,13,16747.0,54.02%,1.16,0.19,0.83,0.86,72%,False,False
+204,Marky3,OASIS GAMING,1.85,230.18,"('Jett', 'Sova', 'Omen')","('Initiator', 'Controller')",SEA,vct-challengers,67,9,40113.0,60.29%,1.23,0.19,0.82,0.83,,False,False
 205,WUKONG,Fancy United Esports,1.9,240.63,"('KAY/O', 'Raze', 'Skye')","('Initiator', 'Duelist')",VN,vct-challengers,18,11,84531.0,84.21%,1.49,0.11,0.85,0.76,,False,False
-206,BanhMj,Rapid Lofi,1.36,203.66,"('Killjoy', 'Sova', 'Cypher')","('Sentinel', 'Initiator', 'Duelist', 'Controller')",VN,vct-challengers,48,24,12109.0,46.94%,0.72,0.17,0.72,0.75,67%,False,False
+206,BanhMj,Rapid Lofi,1.36,203.66,"('Killjoy', 'Sova', 'Cypher')","('Sentinel', 'Initiator')",VN,vct-challengers,48,24,12109.0,46.94%,0.72,0.17,0.72,0.75,67%,False,False
 207,Oxy,G2 Esports,1.31,249.02,"('Raze', 'Jett', 'Reyna')","('Duelist', 'Sentinel')",NA,vct-international,65,2,407250.0,37.88%,1.12,0.2,0.86,0.97,70%,False,True
-208,v1c,Shopify Rebellion,1.76,218.77,"('Omen', 'Brimstone', 'Viper')","('Controller', 'Sentinel', 'Initiator')",NA,vct-challengers,58,1,281197.0,55.93%,1.49,0.24,0.76,0.85,75%,False,False
+208,v1c,Shopify Rebellion,1.76,218.77,"('Omen', 'Brimstone', 'Viper')","('Controller', 'Sentinel')",NA,vct-challengers,58,1,281197.0,55.93%,1.49,0.24,0.76,0.85,75%,False,False
 209,okeanos,Blinn,1.37,246.54,"('Raze', 'Neon', 'Jett')","('Duelist',)",NA,vct-challengers,24,4,19325.0,52.00%,1.54,0.08,0.87,0.91,68%,False,True
-210,foxz,FULL SENSE,1.54,201.17,"('Sova', 'Skye', 'Gekko')","('Initiator', 'Duelist', 'Sentinel')",SEA,vct-international,75,2,97868.0,65.79%,1.07,0.33,0.72,0.72,72%,False,False
-211,sushiboys,FULL SENSE,1.55,198.7,"('Killjoy', 'Cypher', 'Breach')","('Sentinel', 'Controller', 'Initiator', 'Duelist')",SEA,vct-international,65,2,97868.0,66.67%,0.97,0.32,0.7,0.76,72%,False,False
-212,carpe,T1,1.4,174.09,"('Skye', 'Gekko', 'Sova')","('Initiator', 'Controller', 'Sentinel')",NA,vct-international,93,3,128371.0,46.81%,0.85,0.2,0.61,0.65,,False,False
-213,ban ,T1,1.31,182.62,"('Omen', 'Jett', 'Harbor')","('Controller', 'Duelist', 'Sentinel')",NA,vct-international,45,3,128371.0,47.83%,1.05,0.33,0.65,0.77,71%,False,False
-214,tinchoff,All Knights,1.38,180.37,"('Killjoy', 'Cypher', 'Chamber')","('Sentinel', 'Controller', 'Initiator')",LAS,vct-challengers,84,2,45286.0,63.53%,0.98,0.51,0.66,0.74,,False,False
-215,ChloeZerA,FiRePOWER,1.5,190.6,"('Killjoy', 'Breach', 'KAY/O')","('Initiator', 'Sentinel', 'Controller', 'Duelist')",LATAM,game-changers,33,9,10187.0,61.76%,1.1,0.3,0.66,0.68,,False,False
-216,Puleule,Furious Gaming,1.25,166.15,"('Killjoy', 'Breach', 'Viper')","('Sentinel', 'Initiator', 'Controller')",LAS,vct-challengers,18,7,8743.0,47.37%,0.87,0.28,0.57,0.61,,False,False
-217,mta,Furious Gaming,1.26,197.58,"('Sova', 'Jett', 'KAY/O')","('Initiator', 'Duelist', 'Controller', 'Sentinel')",LAS,vct-international,51,7,8743.0,46.15%,1.03,0.2,0.69,0.8,,False,False
+210,foxz,FULL SENSE,1.54,201.17,"('Sova', 'Skye', 'Gekko')","('Initiator', 'Duelist')",SEA,vct-international,75,2,97868.0,65.79%,1.07,0.33,0.72,0.72,72%,False,False
+211,sushiboys,FULL SENSE,1.55,198.7,"('Killjoy', 'Cypher', 'Breach')","('Sentinel', 'Controller')",SEA,vct-international,65,2,97868.0,66.67%,0.97,0.32,0.7,0.76,72%,False,False
+212,carpe,T1,1.4,174.09,"('Skye', 'Gekko', 'Sova')","('Initiator', 'Controller')",NA,vct-international,93,3,128371.0,46.81%,0.85,0.2,0.61,0.65,,False,False
+213,ban ,T1,1.31,182.62,"('Omen', 'Jett', 'Harbor')","('Controller', 'Duelist')",NA,vct-international,45,3,128371.0,47.83%,1.05,0.33,0.65,0.77,71%,False,False
+214,tinchoff,All Knights,1.38,180.37,"('Killjoy', 'Cypher', 'Chamber')","('Sentinel', 'Controller')",LAS,vct-challengers,84,2,45286.0,63.53%,0.98,0.51,0.66,0.74,,False,False
+215,ChloeZerA,FiRePOWER,1.5,190.6,"('Killjoy', 'Breach', 'KAY/O')","('Initiator', 'Sentinel')",LATAM,game-changers,33,9,10187.0,61.76%,1.1,0.3,0.66,0.68,,False,False
+216,Puleule,Furious Gaming,1.25,166.15,"('Killjoy', 'Breach', 'Viper')","('Sentinel', 'Initiator')",LAS,vct-challengers,18,7,8743.0,47.37%,0.87,0.28,0.57,0.61,,False,False
+217,mta,Furious Gaming,1.26,197.58,"('Sova', 'Jett', 'KAY/O')","('Initiator', 'Duelist')",LAS,vct-international,51,7,8743.0,46.15%,1.03,0.2,0.69,0.8,,False,False
 218,Cauazin,LOUD,1.43,199.91,"('Skye', 'Breach', 'Sova')","('Initiator',)",BR,vct-international,14,1,937507.0,53.33%,0.94,0.29,0.69,0.74,,False,False
 219,Kaizen1,TRUE RIPPERS,1.08,199.41,"('Jett', 'Raze')","('Duelist',)",INTL,vct-challengers,29,12,48717.0,46.67%,0.76,0.14,0.69,0.85,,False,True
-220,Whimp,TRUE RIPPERS,1.11,186.05,"('Killjoy', 'Viper', 'Astra')","('Sentinel', 'Controller', 'Initiator')",INTL,vct-challengers,29,12,48717.0,46.67%,0.83,0.66,0.64,0.73,68%,False,False
-221,Techno,TRUE RIPPERS,1.25,178.56,"('Skye', 'Sova', 'Fade')","('Initiator', 'Controller', 'Duelist', 'Sentinel')",INTL,vct-challengers,29,12,48717.0,46.67%,0.88,0.38,0.63,0.65,71%,False,False
-222,Harshhh,RECKONING ESPORTS,1.54,189.16,"('Skye', 'Omen', 'Sova')","('Initiator', 'Controller', 'Sentinel')",INTL,vct-challengers,54,29,31650.0,54.55%,0.92,0.22,0.66,0.7,72%,False,False
-223,Deadly10,RECKONING ESPORTS,1.3,217.57,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel', 'Initiator', 'Controller')",INTL,vct-challengers,73,29,31650.0,50.00%,1.2,0.12,0.76,0.87,65%,False,True
-224,venka2cold,MLT ESPORTS,1.19,227.47,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel', 'Initiator')",INTL,vct-challengers,60,17,143498.0,54.10%,1.14,0.05,0.8,0.9,,False,True
-225,Runi,Cloud9,1.46,182.48,"('Viper', 'Sova', 'Breach')","('Initiator', 'Controller', 'Sentinel')",NA,vct-international,58,10,234143.0,57.63%,1.14,0.47,0.64,0.6,74%,False,False
-226,YanLi,One Team Esports,1.81,198.9,"('KAY/O', 'Viper', 'Breach')","('Initiator', 'Controller', 'Sentinel')",SEA,vct-challengers,67,10,34500.0,73.53%,1.07,0.24,0.69,0.69,75%,False,False
+220,Whimp,TRUE RIPPERS,1.11,186.05,"('Killjoy', 'Viper', 'Astra')","('Sentinel', 'Controller')",INTL,vct-challengers,29,12,48717.0,46.67%,0.83,0.66,0.64,0.73,68%,False,False
+221,Techno,TRUE RIPPERS,1.25,178.56,"('Skye', 'Sova', 'Fade')","('Initiator', 'Controller')",INTL,vct-challengers,29,12,48717.0,46.67%,0.88,0.38,0.63,0.65,71%,False,False
+222,Harshhh,RECKONING ESPORTS,1.54,189.16,"('Skye', 'Omen', 'Sova')","('Initiator', 'Controller')",INTL,vct-challengers,54,29,31650.0,54.55%,0.92,0.22,0.66,0.7,72%,False,False
+223,Deadly10,RECKONING ESPORTS,1.3,217.57,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel')",INTL,vct-challengers,73,29,31650.0,50.00%,1.2,0.12,0.76,0.87,65%,False,True
+224,venka2cold,MLT ESPORTS,1.19,227.47,"('Jett', 'Raze', 'Killjoy')","('Duelist', 'Sentinel')",INTL,vct-challengers,60,17,143498.0,54.10%,1.14,0.05,0.8,0.9,,False,True
+225,Runi,Cloud9,1.46,182.48,"('Viper', 'Sova', 'Breach')","('Initiator', 'Controller')",NA,vct-international,58,10,234143.0,57.63%,1.14,0.47,0.64,0.6,74%,False,False
+226,YanLi,One Team Esports,1.81,198.9,"('KAY/O', 'Viper', 'Breach')","('Initiator', 'Controller')",SEA,vct-challengers,67,10,34500.0,73.53%,1.07,0.24,0.69,0.69,75%,False,False
 227,rezq,G2 Gozen,1.54,255.25,"('Raze', 'Jett', 'Yoru')","('Duelist',)",EMEA,game-changers,17,6,35844.0,88.89%,1.54,0.18,0.89,1.0,71%,False,True
-228,dos9,Revenant Esports,1.62,248.6,"('Jett', 'Killjoy', 'Raze')","('Duelist', 'Sentinel', 'Controller')",INTL,vct-challengers,53,7,28000.0,66.67%,1.43,0.26,0.89,0.97,74%,False,True
-229,Paradox ,Revenant Esports,1.53,203.88,"('Raze', 'Sage', 'KAY/O')","('Duelist', 'Sentinel', 'Initiator', 'Controller')",INTL,vct-challengers,66,7,28000.0,61.19%,0.95,0.27,0.73,0.84,66%,False,False
-230,sarah2,G2 Gozen,1.37,184.93,"('Breach', 'Raze', 'KAY/O')","('Initiator', 'Duelist', 'Controller', 'Sentinel')",EMEA,game-changers,49,6,35844.0,56.00%,0.98,0.18,0.66,0.74,,False,False
+228,dos9,Revenant Esports,1.62,248.6,"('Jett', 'Killjoy', 'Raze')","('Duelist', 'Sentinel')",INTL,vct-challengers,53,7,28000.0,66.67%,1.43,0.26,0.89,0.97,74%,False,True
+229,Paradox ,Revenant Esports,1.53,203.88,"('Raze', 'Sage', 'KAY/O')","('Duelist', 'Sentinel')",INTL,vct-challengers,66,7,28000.0,61.19%,0.95,0.27,0.73,0.84,66%,False,False
+230,sarah2,G2 Gozen,1.37,184.93,"('Breach', 'Raze', 'KAY/O')","('Initiator', 'Duelist')",EMEA,game-changers,49,6,35844.0,56.00%,0.98,0.18,0.66,0.74,,False,False
 231,whzy,Bilibili Gaming,1.3,246.89,"('Raze', 'Jett', 'Neon')","('Duelist',)",CN,vct-international,14,5,74124.0,26.67%,1.09,0.07,0.84,1.08,,False,False
 232,srN,Legacy,1.55,280.6,"('Raze', 'Jett', 'Yoru')","('Duelist',)",BR,game-changers,34,29,20690.0,65.71%,1.23,0.21,0.96,1.16,,False,True
-233,mell1,Legacy,1.58,192.33,"('Viper', 'Sage', 'Sova')","('Controller', 'Sentinel', 'Initiator')",BR,game-changers,15,29,20690.0,56.25%,1.16,0.2,0.68,0.76,,False,False
-234,m4ndfreak,LOUD,1.87,225.92,"('Omen', 'Breach', 'KAY/O')","('Controller', 'Initiator', 'Sentinel', 'Duelist')",BR,game-changers,34,1,937507.0,54.29%,0.98,0.5,0.8,1.0,,False,False
-235,Flashback,DRX,1.47,211.43,"('Cypher', 'Killjoy', 'Viper')","('Sentinel', 'Controller', 'Initiator')",KR,vct-international,43,2,812171.0,54.55%,1.24,0.51,0.78,0.84,,False,False
+233,mell1,Legacy,1.58,192.33,"('Viper', 'Sage', 'Sova')","('Controller', 'Sentinel')",BR,game-changers,15,29,20690.0,56.25%,1.16,0.2,0.68,0.76,,False,False
+234,m4ndfreak,LOUD,1.87,225.92,"('Omen', 'Breach', 'KAY/O')","('Controller', 'Initiator')",BR,game-changers,34,1,937507.0,54.29%,0.98,0.5,0.8,1.0,,False,False
+235,Flashback,DRX,1.47,211.43,"('Cypher', 'Killjoy', 'Viper')","('Sentinel', 'Controller')",KR,vct-international,43,2,812171.0,54.55%,1.24,0.51,0.78,0.84,,False,False
 236,Clem,Chao Hui EDward Gaming,1.36,215.57,"('Killjoy', 'Cypher')","('Sentinel',)",INTL,game-changers,15,22,20484.0,56.25%,0.91,0.4,0.75,0.69,,False,False
 237,Caedye,RIDDLE ORDER,1.37,223.95,"('Raze', 'Gekko', 'Sova')","('Duelist', 'Initiator')",JP,vct-international,19,1,12920.0,75.00%,1.08,0.26,0.79,0.96,70%,False,False
 238,yatsuka,RIDDLE ORDER,1.48,191.18,"('Omen', 'Killjoy', 'Cypher')","('Controller', 'Sentinel')",JP,vct-international,19,1,12920.0,75.00%,0.89,0.37,0.67,0.64,71%,False,False
 239,G0N,FENNEL,1.62,192.83,"('Omen', 'Brimstone', 'Viper')","('Controller',)",JP,vct-challengers,54,2,42268.0,60.00%,0.91,0.22,0.68,0.76,,False,False
 240,socools0da,Team NKT,1.5,197.17,"('Sova', 'Skye', 'Fade')","('Initiator', 'Controller')",SEA,vct-challengers,38,18,35343.0,51.28%,0.75,0.26,0.7,0.79,73%,False,False
-241,Laz1,Team NKT,1.5,209.55,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller', 'Duelist')",SEA,vct-challengers,22,18,35343.0,47.83%,1.21,0.59,0.75,0.77,,False,True
-242,qq1,Team NKT,1.26,190.36,"('Jett', 'Gekko', 'Omen')","('Initiator', 'Duelist', 'Controller')",SEA,vct-challengers,22,18,35343.0,47.83%,0.89,0.09,0.66,0.74,,False,True
-243,LetPoomCook,Team NKT,1.5,201.11,"('Viper', 'Brimstone', 'Omen')","('Controller', 'Duelist', 'Initiator')",SEA,vct-challengers,22,18,35343.0,47.83%,0.66,0.59,0.71,0.84,,False,False
+241,Laz1,Team NKT,1.5,209.55,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller')",SEA,vct-challengers,22,18,35343.0,47.83%,1.21,0.59,0.75,0.77,,False,True
+242,qq1,Team NKT,1.26,190.36,"('Jett', 'Gekko', 'Omen')","('Initiator', 'Duelist')",SEA,vct-challengers,22,18,35343.0,47.83%,0.89,0.09,0.66,0.74,,False,True
+243,LetPoomCook,Team NKT,1.5,201.11,"('Viper', 'Brimstone', 'Omen')","('Controller', 'Duelist')",SEA,vct-challengers,22,18,35343.0,47.83%,0.66,0.59,0.71,0.84,,False,False
 244,P r,SHARPER ESPORT,1.48,186.89,"('Omen', 'Brimstone', 'Viper')","('Controller',)",SEA,vct-challengers,16,33,25560.0,52.94%,1.33,0.56,0.64,0.65,71%,False,False
-245,riyabtw,Oblivion Force,1.53,237.23,"('Raze', 'Jett', 'Killjoy')","('Duelist', 'Sentinel', 'Initiator')",SEA,vct-challengers,23,6,31500.0,79.17%,1.18,0.35,0.85,0.99,66%,False,True
+245,riyabtw,Oblivion Force,1.53,237.23,"('Raze', 'Jett', 'Killjoy')","('Duelist', 'Sentinel')",SEA,vct-challengers,23,6,31500.0,79.17%,1.18,0.35,0.85,0.99,66%,False,True
 246,techno2cold,TRUE RIPPERS,1.64,203.27,"('Viper', 'Omen', 'Astra')","('Controller',)",INTL,vct-challengers,59,12,48717.0,55.00%,1.07,0.37,0.72,0.76,,False,False
 247,lby,RECKONING ESPORTS,1.45,180.57,"('Sova', 'KAY/O', 'Fade')","('Initiator',)",INTL,vct-challengers,36,29,31650.0,45.95%,0.78,0.36,0.62,0.65,72%,False,False
 248,trickyzn,Revenant Esports,0.85,155.02,"('Jett', 'Raze')","('Duelist',)",INTL,vct-challengers,2,7,28000.0,66.67%,1.29,0.5,0.57,0.63,,False,True
 249,famouzin,BOOM ESPORTS,1.66,266.61,"('Raze', 'Jett')","('Duelist',)",SEA,vct-challengers,48,4,155975.0,77.55%,1.28,0.23,0.93,1.01,,False,True
-250,Valdyn1,ALTER EGO,1.6,206.03,"('Breach', 'Jett', 'KAY/O')","('Initiator', 'Duelist', 'Sentinel', 'Controller')",SEA,vct-challengers,45,14,33213.0,65.22%,1.02,0.4,0.74,0.74,,False,False
-251,Hals,REJECT,1.46,204.57,"('Cypher', 'Killjoy', 'Raze')","('Sentinel', 'Duelist', 'Controller', 'Initiator')",JP,vct-challengers,40,7,10429.0,53.66%,0.75,0.57,0.71,0.8,71%,False,False
+250,Valdyn1,ALTER EGO,1.6,206.03,"('Breach', 'Jett', 'KAY/O')","('Initiator', 'Duelist')",SEA,vct-challengers,45,14,33213.0,65.22%,1.02,0.4,0.74,0.74,,False,False
+251,Hals,REJECT,1.46,204.57,"('Cypher', 'Killjoy', 'Raze')","('Sentinel', 'Duelist')",JP,vct-challengers,40,7,10429.0,53.66%,0.75,0.57,0.71,0.8,71%,False,False
 252,Gwangboong,Sengoku Gaming,1.43,235.73,"('Raze', 'Jett', 'Yoru')","('Duelist',)",JP,vct-challengers,43,4,13670.0,52.27%,1.41,0.3,0.81,0.87,74%,False,True
 253,Kishi1,Fancy United Esports,1.4,184.22,"('Gekko', 'Killjoy', 'Breach')","('Initiator', 'Sentinel')",VN,vct-challengers,12,11,84531.0,61.54%,1.9,0.25,0.66,0.69,,False,False
 254,rich111,Legacy,1.43,185.14,"('Sova', 'Fade', 'Gekko')","('Initiator', 'Duelist')",BR,vct-challengers,29,29,20690.0,46.67%,0.86,0.34,0.64,0.64,,False,False
 255,luk xo,Galorys,1.54,212.58,"('Omen', 'Viper', 'Cypher')","('Controller', 'Sentinel')",BR,vct-challengers,56,3,31491.0,54.39%,1.04,0.39,0.74,0.8,,False,False
 256,Sato,Galorys,1.48,255.05,"('Jett', 'Raze', 'Neon')","('Duelist', 'Sentinel')",BR,vct-challengers,56,3,31491.0,54.39%,1.23,0.18,0.9,1.03,,False,True
-257,zap,2GAME eSports,1.37,185.71,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller', 'Initiator')",BR,vct-challengers,55,2,22130.0,60.71%,1.23,0.42,0.64,0.65,55%,True,False
+257,zap,2GAME eSports,1.37,185.71,"('Killjoy', 'Viper', 'Cypher')","('Sentinel', 'Controller')",BR,vct-challengers,55,2,22130.0,60.71%,1.23,0.42,0.64,0.65,55%,True,False
 258,pryze,2GAME eSports,1.51,183.22,"('Sova', 'Fade', 'Skye')","('Initiator',)",BR,vct-challengers,55,2,22130.0,60.71%,0.94,0.31,0.63,0.67,68%,False,False
-259,spike1,2GAME eSports,1.61,224.52,"('Gekko', 'Neon', 'KAY/O')","('Initiator', 'Duelist', 'Controller', 'Sentinel')",BR,vct-challengers,55,2,22130.0,60.71%,0.94,0.29,0.78,0.9,,False,False
+259,spike1,2GAME eSports,1.61,224.52,"('Gekko', 'Neon', 'KAY/O')","('Initiator', 'Duelist')",BR,vct-challengers,55,2,22130.0,60.71%,0.94,0.29,0.78,0.9,,False,False
 260,lzz,2GAME eSports,1.46,186.34,"('Omen', 'Astra', 'Viper')","('Controller', 'Initiator')",BR,vct-challengers,55,2,22130.0,60.71%,0.86,0.53,0.65,0.75,,False,False
-261,Nicksz,Stellae Gaming,1.39,175.31,"('KAY/O', 'Omen', 'Breach')","('Initiator', 'Controller', 'Sentinel')",BR,vct-challengers,59,10,8047.0,53.33%,0.78,0.2,0.59,0.63,,False,False
+261,Nicksz,Stellae Gaming,1.39,175.31,"('KAY/O', 'Omen', 'Breach')","('Initiator', 'Controller')",BR,vct-challengers,59,10,8047.0,53.33%,0.78,0.2,0.59,0.63,,False,False
 262,Palla,Stellae Gaming,1.38,266.02,"('Raze', 'Jett', 'Phoenix')","('Duelist',)",BR,vct-international,34,10,8047.0,48.57%,1.31,0.24,0.92,0.92,,False,True
 263,Siduzord,Stellae Gaming,1.56,199.61,"('Gekko', 'Sova', 'Fade')","('Initiator',)",BR,vct-challengers,59,10,8047.0,53.33%,0.98,0.32,0.7,0.73,,True,False
-264,blowz,THE 7,1.53,245.06,"('Raze', 'Gekko', 'Jett')","('Duelist', 'Initiator', 'Controller')",BR,vct-challengers,40,4,40669.0,58.54%,1.17,0.35,0.88,0.96,,False,False
+264,blowz,THE 7,1.53,245.06,"('Raze', 'Gekko', 'Jett')","('Duelist', 'Initiator')",BR,vct-challengers,40,4,40669.0,58.54%,1.17,0.35,0.88,0.96,,False,False
 265,Mephist0,Six Karma,1.36,251.25,"('Jett', 'Raze', 'Gekko')","('Duelist', 'Initiator')",LATAM,vct-challengers,39,8,6375.0,35.00%,1.15,0.18,0.85,1.01,,False,True
 266,x glyph,ILLICIT,1.65,227.84,"('Gekko', 'Fade', 'KAY/O')","('Initiator', 'Controller')",LATAM,vct-challengers,31,4,11125.0,50.00%,1.07,0.32,0.79,0.87,,False,False
 267,Dantedeu5,All Knights,1.56,250.35,"('Jett', 'Raze', 'Neon')","('Duelist', 'Initiator')",LAS,vct-challengers,59,2,45286.0,71.67%,1.41,0.19,0.87,0.96,,False,True
@@ -275,18 +275,18 @@
 273,Natasha,LOUD,1.39,192.39,"('Cypher', 'Killjoy', 'Brimstone')","('Sentinel', 'Controller')",BR,game-changers,20,1,937507.0,57.14%,1.26,0.4,0.71,0.77,,False,False
 274,ghoul33,THE 7,1.39,248.69,"('Jett', 'Iso', 'Raze')","('Duelist', 'Controller')",BR,vct-challengers,23,4,40669.0,66.67%,1.36,0.09,0.91,0.99,,False,False
 275,x jfoen,ILLICIT,1.69,174.22,"('Breach', 'Skye', 'Sova')","('Initiator',)",LATAM,vct-challengers,16,4,11125.0,47.06%,0.71,0.75,0.63,0.75,,True,False
-276,Teague,Blinn,1.74,181.78,"('KAY/O', 'Breach', 'Skye')","('Initiator', 'Duelist', 'Sentinel')",NA,vct-challengers,24,4,19325.0,52.00%,1.06,0.29,0.61,0.58,73%,False,False
+276,Teague,Blinn,1.74,181.78,"('KAY/O', 'Breach', 'Skye')","('Initiator', 'Duelist')",NA,vct-challengers,24,4,19325.0,52.00%,1.06,0.29,0.61,0.58,73%,False,False
 277,MonSi,Blinn,1.42,171.55,"('Gekko', 'Fade', 'Sova')","('Initiator', 'Controller')",NA,vct-challengers,24,4,19325.0,52.00%,0.67,0.33,0.6,0.59,71%,True,False
 278,mike3,Blinn,1.43,209.98,"('Cypher', 'Brimstone', 'Chamber')","('Sentinel', 'Controller')",NA,vct-challengers,24,4,19325.0,52.00%,1.56,0.12,0.75,0.71,,False,True
 279,spaz,Blinn,1.84,207.71,"('Omen', 'Viper')","('Controller',)",NA,vct-challengers,24,4,19325.0,52.00%,0.95,0.75,0.7,0.68,76%,False,False
 280,Aace,RIDDLE ORDER,1.62,213.38,"('Viper', 'Omen', 'Brimstone')","('Controller',)",JP,vct-challengers,19,1,12920.0,75.00%,0.93,0.37,0.78,0.74,74%,False,False
-281,ArPoom,Team NKT,1.48,205.21,"('Viper', 'Omen', 'Yoru')","('Controller', 'Duelist', 'Initiator', 'Sentinel')",SEA,vct-challengers,16,18,35343.0,52.94%,2.0,0.31,0.72,0.77,71%,False,False
-282,N0NGLAZ,Team NKT,1.51,191.97,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller', 'Initiator')",SEA,vct-challengers,16,18,35343.0,52.94%,1.14,0.81,0.7,0.77,70%,False,False
+281,ArPoom,Team NKT,1.48,205.21,"('Viper', 'Omen', 'Yoru')","('Controller', 'Duelist')",SEA,vct-challengers,16,18,35343.0,52.94%,2.0,0.31,0.72,0.77,71%,False,False
+282,N0NGLAZ,Team NKT,1.51,191.97,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller')",SEA,vct-challengers,16,18,35343.0,52.94%,1.14,0.81,0.7,0.77,70%,False,False
 283,ngk1,One Team Esports,1.46,180.21,"('Omen', 'Yoru')","('Controller', 'Duelist')",SEA,vct-challengers,9,10,34500.0,60.00%,1.06,0.33,0.66,0.76,,False,False
 284,SecreT3,One Team Esports,1.27,184.47,"('Omen', 'Sova')","('Controller', 'Initiator')",SEA,vct-challengers,10,10,34500.0,45.45%,1.12,0.5,0.67,0.69,,False,False
-285,Uta,Oblivion Force,1.77,239.81,"('Jett', 'Cypher', 'Omen')","('Duelist', 'Sentinel', 'Controller')",SEA,vct-challengers,21,6,31500.0,81.82%,1.33,0.19,0.86,0.86,70%,False,True
+285,Uta,Oblivion Force,1.77,239.81,"('Jett', 'Cypher', 'Omen')","('Duelist', 'Sentinel')",SEA,vct-challengers,21,6,31500.0,81.82%,1.33,0.19,0.86,0.86,70%,False,True
 286,Albuszin,Rapid Lofi,1.28,189.47,"('Cypher', 'Killjoy', 'Fade')","('Sentinel', 'Initiator')",VN,vct-challengers,11,24,12109.0,58.33%,1.07,0.36,0.66,0.68,,False,False
-287,Pr0digy,Rapid Lofi,1.31,209.91,"('Phoenix', 'Clove', 'Iso')","('Duelist', 'Controller', 'Sentinel')",VN,vct-challengers,12,24,12109.0,61.54%,0.79,0.42,0.73,0.81,68%,False,False
+287,Pr0digy,Rapid Lofi,1.31,209.91,"('Phoenix', 'Clove', 'Iso')","('Duelist', 'Controller')",VN,vct-challengers,12,24,12109.0,61.54%,0.79,0.42,0.73,0.81,68%,False,False
 288,twilight,Fancy United Esports,1.73,201.93,"('Cypher', 'Viper', 'Killjoy')","('Sentinel', 'Controller')",VN,vct-challengers,8,11,84531.0,66.67%,1.89,0.25,0.73,0.79,,False,False
 289,Sultan,Revenant Esports,1.78,207.5,"('Viper', 'Cypher', 'Omen')","('Controller', 'Sentinel')",INTL,vct-challengers,8,7,28000.0,77.78%,1.0,0.12,0.76,0.87,64%,False,False
 290,S1Mon,EDward Gaming,1.66,165.05,"('KAY/O', 'Breach', 'Fade')","('Initiator',)",CN,vct-international,21,1,1260689.0,63.64%,1.81,0.33,0.57,0.57,65%,False,False
