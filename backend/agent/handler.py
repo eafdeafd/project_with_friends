@@ -46,7 +46,7 @@ def lambda_handler(event, context):
             igl = ensure_list(igl)
             region = ensure_list(region)
             agent = ensure_list(agent)
-            
+
             # Convert igl to boolean list
             igl = [str(item).lower() == 'true' for item in igl]
 

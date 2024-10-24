@@ -97,10 +97,9 @@ def compress_valorant_stats(df, which=0):
         agents = re.findall(r"'([^']*)'", agent_str)
         return agents
     def parse_roles(agent_str):
-        """Parse the agents string into a list of agent names"""
-        # Extract names using regex
+        """Parse the role string into a list of the first letters of role names"""
         agents = re.findall(r"'([^']*)'", agent_str)
-        return agents
+        return [agent[0] for agent in agents]
             
     schema_str = ','.join(f"{k}:{v}" for k, v in schema.items())
     rows = []
@@ -183,7 +182,7 @@ def get_team_from_specifiers(role: list, bracket: list, igl: list, region=["all"
             curr = curr.loc[curr['region'] == region[i]]
         if agent[i] != 'all':
             curr = curr[curr['top_3_agents'].apply(lambda roles: agent[i] in roles)]
-        if agent[i] != 'all':
+        if role[i] != 'all':
             curr = curr[curr['top_roles'].apply(lambda roles: role[i] in roles)]
         
         curr = curr.drop(columns=['earnings', 'bracket', 'top_roles', ])
