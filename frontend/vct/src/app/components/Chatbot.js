@@ -65,7 +65,7 @@ export default function Chatbot({ submittedText }) {
   };
 
   const sendMessageToBackend = async (message, sessionId) => {
-    const url = new URL('http://127.0.0.1:8000/query_agent');
+    const url = new URL('http://127.0.0.1:5000/query_agent');
     url.searchParams.append('prompt', message); // Add the user message
 
     // Only add session_id if it's available
