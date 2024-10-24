@@ -4,7 +4,8 @@ from lib.bedrock import BedrockAgent
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://vct-esports-manager.vercel.app/", "https://vct-esports-manager-9lukhztz2-albertcho-utexasedus-projects.vercel.app/"]}})
+# Enable CORS for all routes
+CORS(app)
 
 # Initialize Bedrock client and agent
 bedrock_agent = BedrockAgent()
