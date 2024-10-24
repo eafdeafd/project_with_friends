@@ -453,3 +453,11 @@ body {
 .message-container {
   margin-bottom: 500px; /* Extra space to prevent overflow */
 }
+
+.icon-padding {
+  padding-right: 10px;
+}
+
+.header-centering {
+  padding-right: 5%;
+}

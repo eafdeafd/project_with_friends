@@ -5,7 +5,7 @@ import json
 
 bedrock_runtime = boto3.client(
     service_name="bedrock-runtime",
-    region_name="us-east-1",
+    region_name="eu-west-2",
 )
 
 bucket_name = "andrew-vct"
@@ -166,17 +166,16 @@ def get_team_from_specifiers(role: list, bracket: list, igl: list, region=["all"
 
     data = {}
     for i in range(5):
-
         curr = ddf.copy()
         if bracket[i] not in ["vct-challengers", "vct-international", "game-changers"]:
             raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-        if role[i] not in ['Duelist', 'Initiator', 'Controller', 'Sentinel']:
+        if role[i] != 'flex' and role[i] not in ['Duelist', 'Initiator', 'Controller', 'Sentinel']:
             raise ValueError(f"Please select a valid role from Duelist, Initiator, Controller, Sentinel")
         if region[i] != 'all' and region[i] not in ['NA', 'INTL', 'BR', 'LATAM', 'SEA', 'LAS', 'KR', 'JP', 'EMEA', 'VN', 'CN']:
             raise ValueError(f"Please select a valid role from NA, INTL, BR, LATAM, SEA, LAS, KR, JP, EMEA, VN, CN")
         if agent[i] != 'all' and agent[i] not in agents:
             raise ValueError(f"Please select a valid agent from Brimstone, Viper, Omen, Killjoy, Cypher, Sova, Sage, Phoenix, Jett, Reyna, Raze, Breach, Skye, Yoru, Astra, KAY/O, Chamber, Neon, Fade, Harbor, Gekko, Deadlock, Iso, Clove, Vyse")
-        curr = curr[curr['top_roles'].apply(lambda roles: role[i] in roles)]
+      
         curr = curr.loc[curr['bracket'] == bracket[i]]
         if igl[i]:
             curr = curr[curr['IGL']]    
@@ -184,6 +183,8 @@ def get_team_from_specifiers(role: list, bracket: list, igl: list, region=["all"
             curr = curr.loc[curr['region'] == region[i]]
         if agent[i] != 'all':
             curr = curr[curr['top_3_agents'].apply(lambda roles: agent[i] in roles)]
+        if agent[i] != 'all':
+            curr = curr[curr['top_roles'].apply(lambda roles: role[i] in roles)]
         
         curr = curr.drop(columns=['earnings', 'bracket', 'top_roles', ])
         curr['player_combat_score'] = curr['player_combat_score'].astype(int)
@@ -203,133 +204,3 @@ def query_player(player_name):
         f'query_player_{player_name}' : compress_valorant_stats(ddf, 2)
     }
     return json.dumps(data)
-'''
-
-def query_duelists(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    ddf = ddf[ddf['top_roles'].apply(lambda roles: 'Duelist' in roles)]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_initiators(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    ddf = ddf[ddf['top_roles'].apply(lambda roles: 'Initiator' in roles)]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_controllers(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    ddf = ddf[ddf['top_roles'].apply(lambda roles: 'Controller' in roles)]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_sentinels(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    ddf = ddf[ddf['top_roles'].apply(lambda roles: 'Sentinel' in roles)]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_IGL(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    ddf = ddf[ddf['IGL']]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_OPer(bracket, region="all", agent="all"):
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    
-    ddf = ddf[ddf['OPer']]
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if agent != 'all':
-        ddf = ddf[ddf['top_3_agents'].apply(lambda roles: agent in roles)]
-    ddf = ddf.loc[df['bracket'] == bracket] 
-    return ddf.to_json(orient='records')
-
-def query_aggregated_data(player_name="all", bracket=["vct-challengers", "vct-international", "game-changers"], region="all"):
-    # Argument assertions
-    filePath = "aggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-
-    ddf = df.copy()
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if player_name != 'all':
-        ddf = ddf.loc[ddf['player_name'].astype(str) == player_name]
-    ddf = ddf.loc[df['bracket'].isin(bracket)] # does not respect index order which is why is last. everything else does.
-    return ddf.to_json(orient='records')
-
-def query_unaggregated_data(player_name="all", bracket=["vct-challengers", "vct-international", "game-changers"], region="all", past_games="all", agent="all"):
-    # Argument assertions
-    filePath = "unaggregated_data.csv"
-    g = bucket.Object(filePath)
-    df = pd.read_csv(g.get()['Body'])
-
-    ddf = df.copy()
-
-    if bracket not in ["vct-challengers", "vct-international", "game-changers"]:
-        raise ValueError(f"Please select a valid bracket from vct-challengers, vct-international, game-changers")
-    if region != 'all':
-        ddf = ddf.loc[df['region'] == region]
-    if player_name != 'all':
-        ddf = ddf.loc[ddf['player_name'].astype(str) == player_name]
-    if agent != 'all':
-        ddf = ddf.loc[ddf['player_agent'] == agent]
-    if past_games != 'all':
-        ddf = ddf[-int(past_games):]
-    ddf = ddf.loc[df['bracket'].isin(bracket)] # does not respect index order which is why is last. everything else does.
-    return ddf.to_json(orient='records')
-'''
