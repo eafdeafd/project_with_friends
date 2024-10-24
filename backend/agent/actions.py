@@ -8,7 +8,7 @@ bedrock_runtime = boto3.client(
     region_name="us-east-1",
 )
 
-bucket_name = "vlr-data"
+bucket_name = "andrew-vct"
 s3_resource = boto3.resource("s3")
 bucket = s3_resource.Bucket(bucket_name)
 
@@ -153,7 +153,7 @@ def query_past_games(player_name, past_games=5, agent="all"):
     return json.dumps(data)
 # [initiator, duelist, initor, dulesit, sentile], ['vct-internaotinl, gamehcanger,s chaegamdf], []
 
-def get_players_from_specifiers(role: list, bracket: list, igl: list, region=["all","all","all","all","all"], agent=["all","all","all","all","all"]):
+def get_team_from_specifiers(role: list, bracket: list, igl: list, region=["all","all","all","all","all"], agent=["all","all","all","all","all"]):
     filePath = "aggregated_data.csv"
     g = bucket.Object(filePath)
     df = pd.read_csv(g.get()['Body'])
