@@ -3,6 +3,7 @@ from litestar.response import Stream
 from lib.bedrock import BedrockClient, BedrockAgent
 from lib.sample import stream_sample
 from litestar.serialization import encode_json
+from litestar.config.cors import CORSConfig
 
 from typing import Optional
 
@@ -10,7 +11,7 @@ def get_bedrock_client(app: Litestar) -> BedrockClient:
     app.state.bedrock_client = BedrockClient()
     return app.state.bedrock_client
 
-def get_bedrock_agent(app: Litestar) -> BedrockClient:
+def get_bedrock_agent(app: Litestar) -> BedrockAgent:
     app.state.bedrock_agent = BedrockAgent()
     return app.state.bedrock_agent
 
@@ -42,7 +43,8 @@ async def query_agent(prompt: str, session_id: Optional[str]=None) -> Stream:
 
     return Stream(stream_agent_wrapper(prompt, session_id), media_type="application/json")
 
-app = Litestar(on_startup=[get_bedrock_client, get_bedrock_agent], route_handlers=[hello_world, query_model, sample_query, query_agent])
+cors_config = CORSConfig(allow_origins=["http://localhost:3000"])
+app = Litestar(on_startup=[get_bedrock_client, get_bedrock_agent], route_handlers=[hello_world, query_model, sample_query, query_agent], cors_config=cors_config)
 
 # Query looks something like this in Python
 # def get_stream(url, prompt):
