@@ -27,6 +27,8 @@ export default function Header({ title, buttons }) {
             </nav>
             <Link
                 href="https://login.playvalorant.com/"
+                target="_blank" 
+                rel="noopener noreferrer" 
                 className="play-now-button bg-red-600 hover:bg-white hover:text-black text-white font-bold py-2 px-4 rounded transition-colors duration-200 ease-in-out"
             >
                 PLAY NOW
